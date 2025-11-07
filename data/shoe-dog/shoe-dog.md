@@ -1,29 +1,21 @@
-## Shoe Dog: A Memoir by the Creator of Nike
+## Shoe Dog: A Memoir by Phil Knight
 
-### Overview
-**Author**: [Phil Knight](https://www.goodreads.com/author/show/3319233.Phil_Knight)  
-**Publication Date**: April 24, 2016  
-**Format**: Hardcover, 400 pages  
+**Description:**
+"Shoe Dog" is a memoir by Phil Knight, the co-founder of Nike. This book takes readers on an unvarnished journey through the tumultuous early days of building a global brand from the ground up. Knight shares invaluable lessons on perseverance, risk-taking, and the challenges one faces when trying to transform a vision into reality.
 
-### Description
-"Shoe Dog" is an insightful memoir by Phil Knight, the co-founder of Nike. The book provides a detailed account of the creation and growth of one of the world's most iconic brands. Knight shares his entrepreneurial journey, highlighting the challenges and triumphs of building a startup into a global powerhouse. This memoir is a source of inspiration and practical lessons for budding entrepreneurs and business enthusiasts.
+**Features:**
+- **In-depth Personal Account:** Gain insight into the personal experiences and thoughts of Phil Knight as he navigates the complex world of business and entrepreneurship.
+- **Lessons on Perseverance:** Discover how relentless determination can lead to success, even when faced with seemingly insurmountable obstacles.
+- **Risk-Taking Insights:** Learn about the importance of taking calculated risks and how they play a crucial role in achieving business goals.
+- **Global Brand Development:** Understand the intricacies and efforts involved in growing a small business into a worldwide phenomenon.
 
-### Features
-- **Inside Look at Nike's Beginnings**: Gain a firsthand perspective on the early days of Nike, from its inception to its rise as a global brand.
-- **Entrepreneurial Insights**: Learn valuable lessons in entrepreneurship, including risk-taking, perseverance, and innovation.
-- **Personal Anecdotes**: Enjoy engaging stories and personal experiences shared by Phil Knight throughout his journey.
-- **Business Growth Strategies**: Understand the strategies employed by Knight to navigate challenges and seize opportunities in building Nike.
+**Category:**
+- Biographies
 
-### Category
-- **Biographies**
+**Tags:**
+- Perseverance
+- Risk-taking
+- Global-brand
 
-### Tags
-- **Nike**
-- **Growth**
-- **Entrepreneurship**
-
-### Source
-For more information, visit the [Goodreads page](https://www.goodreads.com/book/show/27220736-shoe-dog).
-
----
-This markdown summary provides an overview of "Shoe Dog" highlighting its main features and themes, adhering to the specified content rules.
+**Source URL:**
+- [Explore More](https://www.thomashuysmans.be/consuming-in-2018/)
