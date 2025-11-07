@@ -1,19 +1,27 @@
-# The Mom Test
+## The Mom Test
 
 ### Overview
-**The Mom Test** by Rob Fitzpatrick is a practical guide designed to help startup founders communicate effectively with customers to obtain genuine feedback. The book aims to help entrepreneurs avoid the pitfalls of misleading feedback and wasted efforts by focusing on direct and honest communication.
+**The Mom Test** by Rob Fitzpatrick is a practical guide for entrepreneurs, teaching them how to effectively conduct customer interviews to validate their business ideas. The book emphasizes the importance of asking the right questions to extract genuine and honest feedback from potential customers, steering clear of misleading affirmations.
 
 ### Features
-- **Hands-On Approach**: Offers practical advice rather than theoretical frameworks.
-- **Bias-Free Feedback**: Teaches how to obtain unbiased feedback from customers.
-- **Effective Communication**: Provides strategies for crafting emails and questions that encourage truthful responses.
-- **Sales Insights**: Helps determine if a potential customer is likely to make a purchase.
+- **Practical Advice:** Offers step-by-step instructions on how to conduct meaningful customer interviews.
+- **Focus on Questions:** Guides readers on crafting questions that elicit honest responses.
+- **Mistake Prevention:** Identifies common pitfalls in customer conversations and how to avoid them.
+- **Customer Development:** Acts as a foundational resource for entrepreneurs following the Lean Startup methodology.
+- **Real-world Examples:** Provides real-life scenarios to illustrate how customer feedback can be misinterpreted or mishandled.
 
-### Author Background
-Rob Fitzpatrick is an experienced entrepreneur with a background in both bootstrapped and VC-funded startups. His experience includes participation in YCombinator, raising funds in the US and UK, and creating globally utilized products.
+### Category
+- **Customer Feedback & Validation**
 
-### Additional Resources
-- **Online Course**: "Practical Customer Development," a course offering 1.5 hours of video content and four group workshops to enhance customer communication skills.
+### Tags
+- Customer Interviews
+- Validation
+- Feedback
+
+### Additional Information
+- **First Published:** September 10, 2013
+- **Format:** Kindle Edition
+- **Pages:** 138
 
 ### Source
-For more information, visit the official website: [The Mom Test](http://momtestbook.com/)
+[Read more on Goodreads](https://www.goodreads.com/book/show/52283963-the-mom-test)
