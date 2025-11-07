@@ -1,0 +1,19 @@
+# The Mom Test
+
+### Overview
+**The Mom Test** by Rob Fitzpatrick is a practical guide designed to help startup founders communicate effectively with customers to obtain genuine feedback. The book aims to help entrepreneurs avoid the pitfalls of misleading feedback and wasted efforts by focusing on direct and honest communication.
+
+### Features
+- **Hands-On Approach**: Offers practical advice rather than theoretical frameworks.
+- **Bias-Free Feedback**: Teaches how to obtain unbiased feedback from customers.
+- **Effective Communication**: Provides strategies for crafting emails and questions that encourage truthful responses.
+- **Sales Insights**: Helps determine if a potential customer is likely to make a purchase.
+
+### Author Background
+Rob Fitzpatrick is an experienced entrepreneur with a background in both bootstrapped and VC-funded startups. His experience includes participation in YCombinator, raising funds in the US and UK, and creating globally utilized products.
+
+### Additional Resources
+- **Online Course**: "Practical Customer Development," a course offering 1.5 hours of video content and four group workshops to enhance customer communication skills.
+
+### Source
+For more information, visit the official website: [The Mom Test](http://momtestbook.com/)
