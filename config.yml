@@ -1,0 +1,32 @@
+company_name: Acme
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2025
+metadata:
+  initial_prompt: Directory of best books for Startups Founders, e.g. "Zero to
+    One" etc, ALL MUST READ BOOKS!
+  generation_method: create-update
+  last_request_data:
+    source_urls: []
+    config:
+      max_search_queries: 10
+      max_results_per_query: 5
+      max_pages_to_process: 10
+      relevance_threshold_content: 0.5
+      min_content_length_for_extraction: 100
+      ai_first_generation_enabled: false
+      content_filtering_enabled: false
+      prompt_comparison_confidence_threshold: 0.8
+    generation_method: create-update
+    update_with_pull_request: false
+    badge_evaluation_enabled: false
+    website_repository_creation_method: create-using-template
+    name: Awesome Startup Books
+    prompt: Directory of best books for Startups Founders, e.g. "Zero to One" etc,
+      ALL MUST READ BOOKS!
+    initial_categories: []
+    priority_categories: []
+    target_keywords: []
+    repository_description: ""
