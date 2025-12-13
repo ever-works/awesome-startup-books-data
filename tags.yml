@@ -462,3 +462,13 @@
   name: operations
 - id: entrepreneurial-skills
   name: entrepreneurial-skills
+- id: community-building
+  name: community-building
+- id: personal-growth
+  name: personal-growth
+- id: self-awareness
+  name: self-awareness
+- id: risk-management
+  name: risk-management
+- id: founder-investor
+  name: founder-investor
