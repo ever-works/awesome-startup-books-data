@@ -474,3 +474,7 @@
   name: founder-investor
 - id: upbringing
   name: upbringing
+- id: diversification
+  name: diversification
+- id: business-building
+  name: business-building
