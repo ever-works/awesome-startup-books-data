@@ -1,63 +1,18 @@
 name: Venture Deals
-description: "\"Venture Deals\" by Brad Feld offers a comprehensive look at the
-  intricacies of venture capital deals. It's an essential read for entrepreneurs
-  looking to understand and negotiate term sheets effectively."
-source_url: https://venturedeals.techstars.com/collections
+description: Brad Feld and Jason Mendelson demystify the venture capital
+  process, offering insights into securing funding and negotiating deals. This
+  book is crucial for startup founders navigating the complex world of venture
+  capital.
+source_url: https://www.reddit.com/r/venturecapital/comments/1pcjexj/just_started_a_job_working_with_founders_what/
 featured: false
+brand: wiley
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wiley_logo.svg/1200px-Wiley_logo.svg.png
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg
 category: fundraising-investment
 tags:
   - venture-capital
-  - term-sheets
+  - funding
   - negotiation
-markdown: >-
-  ## Venture Deals
-
-
-  **Category:** Fundraising & Investment
-
-
-  **Overview:**
-
-
-  "Venture Deals" by Brad Feld is an insightful resource for those diving into
-  the world of venture capital. This book is tailored for entrepreneurs aiming
-  to grasp the complexities of venture capital deals and to effectively
-  negotiate term sheets. It serves as a crucial guide in understanding the
-  intricate details involved in securing startup funding.
-
-
-  **Features:**
-
-
-  - **Comprehensive Guide:** Offers an in-depth look at the nuances of venture
-  capital agreements.
-
-  - **Term Sheets:** Provides detailed explanations and insights on negotiating
-  term sheets.
-
-  - **Entrepreneurial Focus:** Tailored specifically for entrepreneurs, both
-  beginners and those with experience.
-
-
-  **Additional Resources:**
-
-
-  - **Venture Deals Fall Course 2025:** An online course designed to further
-  demystify venture capital deals and early-stage startup financing. Ideal for
-  first-time and seasoned entrepreneurs, helping them navigate the funding
-  landscape effectively.
-
-
-  **Tags:**
-
-
-  - Venture Capital
-
-  - Term Sheets
-
-  - Negotiation
-
-
-  **Learn More:** [Venture Deals
-  Collection](https://venturedeals.techstars.com/collections)
-updated_at: 2025-11-07 18:15
+markdown: ""
+updated_at: 2025-12-16 06:04
