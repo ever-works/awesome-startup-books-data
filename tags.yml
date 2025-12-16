@@ -478,3 +478,23 @@
   name: diversification
 - id: business-building
   name: business-building
+- id: legacy
+  name: legacy
+- id: value-creation
+  name: value-creation
+- id: economy
+  name: economy
+- id: tech-entrepreneurship
+  name: tech-entrepreneurship
+- id: software-development
+  name: software-development
+- id: accounting
+  name: accounting
+- id: lessons
+  name: lessons
+- id: viability
+  name: viability
+- id: transformation
+  name: transformation
+- id: business-impact
+  name: business-impact
