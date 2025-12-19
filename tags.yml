@@ -500,3 +500,27 @@
   name: business-impact
 - id: digital-revolution
   name: digital-revolution
+- id: product-positioning
+  name: product-positioning
+- id: customer-resonance
+  name: customer-resonance
+- id: customer-focus
+  name: customer-focus
+- id: sales-strategy
+  name: sales-strategy
+- id: founder-led-sales
+  name: founder-led-sales
+- id: product-led
+  name: product-led
+- id: growth-strategy
+  name: growth-strategy
+- id: frameworks
+  name: frameworks
+- id: team-management
+  name: team-management
+- id: project-boundaries
+  name: project-boundaries
+- id: customer-discovery
+  name: customer-discovery
+- id: revenue-growth
+  name: revenue-growth
