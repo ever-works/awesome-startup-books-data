@@ -524,3 +524,13 @@
   name: customer-discovery
 - id: revenue-growth
   name: revenue-growth
+- id: fear-overcoming
+  name: fear-overcoming
+- id: competitive-economy
+  name: competitive-economy
+- id: customer-feedback
+  name: customer-feedback
+- id: business-planning
+  name: business-planning
+- id: visualization
+  name: visualization
