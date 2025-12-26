@@ -534,3 +534,7 @@
   name: business-planning
 - id: visualization
   name: visualization
+- id: fiction
+  name: fiction
+- id: non-business
+  name: non-business
