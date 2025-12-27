@@ -1,0 +1,18 @@
+name: "Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger"
+description: A curated collection of speeches, talks, and commentary from
+  investor and Berkshire Hathaway vice chairman Charlie Munger. While not a
+  startup playbook, it is widely considered must-read mental-models and
+  decision-making material for founders—covering multidisciplinary thinking,
+  incentive design, rationality, and long-term value creation that underpin
+  great entrepreneurial judgment.
+source_url: https://press.stripe.com/poor-charlies-almanack
+featured: false
+brand: stripe-press
+brand_logo_url: https://stripe.press/assets/logo-stripe-press-black.png
+images:
+  - https://m.media-amazon.com/images/I/81D9R5O0i4L.jpg
+  - https://m.media-amazon.com/images/I/91IqqPiR4wL._SL1500_.jpg
+category: biographies
+tags: []
+markdown: ""
+updated_at: 2025-12-27 07:08
