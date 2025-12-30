@@ -1,0 +1,18 @@
+name: The Starfish and the Spider
+description: A book on decentralized versus centralized organizations,
+  explaining how leaderless or distributed structures can be more resilient and
+  scalable—valuable for startup founders designing modern, network-based or
+  platform businesses.
+source_url: https://www.penguinrandomhouse.com/books/290707/the-starfish-and-the-spider-by-ori-brafman-and-rod-a-beckstrom/
+featured: false
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9781591841838
+category: leadership-management
+tags:
+  - organization
+  - network-effects
+  - scaling
+markdown: ""
+updated_at: 2025-12-30 18:02
