@@ -538,3 +538,13 @@
   name: fiction
 - id: non-business
   name: non-business
+- id: design-thinking
+  name: design-thinking
+- id: platforms
+  name: platforms
+- id: career
+  name: career
+- id: business
+  name: business
+- id: science
+  name: science
