@@ -1,0 +1,18 @@
+name: Good Profit
+description: Charles G. Koch’s management and business philosophy book detailing
+  market-based management, value creation, and long-term profitable
+  growth—useful for startup founders designing scalable, principled business
+  models.
+source_url: https://www.penguinrandomhouse.com/books/245384/good-profit-by-charles-g-koch/
+featured: false
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9781101904138
+category: business-strategy
+tags:
+  - business-strategy
+  - value-creation
+  - long-term
+markdown: ""
+updated_at: 2025-12-31 19:04
