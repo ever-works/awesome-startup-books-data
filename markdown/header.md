@@ -1,4 +1,3 @@
 # Awesome Startup Books
 
-A curated list of books for Startups
-
+A curated list of books for startup founders
