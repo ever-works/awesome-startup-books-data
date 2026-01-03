@@ -548,9 +548,5 @@
   name: business
 - id: science
   name: science
-- id: planning
-  name: planning
 - id: quality
   name: quality
-- id: continuous-improvement
-  name: continuous-improvement
