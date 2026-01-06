@@ -1,0 +1,18 @@
+name: The Profit Zone
+description: A strategy book focused on understanding where and how a business
+  truly makes money, emphasizing profit models over pure revenue
+  growth—important reading for startup founders refining business models and
+  unit economics.
+source_url: https://www.penguinrandomhouse.com/books/191995/the-profit-zone-by-adrian-j-slywotzky-and-david-j-morrison-with-bob-andelman/
+featured: false
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh_logo_2019.png
+images:
+  - https://images.penguinrandomhouse.com/cover/9780812933048
+category: business-strategy
+tags:
+  - business-strategy
+  - business-model
+  - profitability
+markdown: ""
+updated_at: 2026-01-06 19:48

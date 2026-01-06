@@ -1,0 +1,17 @@
+name: Ubuntu!
+description: A leadership and culture book based on the African philosophy of
+  Ubuntu, focusing on teamwork, respect, and shared success—helpful for startup
+  founders intent on building strong, mission-driven company cultures.
+source_url: https://www.penguinrandomhouse.com/books/189109/ubuntu-by-bob-nelson-and-stephen-lundin/
+featured: false
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh_logo_2019.png
+images:
+  - https://images.penguinrandomhouse.com/cover/9780307587886
+category: leadership-management
+tags:
+  - leadership
+  - culture
+  - team-building
+markdown: ""
+updated_at: 2026-01-06 19:48
