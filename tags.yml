@@ -552,3 +552,15 @@
   name: quality
 - id: future-of-work
   name: future-of-work
+- id: partnerships
+  name: partnerships
+- id: uncertainty
+  name: uncertainty
+- id: transparency
+  name: transparency
+- id: conflict
+  name: conflict
+- id: profitability
+  name: profitability
+- id: evidence-based
+  name: evidence-based
