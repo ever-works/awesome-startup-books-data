@@ -564,3 +564,7 @@
   name: profitability
 - id: evidence-based
   name: evidence-based
+- id: go-to-market
+  name: go-to-market
+- id: customer-segmentation
+  name: customer-segmentation
