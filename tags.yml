@@ -568,3 +568,9 @@
   name: go-to-market
 - id: customer-segmentation
   name: customer-segmentation
+- id: pitching
+  name: pitching
+- id: personal-finance
+  name: personal-finance
+- id: experimentation
+  name: experimentation
