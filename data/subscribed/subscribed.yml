@@ -1,0 +1,21 @@
+name: Subscribed
+description: "Subscribed: Why the Subscription Model Will Be Your Company’s
+  Future - and What to Do About It by Tien Tzuo is a business book that explains
+  how to build and grow subscription-based companies, covering recurring
+  revenue, customer lifetime value, and business model transformation—highly
+  relevant for startup founders designing scalable SaaS and subscription
+  startups."
+source_url: https://www.penguinrandomhouse.com/books/560592/subscribed-by-tien-tzuo-with-gabe-weiss/
+featured: false
+brand: penguin-random-house
+brand_logo_url: https://images.randomhouse.com/logo.jpg
+images:
+  - https://images.randomhouse.com/cover/560592/9780525536464
+  - https://images.randomhouse.com/cover/560592/9781524762105
+category: business-strategy
+tags:
+  - business-model
+  - saas
+  - recurring-revenue
+markdown: ""
+updated_at: 2026-01-11 19:38

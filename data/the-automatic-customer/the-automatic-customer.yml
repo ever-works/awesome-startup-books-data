@@ -1,0 +1,18 @@
+name: The Automatic Customer
+description: A business book by John Warrillow that explains how to build
+  recurring-revenue and subscription-based business models, making it highly
+  relevant for startup founders designing scalable, predictable revenue streams.
+source_url: https://www.penguinrandomhouse.com/books/238531/the-automatic-customer-by-john-warrillow/
+featured: false
+brand: penguin-random-house
+brand_logo_url: https://images.penguinrandomhouse.com/logo-prh.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9781591847465
+  - https://images.penguinrandomhouse.com/cover/700jpg/9781591847465
+category: business-strategy
+tags:
+  - business-model
+  - saas
+  - scalability
+markdown: ""
+updated_at: 2026-01-11 19:38
