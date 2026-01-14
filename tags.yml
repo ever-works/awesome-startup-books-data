@@ -576,3 +576,7 @@
   name: experimentation
 - id: recurring-revenue
   name: recurring-revenue
+- id: uncertain-relevance
+  name: uncertain-relevance
+- id: work-habits
+  name: work-habits
