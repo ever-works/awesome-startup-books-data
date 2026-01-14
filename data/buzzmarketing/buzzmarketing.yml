@@ -1,0 +1,17 @@
+name: Buzzmarketing
+description: Marketing book about generating word-of-mouth and viral attention
+  for products and brands, relevant to startup founders looking for scrappy,
+  high-impact marketing tactics on limited budgets.
+source_url: https://www.penguinrandomhouse.com/books/202286/buzzmarketing-by-mark-hughes/
+featured: false
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9781591842132
+category: marketing-sales
+tags:
+  - word-of-mouth
+  - growth-hacking
+  - marketing
+markdown: ""
+updated_at: 2026-01-14 20:14
