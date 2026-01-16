@@ -580,3 +580,7 @@
   name: uncertain-relevance
 - id: work-habits
   name: work-habits
+- id: governance
+  name: governance
+- id: stakeholders
+  name: stakeholders
