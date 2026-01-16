@@ -1,0 +1,21 @@
+name: "Core Curriculum Reading: Experimenting in the Entrepreneurial Venture"
+description: A Harvard Business School core reading (by Thomas R. Eisenmann,
+  Eric Ries, and Sarah Dillard) that introduces hypothesis-driven
+  entrepreneurship and lean startup experimentation. It teaches founders how to
+  translate vision into testable business model hypotheses, design experiments,
+  and use data to iterate toward product–market fit—making it a must-read
+  foundational text for startup founders.
+source_url: https://hbsp.harvard.edu/product/8077-PDF-ENG
+featured: false
+brand: harvard-business-publishing
+brand_logo_url: https://assets.hbr.org/assets/hbr-logo-1200x630.png
+images:
+  - https://cb.hbsp.harvard.edu/resources/assets/img/hbs-case-card-placeholder.png
+  - https://hbsp.harvard.edu/resources/assets/img/harvard-business-publishing@2x.png
+category: startup-methodologies
+tags:
+  - lean
+  - experimentation
+  - customer-discovery
+markdown: ""
+updated_at: 2026-01-16 20:08
