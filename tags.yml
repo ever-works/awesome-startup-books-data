@@ -584,3 +584,7 @@
   name: governance
 - id: stakeholders
   name: stakeholders
+- id: history
+  name: history
+- id: climate
+  name: climate
