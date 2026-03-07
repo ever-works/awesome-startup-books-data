@@ -30,3 +30,10 @@ metadata:
     priority_categories: []
     target_keywords: []
     repository_description: ""
+    providers:
+      pipeline: claude-code
+    pluginConfig:
+      target_items: 50
+      capture_screenshots: false
+    _processedPluginConfig: {}
+version: 0.1.0
