@@ -33,7 +33,7 @@
 - id: legal-advice
   name: legal-advice
 - id: success
-  name: success
+  name: Success
 - id: creativity
   name: Creativity
 - id: motivation
@@ -51,7 +51,7 @@
 - id: analytics
   name: analytics
 - id: data-driven
-  name: data-driven
+  name: Data Driven
 - id: decision-making
   name: Decision Making
 - id: customer-service
@@ -71,7 +71,7 @@
 - id: execution
   name: Execution
 - id: legal
-  name: legal
+  name: Legal
 - id: goals
   name: goals
 - id: action
@@ -135,13 +135,13 @@
 - id: mindset
   name: mindset
 - id: pricing
-  name: pricing
+  name: Pricing
 - id: market-share
   name: market-share
 - id: equity
-  name: equity
+  name: Equity
 - id: hiring
-  name: hiring
+  name: Hiring
 - id: pitfalls
   name: pitfalls
 - id: market-spaces
@@ -159,7 +159,7 @@
 - id: pretotyping
   name: pretotyping
 - id: validation
-  name: validation
+  name: Validation
 - id: amazon
   name: Amazon
 - id: framework
@@ -193,13 +193,13 @@
 - id: rapid-growth
   name: rapid-growth
 - id: market-dominance
-  name: market-dominance
+  name: Market Dominance
 - id: difficult-decisions
   name: difficult-decisions
 - id: business-ownership
   name: business-ownership
 - id: customer-interviews
-  name: customer-interviews
+  name: Customer Interviews
 - id: high-tech
   name: high-tech
 - id: lifestyle
@@ -207,7 +207,7 @@
 - id: outsourcing
   name: outsourcing
 - id: skills
-  name: skills
+  name: Skills
 - id: disruptive-technologies
   name: disruptive-technologies
 - id: empowerment
@@ -217,9 +217,9 @@
 - id: team-growth
   name: team-growth
 - id: small-business
-  name: small-business
+  name: Small Business
 - id: systems
-  name: systems
+  name: Systems
 - id: thriving
   name: thriving
 - id: habits
@@ -229,9 +229,9 @@
 - id: nike
   name: Nike
 - id: technology
-  name: technology
+  name: Technology
 - id: time-management
-  name: time-management
+  name: Time Management
 - id: funding
   name: funding
 - id: product-market-fit
@@ -257,7 +257,7 @@
 - id: value-proposition
   name: value-proposition
 - id: design
-  name: design
+  name: Design
 - id: branding
   name: Branding
 - id: identity
@@ -273,11 +273,11 @@
 - id: growth-hacking
   name: growth-hacking
 - id: scaling
-  name: scaling
+  name: Scaling
 - id: inspiration
   name: inspiration
 - id: saas
-  name: SaaS
+  name: Saas
 - id: relationships
   name: Relationships
 - id: confidence
@@ -313,7 +313,7 @@
 - id: developers
   name: developers
 - id: networking
-  name: networking
+  name: Networking
 - id: support
   name: support
 - id: product-development
@@ -413,7 +413,7 @@
 - id: diversity
   name: diversity
 - id: differentiation
-  name: differentiation
+  name: Differentiation
 - id: mentorship
   name: mentorship
 - id: social-intelligence
@@ -427,7 +427,7 @@
 - id: habit-forming
   name: habit-forming
 - id: product-design
-  name: product-design
+  name: Product Design
 - id: company-culture
   name: Company Culture
 - id: happiness
@@ -445,7 +445,7 @@
 - id: lead-generation
   name: lead-generation
 - id: b2b
-  name: B2B
+  name: B2b
 - id: work-life-balance
   name: work-life-balance
 - id: customer-engagement
@@ -459,7 +459,7 @@
 - id: automation
   name: automation
 - id: operations
-  name: operations
+  name: Operations
 - id: entrepreneurial-skills
   name: entrepreneurial-skills
 - id: community-building
@@ -543,7 +543,7 @@
 - id: platforms
   name: platforms
 - id: career
-  name: career
+  name: Career
 - id: business
   name: business
 - id: science
@@ -553,11 +553,11 @@
 - id: future-of-work
   name: future-of-work
 - id: partnerships
-  name: partnerships
+  name: Partnerships
 - id: uncertainty
   name: Uncertainty
 - id: transparency
-  name: transparency
+  name: Transparency
 - id: conflict
   name: conflict
 - id: profitability
@@ -585,7 +585,7 @@
 - id: stakeholders
   name: stakeholders
 - id: history
-  name: history
+  name: History
 - id: climate
   name: climate
 - id: lifestyle-business
@@ -684,3 +684,109 @@
   name: Hr Practices
 - id: talent-management
   name: Talent Management
+- id: offers
+  name: Offers
+- id: conversion
+  name: Conversion
+- id: user-success
+  name: User Success
+- id: retention
+  name: Retention
+- id: jobs-to-be-done
+  name: Jobs To Be Done
+- id: customer-research
+  name: Customer Research
+- id: interviews
+  name: Interviews
+- id: buying-process
+  name: Buying Process
+- id: usability
+  name: Usability
+- id: web-design
+  name: Web Design
+- id: user-experience
+  name: User Experience
+- id: exponential-growth
+  name: Exponential Growth
+- id: co-founders
+  name: Co Founders
+- id: decisions
+  name: Decisions
+- id: founder-mentality
+  name: Founder Mentality
+- id: growth-crisis
+  name: Growth Crisis
+- id: philosophy
+  name: Philosophy
+- id: programming
+  name: Programming
+- id: essays
+  name: Essays
+- id: okr
+  name: Okr
+- id: customer-centric
+  name: Customer Centric
+- id: jtbd
+  name: Jtbd
+- id: customer-development
+  name: Customer Development
+- id: honest
+  name: Honest
+- id: startup-reality
+  name: Startup Reality
+- id: monetization
+  name: Monetization
+- id: product-strategy
+  name: Product Strategy
+- id: connections
+  name: Connections
+- id: prospecting
+  name: Prospecting
+- id: positioning
+  name: Positioning
+- id: software-teams
+  name: Software Teams
+- id: category-design
+  name: Category Design
+- id: big-picture-thinking
+  name: Big Picture Thinking
+- id: mastery
+  name: Mastery
+- id: lean-startup
+  name: Lean Startup
+- id: organizational-health
+  name: Organizational Health
+- id: employment
+  name: Employment
+- id: onboarding
+  name: Onboarding
+- id: transitions
+  name: Transitions
+- id: software-engineering
+  name: Software Engineering
+- id: project-management
+  name: Project Management
+- id: technical-leadership
+  name: Technical Leadership
+- id: experience-design
+  name: Experience Design
+- id: memorable
+  name: Memorable
+- id: sales-leadership
+  name: Sales Leadership
+- id: enterprise-sales
+  name: Enterprise Sales
+- id: eos
+  name: Eos
+- id: operating-system
+  name: Operating System
+- id: business-management
+  name: Business Management
+- id: coaching
+  name: Coaching
+- id: agile
+  name: Agile
+- id: recruiting
+  name: Recruiting
+- id: acquisition
+  name: Acquisition
