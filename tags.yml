@@ -317,7 +317,7 @@
 - id: support
   name: support
 - id: product-development
-  name: product-development
+  name: Product Development
 - id: burnout
   name: burnout
 - id: freedom
@@ -329,7 +329,7 @@
 - id: term-sheets
   name: term-sheets
 - id: negotiation
-  name: negotiation
+  name: Negotiation
 - id: customer-acquisition
   name: Customer Acquisition
 - id: simplicity
@@ -515,7 +515,7 @@
 - id: growth-strategy
   name: growth-strategy
 - id: frameworks
-  name: frameworks
+  name: Frameworks
 - id: team-management
   name: team-management
 - id: project-boundaries
@@ -790,3 +790,23 @@
   name: Recruiting
 - id: acquisition
   name: Acquisition
+- id: complexity
+  name: Complexity
+- id: conflict-resolution
+  name: Conflict Resolution
+- id: strategic-thinking
+  name: Strategic Thinking
+- id: crisis-management
+  name: Crisis Management
+- id: competitive-strategy
+  name: Competitive Strategy
+- id: business-ethics
+  name: Business Ethics
+- id: change-management
+  name: Change Management
+- id: organizational-culture
+  name: Organizational Culture
+- id: research
+  name: Research
+- id: technology-history
+  name: Technology History
