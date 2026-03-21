@@ -15,7 +15,7 @@
 - id: management
   name: Management
 - id: business-strategy
-  name: business-strategy
+  name: Business Strategy
 - id: guide
   name: guide
 - id: fundraising
@@ -55,11 +55,11 @@
 - id: decision-making
   name: Decision Making
 - id: customer-service
-  name: customer-service
+  name: Customer Service
 - id: hospitality
-  name: hospitality
+  name: Hospitality
 - id: experience
-  name: experience
+  name: Experience
 - id: startup-life
   name: startup-life
 - id: insights
@@ -103,7 +103,7 @@
 - id: misconceptions
   name: misconceptions
 - id: startup
-  name: startup
+  name: Startup
 - id: customer-needs
   name: customer-needs
 - id: iteration
@@ -155,7 +155,7 @@
 - id: ai
   name: AI
 - id: digital-age
-  name: digital-age
+  name: Digital Age
 - id: pretotyping
   name: pretotyping
 - id: validation
@@ -339,13 +339,13 @@
 - id: creative-thinking
   name: creative-thinking
 - id: startup-success
-  name: startup-success
+  name: Startup Success
 - id: idea-validation
   name: idea-validation
 - id: perseverance
   name: Perseverance
 - id: visionary-leadership
-  name: visionary-leadership
+  name: Visionary Leadership
 - id: endurance
   name: endurance
 - id: trust
@@ -431,7 +431,7 @@
 - id: company-culture
   name: Company Culture
 - id: happiness
-  name: happiness
+  name: Happiness
 - id: customer-satisfaction
   name: customer-satisfaction
 - id: idea-propagation
@@ -447,7 +447,7 @@
 - id: b2b
   name: B2b
 - id: work-life-balance
-  name: work-life-balance
+  name: Work Life Balance
 - id: customer-engagement
   name: customer-engagement
 - id: failure
@@ -465,7 +465,7 @@
 - id: community-building
   name: Community Building
 - id: personal-growth
-  name: personal-growth
+  name: Personal Growth
 - id: self-awareness
   name: Self Awareness
 - id: risk-management
@@ -551,7 +551,7 @@
 - id: quality
   name: quality
 - id: future-of-work
-  name: future-of-work
+  name: Future Of Work
 - id: partnerships
   name: Partnerships
 - id: uncertainty
@@ -810,3 +810,13 @@
   name: Research
 - id: technology-history
   name: Technology History
+- id: commitment
+  name: Commitment
+- id: timeless
+  name: Timeless
+- id: deep-work
+  name: Deep Work
+- id: disney
+  name: Disney
+- id: ma
+  name: M&A
