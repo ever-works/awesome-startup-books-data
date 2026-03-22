@@ -1,106 +1,78 @@
-name: Business Model Generation
-description: Foundational startup book that introduces the Business Model
-  Canvas, giving founders a practical visual toolkit to design, test, and
-  iterate innovative business models and value propositions.
-source_url: https://elevateventures.com/resource/books-for-startups/
-featured: false
-brand: wiley
-brand_logo_url: https://www.wiley.com/themes/custom/wiley_core/logo.svg
-images:
-  - https://m.media-amazon.com/images/I/81nNexTnBeL.jpg
-  - https://m.media-amazon.com/images/I/71Swp5ZQvML.jpg
-category: startup-methodologies
+name: "Business Model Generation: A Handbook for Visionaries, Game Changers, and
+  Challengers"
+description: Alexander Osterwalder's visual guide to designing innovative
+  business models using the Business Model Canvas, co-created by 470
+  practitioners from 45 countries.
+source_url: https://www.strategyzer.com/books/business-model-generation
+category: Business Strategy
 tags:
   - business-model
-  - frameworks
-  - design-thinking
+  - innovation
+  - canvas
+featured: true
 markdown: >-
-  ## Business Model Generation
+  ## Overview
 
 
-  **Category:** Startup Methodologies  
-
-  **Brand/Publisher:** Wiley  
-
-  **Format:** Book  
-
-  **Slug:** `business-model-generation`
+  Business Model Generation is a handbook for visionaries, game changers, and
+  challengers striving to defy outmoded business models and design tomorrow's
+  enterprises.
 
 
-  ![Business Model Generation
-  Cover](https://m.media-amazon.com/images/I/81nNexTnBeL.jpg)
+  ## The Business Model Canvas
 
 
-  ### Overview
-
-  “Business Model Generation” by Alexander Osterwalder introduces the Business
-  Model Canvas, a visual, practical toolkit for designing, testing, and
-  iterating startup and corporate business models. It helps founders clearly
-  articulate how their venture creates, delivers, and captures value.
+  The book introduces the Business Model Canvas, a one-page tool with nine
+  building blocks:
 
 
-  ### Key Details
+  1. **Customer Segments**: Who are you serving?
 
-  - **Primary focus:** Business model design and innovation
+  2. **Value Propositions**: What problems are you solving?
 
-  - **Core tool:** Business Model Canvas
+  3. **Channels**: How do you reach customers?
 
-  - **Use cases:** Early-stage startups, innovation teams in larger companies,
-  accelerators, and entrepreneurship programs
+  4. **Customer Relationships**: How do you interact with customers?
 
-  - **Position in entrepreneurial stack:** Foundational text for answering
-  “What’s your business model?” with structure and precision
+  5. **Revenue Streams**: How do you make money?
 
+  6. **Key Resources**: What assets do you need?
 
-  ### Features
+  7. **Key Activities**: What must you do?
 
-  - **Business Model Canvas framework**  
-    - Nine building blocks: customers, value propositions, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure  
-    - Shared visual language to discuss and iterate business models within a team  
-    - Useful for both new ventures and existing businesses revisiting their models
+  8. **Key Partnerships**: Who helps you?
 
-  - **Model design and innovation techniques**  
-    - Guidance on generating alternative business model ideas  
-    - Tools for comparing and refining different models  
-    - Emphasis on experimentation rather than static planning
-
-  - **Customer and value-focus**  
-    - Helps founders move from product-centric to business-model-centric thinking  
-    - Clarifies how value is created for specific customer segments  
-    - Connects revenue logic to customer needs and behaviors
-
-  - **Iteration and testing mindset**  
-    - Encourages continuous refinement of the business model based on market feedback  
-    - Complements customer discovery, Lean Startup, and agile development practices  
-    - Serves as a foundation before and during product/market fit work (further expanded in “Value Proposition Design”)
-
-  - **Team collaboration tool**  
-    - Enables cross-functional teams to work from a shared canvas  
-    - Suitable for workshops, whiteboard sessions, and investor discussions  
-    - Helps communicate the business model quickly and coherently to stakeholders
-
-  ### Pricing
-
-  Pricing details are not provided in the source content. Refer to the publisher
-  or bookseller (e.g., Amazon or Wiley) for current pricing and formats.
+  9. **Cost Structure**: What does it cost?
 
 
-  ### Tags
-
-  - `business-model`  
-
-  - `frameworks`  
-
-  - `design-thinking`
+  ## Visual Approach
 
 
-  ### External Links
+  The book uses visual thinking and design to help entrepreneurs map, discuss,
+  design, and invent new business models.
 
-  - **Source listing:**
-  https://elevateventures.com/resource/books-for-startups/  
 
-  - **Publisher:** https://www.wiley.com  
+  ## Applications
 
-  - **Recommended by Elevate Ventures within:** "Books for Startups"
-  entrepreneurial management stack resource.
-updated_at: 2026-01-10 19:39
+
+  - Designing new business models
+
+  - Analyzing existing models
+
+  - Pivoting strategies
+
+  - Communicating business plans
+
+
+  ## Impact
+
+
+  The Business Model Canvas has become a standard tool used by millions of
+  entrepreneurs and companies worldwide.
+
+
+  ## Pricing
+
+
+  Available for approximately $25-40.
+updated_at: 2026-03-22 19:54
