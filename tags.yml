@@ -41,7 +41,7 @@
 - id: self-doubt
   name: self-doubt
 - id: expertise
-  name: expertise
+  name: Expertise
 - id: marketing
   name: Marketing
 - id: strategy
@@ -49,7 +49,7 @@
 - id: global
   name: global
 - id: analytics
-  name: analytics
+  name: Analytics
 - id: data-driven
   name: Data Driven
 - id: decision-making
@@ -87,7 +87,7 @@
 - id: challenges
   name: challenges
 - id: founders
-  name: founders
+  name: Founders
 - id: strategies
   name: strategies
 - id: values
@@ -105,13 +105,13 @@
 - id: startup
   name: Startup
 - id: customer-needs
-  name: customer-needs
+  name: Customer Needs
 - id: iteration
   name: iteration
 - id: development
   name: development
 - id: business-model
-  name: business-model
+  name: Business Model
 - id: social-impact
   name: social-impact
 - id: women
@@ -249,13 +249,13 @@
 - id: intrinsic
   name: intrinsic
 - id: ideation
-  name: ideation
+  name: Ideation
 - id: prototyping
-  name: prototyping
+  name: Prototyping
 - id: software
   name: software
 - id: value-proposition
-  name: value-proposition
+  name: Value Proposition
 - id: design
   name: Design
 - id: branding
@@ -271,7 +271,7 @@
 - id: problem-solving
   name: Problem Solving
 - id: growth-hacking
-  name: growth-hacking
+  name: Growth Hacking
 - id: scaling
   name: Scaling
 - id: inspiration
@@ -295,11 +295,11 @@
 - id: work
   name: work
 - id: canvas
-  name: canvas
+  name: Canvas
 - id: sustainability
   name: sustainability
 - id: exit-strategy
-  name: exit-strategy
+  name: Exit Strategy
 - id: dot-com
   name: dot-com
 - id: personal-journey
@@ -395,7 +395,7 @@
 - id: online-business
   name: online-business
 - id: traction
-  name: traction
+  name: Traction
 - id: emotional-intelligence
   name: emotional-intelligence
 - id: collaboration
@@ -407,7 +407,7 @@
 - id: virtual-teams
   name: virtual-teams
 - id: remote-work
-  name: remote-work
+  name: Remote Work
 - id: ambition
   name: Ambition
 - id: diversity
@@ -499,7 +499,7 @@
 - id: business-impact
   name: business-impact
 - id: digital-revolution
-  name: digital-revolution
+  name: Digital Revolution
 - id: product-positioning
   name: product-positioning
 - id: customer-resonance
@@ -575,7 +575,7 @@
 - id: experimentation
   name: experimentation
 - id: recurring-revenue
-  name: recurring-revenue
+  name: Recurring Revenue
 - id: uncertain-relevance
   name: uncertain-relevance
 - id: work-habits
@@ -820,3 +820,77 @@
   name: Disney
 - id: ma
   name: M&A
+- id: social-influence
+  name: Social Influence
+- id: apple
+  name: Apple
+- id: product-adoption
+  name: Product Adoption
+- id: technology-marketing
+  name: Technology Marketing
+- id: priorities
+  name: Priorities
+- id: gtd
+  name: Gtd
+- id: tough-decisions
+  name: Tough Decisions
+- id: mvp
+  name: Mvp
+- id: messaging
+  name: Messaging
+- id: maker-movement
+  name: Maker Movement
+- id: manufacturing
+  name: Manufacturing
+- id: measurement
+  name: Measurement
+- id: growth-mindset
+  name: Growth Mindset
+- id: instagram
+  name: Instagram
+- id: startup-story
+  name: Startup Story
+- id: opportunity
+  name: Opportunity
+- id: practice
+  name: Practice
+- id: generalists
+  name: Generalists
+- id: distributed-teams
+  name: Distributed Teams
+- id: strategic-planning
+  name: Strategic Planning
+- id: design-sprint
+  name: Design Sprint
+- id: subscription-economy
+  name: Subscription Economy
+- id: data-analysis
+  name: Data Analysis
+- id: unicorns
+  name: Unicorns
+- id: startups
+  name: Startups
+- id: launching
+  name: Launching
+- id: long-term-thinking
+  name: Long Term Thinking
+- id: behavioral-change
+  name: Behavioral Change
+- id: corporate
+  name: Corporate
+- id: viral-growth
+  name: Viral Growth
+- id: social-epidemics
+  name: Social Epidemics
+- id: trends
+  name: Trends
+- id: marketing-channels
+  name: Marketing Channels
+- id: customer-fit
+  name: Customer Fit
+- id: adaptation
+  name: Adaptation
+- id: business-fable
+  name: Business Fable
+- id: devops
+  name: Devops
