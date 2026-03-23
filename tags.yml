@@ -275,7 +275,7 @@
 - id: scaling
   name: Scaling
 - id: inspiration
-  name: inspiration
+  name: Inspiration
 - id: saas
   name: Saas
 - id: relationships
@@ -894,3 +894,13 @@
   name: Business Fable
 - id: devops
   name: Devops
+- id: life-balance
+  name: Life Balance
+- id: financial-planning
+  name: Financial Planning
+- id: experiences
+  name: Experiences
+- id: success-stories
+  name: Success Stories
+- id: self-improvement
+  name: Self Improvement
