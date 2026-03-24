@@ -19,7 +19,7 @@
 - id: guide
   name: guide
 - id: fundraising
-  name: fundraising
+  name: Fundraising
 - id: investment
   name: investment
 - id: capital
@@ -133,7 +133,7 @@
 - id: wealth
   name: wealth
 - id: mindset
-  name: mindset
+  name: Mindset
 - id: pricing
   name: Pricing
 - id: market-share
@@ -235,7 +235,7 @@
 - id: funding
   name: funding
 - id: product-market-fit
-  name: product-market-fit
+  name: Product Market Fit
 - id: market
   name: market
 - id: social-media
@@ -423,7 +423,7 @@
 - id: personal-brand
   name: Personal Brand
 - id: user-engagement
-  name: user-engagement
+  name: User Engagement
 - id: habit-forming
   name: habit-forming
 - id: product-design
@@ -561,15 +561,15 @@
 - id: conflict
   name: conflict
 - id: profitability
-  name: profitability
+  name: Profitability
 - id: evidence-based
   name: evidence-based
 - id: go-to-market
-  name: go-to-market
+  name: Go To Market
 - id: customer-segmentation
   name: customer-segmentation
 - id: pitching
-  name: pitching
+  name: Pitching
 - id: personal-finance
   name: personal-finance
 - id: experimentation
@@ -904,3 +904,29 @@
   name: Success Stories
 - id: self-improvement
   name: Self Improvement
+- id: moats
+  name: Moats
+- id: customer-validation
+  name: Customer Validation
+- id: experiments
+  name: Experiments
+- id: behavioral-psychology
+  name: Behavioral Psychology
+- id: tech-products
+  name: Tech Products
+- id: product-marketing
+  name: Product Marketing
+- id: cash-management
+  name: Cash Management
+- id: financial-management
+  name: Financial Management
+- id: metrics
+  name: Metrics
+- id: success-principles
+  name: Success Principles
+- id: wealth-building
+  name: Wealth Building
+- id: organizational-transformation
+  name: Organizational Transformation
+- id: product-operating-model
+  name: Product Operating Model
