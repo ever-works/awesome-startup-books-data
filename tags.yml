@@ -443,7 +443,7 @@
 - id: sales
   name: Sales
 - id: lead-generation
-  name: lead-generation
+  name: Lead Generation
 - id: b2b
   name: B2b
 - id: work-life-balance
@@ -487,7 +487,7 @@
 - id: tech-entrepreneurship
   name: tech-entrepreneurship
 - id: software-development
-  name: software-development
+  name: Software Development
 - id: accounting
   name: accounting
 - id: lessons
@@ -930,3 +930,29 @@
   name: Organizational Transformation
 - id: product-operating-model
   name: Product Operating Model
+- id: engineering-management
+  name: Engineering Management
+- id: systems-thinking
+  name: Systems Thinking
+- id: thinking
+  name: Thinking
+- id: product-discovery
+  name: Product Discovery
+- id: team-empowerment
+  name: Team Empowerment
+- id: professional-services
+  name: Professional Services
+- id: rapid-prototyping
+  name: Rapid Prototyping
+- id: engineering-leadership
+  name: Engineering Leadership
+- id: cross-cultural
+  name: Cross Cultural
+- id: international-business
+  name: International Business
+- id: economics
+  name: Economics
+- id: open-source
+  name: Open Source
+- id: creator-economy
+  name: Creator Economy
