@@ -1,5 +1,5 @@
 - id: lean
-  name: lean
+  name: Lean
 - id: entrepreneurship
   name: Entrepreneurship
 - id: innovation
@@ -7,7 +7,7 @@
 - id: bootstrapping
   name: Bootstrapping
 - id: minimal-investment
-  name: minimal-investment
+  name: Minimal Investment
 - id: ceo
   name: CEO
 - id: leadership
@@ -17,11 +17,11 @@
 - id: business-strategy
   name: Business Strategy
 - id: guide
-  name: guide
+  name: Guide
 - id: fundraising
   name: Fundraising
 - id: investment
-  name: investment
+  name: Investment
 - id: capital
   name: capital
 - id: network-effects
@@ -31,7 +31,7 @@
 - id: growth
   name: Growth
 - id: legal-advice
-  name: legal-advice
+  name: Legal Advice
 - id: success
   name: Success
 - id: creativity
@@ -39,7 +39,7 @@
 - id: motivation
   name: Motivation
 - id: self-doubt
-  name: self-doubt
+  name: Self Doubt
 - id: expertise
   name: Expertise
 - id: marketing
@@ -47,7 +47,7 @@
 - id: strategy
   name: Strategy
 - id: global
-  name: global
+  name: Global
 - id: analytics
   name: Analytics
 - id: data-driven
@@ -61,35 +61,35 @@
 - id: experience
   name: Experience
 - id: startup-life
-  name: startup-life
+  name: Startup Life
 - id: insights
-  name: insights
+  name: Insights
 - id: disruption
   name: Disruption
 - id: impact
-  name: impact
+  name: Impact
 - id: execution
   name: Execution
 - id: legal
   name: Legal
 - id: goals
-  name: goals
+  name: Goals
 - id: action
   name: Action
 - id: communication
   name: Communication
 - id: feedback
-  name: feedback
+  name: Feedback
 - id: customer
-  name: customer
+  name: Customer
 - id: crowdfunding
   name: crowdfunding
 - id: challenges
-  name: challenges
+  name: Challenges
 - id: founders
   name: Founders
 - id: strategies
-  name: strategies
+  name: Strategies
 - id: values
   name: Values
 - id: principles
@@ -97,7 +97,7 @@
 - id: organization
   name: organization
 - id: efficiency
-  name: efficiency
+  name: Efficiency
 - id: systematic
   name: systematic
 - id: misconceptions
@@ -107,17 +107,17 @@
 - id: customer-needs
   name: Customer Needs
 - id: iteration
-  name: iteration
+  name: Iteration
 - id: development
-  name: development
+  name: Development
 - id: business-model
   name: Business Model
 - id: social-impact
-  name: social-impact
+  name: Social Impact
 - id: women
-  name: women
+  name: Women
 - id: visionary
-  name: visionary
+  name: Visionary
 - id: word-of-mouth
   name: Word Of Mouth
 - id: productivity
@@ -125,25 +125,25 @@
 - id: pareto-principle
   name: pareto-principle
 - id: launch
-  name: launch
+  name: Launch
 - id: teamwork
   name: teamwork
 - id: performance
   name: Performance
 - id: wealth
-  name: wealth
+  name: Wealth
 - id: mindset
   name: Mindset
 - id: pricing
   name: Pricing
 - id: market-share
-  name: market-share
+  name: Market Share
 - id: equity
   name: Equity
 - id: hiring
   name: Hiring
 - id: pitfalls
-  name: pitfalls
+  name: Pitfalls
 - id: market-spaces
   name: market-spaces
 - id: mainstream
@@ -151,9 +151,9 @@
 - id: transition
   name: transition
 - id: long-term
-  name: long-term
+  name: Long Term
 - id: ai
-  name: AI
+  name: Ai
 - id: digital-age
   name: Digital Age
 - id: pretotyping
@@ -163,15 +163,15 @@
 - id: amazon
   name: Amazon
 - id: framework
-  name: framework
+  name: Framework
 - id: culture
   name: Culture
 - id: flexibility
-  name: flexibility
+  name: Flexibility
 - id: venture-capital
-  name: venture-capital
+  name: Venture Capital
 - id: ecosystem
-  name: ecosystem
+  name: Ecosystem
 - id: expectations
   name: expectations
 - id: ceos
@@ -181,9 +181,9 @@
 - id: pixar
   name: Pixar
 - id: design-sprints
-  name: design-sprints
+  name: Design Sprints
 - id: market-dynamics
-  name: market-dynamics
+  name: Market Dynamics
 - id: consumer-behavior
   name: consumer-behavior
 - id: change
@@ -191,21 +191,21 @@
 - id: intangible-assets
   name: intangible-assets
 - id: rapid-growth
-  name: rapid-growth
+  name: Rapid Growth
 - id: market-dominance
   name: Market Dominance
 - id: difficult-decisions
-  name: difficult-decisions
+  name: Difficult Decisions
 - id: business-ownership
-  name: business-ownership
+  name: Business Ownership
 - id: customer-interviews
   name: Customer Interviews
 - id: high-tech
   name: high-tech
 - id: lifestyle
-  name: lifestyle
+  name: Lifestyle
 - id: outsourcing
-  name: outsourcing
+  name: Outsourcing
 - id: skills
   name: Skills
 - id: disruptive-technologies
@@ -213,9 +213,9 @@
 - id: empowerment
   name: Empowerment
 - id: business-plans
-  name: business-plans
+  name: Business Plans
 - id: team-growth
-  name: team-growth
+  name: Team Growth
 - id: small-business
   name: Small Business
 - id: systems
@@ -233,7 +233,7 @@
 - id: time-management
   name: Time Management
 - id: funding
-  name: funding
+  name: Funding
 - id: product-market-fit
   name: Product Market Fit
 - id: market
@@ -253,7 +253,7 @@
 - id: prototyping
   name: Prototyping
 - id: software
-  name: software
+  name: Software
 - id: value-proposition
   name: Value Proposition
 - id: design
@@ -281,9 +281,9 @@
 - id: relationships
   name: Relationships
 - id: confidence
-  name: confidence
+  name: Confidence
 - id: journey
-  name: journey
+  name: Journey
 - id: resources
   name: resources
 - id: optimization
@@ -297,7 +297,7 @@
 - id: canvas
   name: Canvas
 - id: sustainability
-  name: sustainability
+  name: Sustainability
 - id: exit-strategy
   name: Exit Strategy
 - id: dot-com
@@ -307,9 +307,9 @@
 - id: purpose
   name: Purpose
 - id: customer-loyalty
-  name: customer-loyalty
+  name: Customer Loyalty
 - id: quick-launch
-  name: quick-launch
+  name: Quick Launch
 - id: developers
   name: developers
 - id: networking
@@ -319,13 +319,13 @@
 - id: product-development
   name: Product Development
 - id: burnout
-  name: burnout
+  name: Burnout
 - id: freedom
   name: Freedom
 - id: guidance
-  name: guidance
+  name: Guidance
 - id: scalability
-  name: scalability
+  name: Scalability
 - id: term-sheets
   name: term-sheets
 - id: negotiation
@@ -341,19 +341,19 @@
 - id: startup-success
   name: Startup Success
 - id: idea-validation
-  name: idea-validation
+  name: Idea Validation
 - id: perseverance
   name: Perseverance
 - id: visionary-leadership
   name: Visionary Leadership
 - id: endurance
-  name: endurance
+  name: Endurance
 - id: trust
-  name: trust
+  name: Trust
 - id: ethics
-  name: ethics
+  name: Ethics
 - id: startup-challenges
-  name: startup-challenges
+  name: Startup Challenges
 - id: investigation
   name: investigation
 - id: navigation
@@ -363,21 +363,21 @@
 - id: okrs
   name: OKRs
 - id: goal-setting
-  name: goal-setting
+  name: Goal Setting
 - id: alignment
   name: alignment
 - id: outcomes
-  name: outcomes
+  name: Outcomes
 - id: accelerator
-  name: accelerator
+  name: Accelerator
 - id: early-stage
-  name: early-stage
+  name: Early Stage
 - id: team-environment
   name: team-environment
 - id: market-feedback
-  name: market-feedback
+  name: Market Feedback
 - id: concept-testing
-  name: concept-testing
+  name: Concept Testing
 - id: resilience
   name: Resilience
 - id: startup-journey
@@ -389,11 +389,11 @@
 - id: courage
   name: Courage
 - id: financial-literacy
-  name: financial-literacy
+  name: Financial Literacy
 - id: business-finance
-  name: business-finance
+  name: Business Finance
 - id: online-business
-  name: online-business
+  name: Online Business
 - id: traction
   name: Traction
 - id: emotional-intelligence
@@ -403,7 +403,7 @@
 - id: risk-taking
   name: risk-taking
 - id: global-brand
-  name: global-brand
+  name: Global Brand
 - id: virtual-teams
   name: virtual-teams
 - id: remote-work
@@ -411,21 +411,21 @@
 - id: ambition
   name: Ambition
 - id: diversity
-  name: diversity
+  name: Diversity
 - id: differentiation
   name: Differentiation
 - id: mentorship
-  name: mentorship
+  name: Mentorship
 - id: social-intelligence
-  name: social-intelligence
+  name: Social Intelligence
 - id: entrepreneurial-journey
-  name: entrepreneurial-journey
+  name: Entrepreneurial Journey
 - id: personal-brand
   name: Personal Brand
 - id: user-engagement
   name: User Engagement
 - id: habit-forming
-  name: habit-forming
+  name: Habit Forming
 - id: product-design
   name: Product Design
 - id: company-culture
@@ -433,7 +433,7 @@
 - id: happiness
   name: Happiness
 - id: customer-satisfaction
-  name: customer-satisfaction
+  name: Customer Satisfaction
 - id: idea-propagation
   name: idea-propagation
 - id: resonance
@@ -451,7 +451,7 @@
 - id: customer-engagement
   name: customer-engagement
 - id: failure
-  name: failure
+  name: Failure
 - id: learning
   name: Learning
 - id: trial-and-error
@@ -461,7 +461,7 @@
 - id: operations
   name: Operations
 - id: entrepreneurial-skills
-  name: entrepreneurial-skills
+  name: Entrepreneurial Skills
 - id: community-building
   name: Community Building
 - id: personal-growth
@@ -473,29 +473,29 @@
 - id: founder-investor
   name: founder-investor
 - id: upbringing
-  name: upbringing
+  name: Upbringing
 - id: diversification
-  name: diversification
+  name: Diversification
 - id: business-building
-  name: business-building
+  name: Business Building
 - id: legacy
-  name: legacy
+  name: Legacy
 - id: value-creation
   name: Value Creation
 - id: economy
-  name: economy
+  name: Economy
 - id: tech-entrepreneurship
-  name: tech-entrepreneurship
+  name: Tech Entrepreneurship
 - id: software-development
   name: Software Development
 - id: accounting
-  name: accounting
+  name: Accounting
 - id: lessons
   name: lessons
 - id: viability
-  name: viability
+  name: Viability
 - id: transformation
-  name: transformation
+  name: Transformation
 - id: business-impact
   name: business-impact
 - id: digital-revolution
@@ -511,9 +511,9 @@
 - id: founder-led-sales
   name: founder-led-sales
 - id: product-led
-  name: product-led
+  name: Product Led
 - id: growth-strategy
-  name: growth-strategy
+  name: Growth Strategy
 - id: frameworks
   name: Frameworks
 - id: team-management
@@ -521,27 +521,27 @@
 - id: project-boundaries
   name: project-boundaries
 - id: customer-discovery
-  name: customer-discovery
+  name: Customer Discovery
 - id: revenue-growth
   name: revenue-growth
 - id: fear-overcoming
-  name: fear-overcoming
+  name: Fear Overcoming
 - id: competitive-economy
-  name: competitive-economy
+  name: Competitive Economy
 - id: customer-feedback
-  name: customer-feedback
+  name: Customer Feedback
 - id: business-planning
-  name: business-planning
+  name: Business Planning
 - id: visualization
-  name: visualization
+  name: Visualization
 - id: fiction
   name: fiction
 - id: non-business
   name: non-business
 - id: design-thinking
-  name: design-thinking
+  name: Design Thinking
 - id: platforms
-  name: platforms
+  name: Platforms
 - id: career
   name: Career
 - id: business
@@ -549,7 +549,7 @@
 - id: science
   name: Science
 - id: quality
-  name: quality
+  name: Quality
 - id: future-of-work
   name: Future Of Work
 - id: partnerships
@@ -563,7 +563,7 @@
 - id: profitability
   name: Profitability
 - id: evidence-based
-  name: evidence-based
+  name: Evidence Based
 - id: go-to-market
   name: Go To Market
 - id: customer-segmentation
@@ -573,21 +573,21 @@
 - id: personal-finance
   name: personal-finance
 - id: experimentation
-  name: experimentation
+  name: Experimentation
 - id: recurring-revenue
   name: Recurring Revenue
 - id: uncertain-relevance
   name: uncertain-relevance
 - id: work-habits
-  name: work-habits
+  name: Work Habits
 - id: governance
-  name: governance
+  name: Governance
 - id: stakeholders
   name: stakeholders
 - id: history
   name: History
 - id: climate
-  name: climate
+  name: Climate
 - id: lifestyle-business
   name: Lifestyle Business
 - id: sustainable-growth
@@ -777,7 +777,7 @@
 - id: enterprise-sales
   name: Enterprise Sales
 - id: eos
-  name: Eos
+  name: EOS
 - id: operating-system
   name: Operating System
 - id: business-management
@@ -956,3 +956,323 @@
   name: Open Source
 - id: creator-economy
   name: Creator Economy
+- id: responsibility
+  name: Responsibility
+- id: startup-failures
+  name: Startup Failures
+- id: risk-mitigation
+  name: Risk Mitigation
+- id: competitive-analysis
+  name: Competitive Analysis
+- id: strategy-frameworks
+  name: Strategy Frameworks
+- id: scaling-teams
+  name: Scaling Teams
+- id: team-leadership
+  name: Team Leadership
+- id: exit-strategies
+  name: Exit Strategies
+- id: timeless-strategy
+  name: Timeless Strategy
+- id: competitive-tactics
+  name: Competitive Tactics
+- id: pivots
+  name: Pivots
+- id: biographies
+  name: Biographies
+- id: fraud
+  name: Fraud
+- id: founder-story
+  name: Founder Story
+- id: memoir
+  name: Memoir
+- id: persistence
+  name: Persistence
+- id: medical-devices
+  name: Medical Devices
+- id: discernment
+  name: Discernment
+- id: blitzscaling
+  name: Blitzscaling
+- id: market-creation
+  name: Market Creation
+- id: value-innovation
+  name: Value Innovation
+- id: non-competitive
+  name: Non Competitive
+- id: mistakes
+  name: Mistakes
+- id: lessons-learned
+  name: Lessons Learned
+- id: mvp-building
+  name: Mvp Building
+- id: business-model-canvas
+  name: Business Model Canvas
+- id: lean-framework
+  name: Lean Framework
+- id: kids
+  name: Kids
+- id: anti-scaling
+  name: Anti Scaling
+- id: five-forces
+  name: Five Forces
+- id: generic-strategies
+  name: Generic Strategies
+- id: industry-analysis
+  name: Industry Analysis
+- id: passive-income
+  name: Passive Income
+- id: content-creation
+  name: Content Creation
+- id: information-products
+  name: Information Products
+- id: evolution
+  name: Evolution
+- id: geoffrey-moore
+  name: Geoffrey Moore
+- id: delivery-systems
+  name: Delivery Systems
+- id: fulfillment
+  name: Fulfillment
+- id: step-by-step
+  name: Step By Step
+- id: team-scaling
+  name: Team Scaling
+- id: europe
+  name: Europe
+- id: extreme-programming
+  name: Extreme Programming
+- id: freemium
+  name: Freemium
+- id: pricing-strategy
+  name: Pricing Strategy
+- id: zero-marginal-cost
+  name: Zero Marginal Cost
+- id: app-development
+  name: App Development
+- id: aging
+  name: Aging
+- id: job-search
+  name: Job Search
+- id: launch-readiness
+  name: Launch Readiness
+- id: strategy-kernel
+  name: Strategy Kernel
+- id: diagnosis
+  name: Diagnosis
+- id: coherent-action
+  name: Coherent Action
+- id: business-credit
+  name: Business Credit
+- id: finance
+  name: Finance
+- id: grit
+  name: Grit
+- id: micro-actions
+  name: Micro Actions
+- id: business-ideas
+  name: Business Ideas
+- id: aggressive-tactics
+  name: Aggressive Tactics
+- id: rapid-scaling
+  name: Rapid Scaling
+- id: business-basics
+  name: Business Basics
+- id: practical-guide
+  name: Practical Guide
+- id: startup-guide
+  name: Startup Guide
+- id: retirement
+  name: Retirement
+- id: personal-development
+  name: Personal Development
+- id: integrity
+  name: Integrity
+- id: founder-mindset
+  name: Founder Mindset
+- id: drucker
+  name: Drucker
+- id: innovation-sources
+  name: Innovation Sources
+- id: high-tech-marketing
+  name: High Tech Marketing
+- id: age-40-plus
+  name: Age 40 Plus
+- id: fundraising-investment
+  name: '"Fundraising & Investment'
+- id: fundraising-investmentfundraising-investment-investment
+  name: Fundraising " Investment"Fundraising & Investment" Investment
+- id: life-design
+  name: Life Design
+- id: indispensable
+  name: Indispensable
+- id: loyalty
+  name: Loyalty
+- id: listening
+  name: Listening
+- id: stock-market
+  name: Stock Market
+- id: beginner
+  name: Beginner
+- id: market-research
+  name: Market Research
+- id: whole-product
+  name: Whole Product
+- id: entrepreneurs
+  name: Entrepreneurs
+- id: pricing-first
+  name: Pricing First
+- id: willingness-to-pay
+  name: Willingness To Pay
+- id: real-estate
+  name: Real Estate
+- id: no-money-down
+  name: No Money Down
+- id: biography
+  name: Biography
+- id: professional-development
+  name: Professional Development
+- id: founder-advice
+  name: Founder Advice
+- id: lightning-strike
+  name: Lightning Strike
+- id: choice-cascade
+  name: Choice Cascade
+- id: where-to-play
+  name: Where To Play
+- id: competitive-choices
+  name: Competitive Choices
+- id: value-pricing
+  name: Value Pricing
+- id: specialization
+  name: Specialization
+- id: web
+  name: Web
+- id: regulation
+  name: Regulation
+- id: hacking
+  name: Hacking
+- id: turnaround
+  name: Turnaround
+- id: supply-chain
+  name: Supply Chain
+- id: revival
+  name: Revival
+- id: financial-mindset
+  name: Financial Mindset
+- id: assets
+  name: Assets
+- id: usability-testing
+  name: Usability Testing
+- id: ux
+  name: Ux
+- id: timeless-psychology
+  name: Timeless Psychology
+- id: narratives
+  name: Narratives
+- id: san-francisco
+  name: San Francisco
+- id: quick-start
+  name: Quick Start
+- id: income-generation
+  name: Income Generation
+- id: culture-driven
+  name: Culture Driven
+- id: anti-growth
+  name: Anti Growth
+- id: personalization
+  name: Personalization
+- id: destiny
+  name: Destiny
+- id: boards
+  name: Boards
+- id: aggregation-theory
+  name: Aggregation Theory
+- id: tech-strategy
+  name: Tech Strategy
+- id: short-story
+  name: Short Story
+- id: subscription-model
+  name: Subscription Model
+- id: customer-lifetime
+  name: Customer Lifetime
+- id: techno-cycles
+  name: Techno Cycles
+- id: bubbles
+  name: Bubbles
+- id: capital-waves
+  name: Capital Waves
+- id: copywriting
+  name: Copywriting
+- id: advertising
+  name: Advertising
+- id: holistic-wealth
+  name: Holistic Wealth
+- id: "2025"
+  name: "2025"
+- id: dreams
+  name: Dreams
+- id: military-analogy
+  name: Military Analogy
+- id: deception
+  name: Deception
+- id: momentum
+  name: Momentum
+- id: engagement-rules
+  name: Engagement Rules
+- id: contrarian
+  name: Contrarian
+- id: systems-building
+  name: Systems Building
+- id: franchise-prototype
+  name: Franchise Prototype
+- id: entrepreneurial-myth
+  name: Entrepreneurial Myth
+- id: customer-obsession
+  name: Customer Obsession
+- id: risk-reduction
+  name: Risk Reduction
+- id: workplace
+  name: Workplace
+- id: government
+  name: Government
+- id: checklists
+  name: Checklists
+- id: startup-manual
+  name: Startup Manual
+- id: mojo
+  name: Mojo
+- id: first-time-manager
+  name: First Time Manager
+- id: marketing-strategy
+  name: Marketing Strategy
+- id: gap-analysis
+  name: Gap Analysis
+- id: scalable-business
+  name: Scalable Business
+- id: software-management
+  name: Software Management
+- id: brooks
+  name: Brooks
+- id: customer-lifecycle
+  name: Customer Lifecycle
+- id: lifetime-value
+  name: Lifetime Value
+- id: fintech
+  name: Fintech
+- id: mafia
+  name: Mafia
+- id: greatness
+  name: Greatness
+- id: schumpeter
+  name: Schumpeter
+- id: creative-destruction
+  name: Creative Destruction
+- id: teams
+  name: Teams
+- id: nlp
+  name: Nlp
+- id: jargon
+  name: Jargon
+- id: selling-business
+  name: Selling Business
