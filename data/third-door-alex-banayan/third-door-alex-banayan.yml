@@ -1,15 +1,17 @@
 name: "The Third Door: The Wild Quest to Uncover How the World's Most Successful
   People Launched Their Careers"
-description: "A #1 international bestseller chronicling an 18-year-old's
-  seven-year journey tracking down the world's most successful people to uncover
-  the definitive mindset of growth and success. Features interviews with Bill
-  Gates, Lady Gaga, Warren Buffett, and many others."
+description: Alex Banayan's interviews with Gates, Buffett, and Wozniak reveal
+  'third door' persistence—banging on back entrances amid rejections—to
+  breakthrough success. Founders adopt unconventional networking, relentless
+  pursuit, and value-creation mindsets to bypass gatekeepers and avoid waiting
+  in line. Vs memoir-style Shoe Dog, it's aggregated wisdom; perfect for
+  early-career hustle inspiration and rejection resilience.
 source_url: https://alexbanayan.com/book/
 category: Biographies
 tags:
-  - success-stories
-  - entrepreneurship
+  - founder-story
   - inspiration
+  - persistence
 featured: true
 markdown: >-
   ## Overview
@@ -113,4 +115,6 @@ markdown: >-
   interviews reveal how successful people thought differently, built
   relationships, and persevered through early-stage challenges that every
   founder faces.
-updated_at: 2026-03-23 19:58
+images:
+  - https://m.media-amazon.com/images/I/81p3+8wVJGL._AC_UF1000,1000_QL80_.jpg
+updated_at: 2026-04-07 10:46

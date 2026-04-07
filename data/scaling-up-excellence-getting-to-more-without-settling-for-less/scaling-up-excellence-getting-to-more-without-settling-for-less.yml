@@ -1,13 +1,15 @@
 name: "Scaling Up Excellence: Getting to More Without Settling for Less"
-description: Robert Sutton and Huggy Rao show how to spread excellence as
-  organizations grow without losing quality. Essential for founders scaling from
-  10 to 100 to 1000 employees.
+description: Robert Sutton and Huggy Rao offer tactics for founders to spread
+  excellence via mindset replication, bad seed removal, and cognitive load
+  reduction while scaling teams. Key use cases include ownership metrics and
+  culture density for hypergrowth without dilution. Vs Blitzscaling, it stresses
+  quality preservation over raw speed in expansion.
 source_url: https://www.scalingupexcellence.com/
 category: Growth & Scaling
 tags:
   - scaling
   - excellence
-  - culture
+  - hypergrowth
 markdown: >-
   ## Overview
 
@@ -125,4 +127,6 @@ markdown: >-
 
   Published by Currency 2014.
 brand: Currency
-updated_at: 2026-03-10 12:13
+images:
+  - https://m.media-amazon.com/images/I/81iY8vL+ZL._SL1500_.jpg
+updated_at: 2026-04-07 10:46

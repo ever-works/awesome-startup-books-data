@@ -1,17 +1,16 @@
 name: "From Strength to Strength: Finding Success, Happiness, and Deep Purpose
   in the Second Half of Life"
-description: "An instant #1 New York Times bestseller that serves as a roadmap
-  for finding purpose, meaning, and success as we age. Harvard professor Arthur
-  C. Brooks draws on social science, philosophy, and theology to show how to
-  transform the second half of life from decline into an opportunity for deep
-  fulfillment."
+description: "Arthur Brooks guides aging entrepreneurs from fluid intelligence
+  peaks to wisdom-based fulfillment, mindset shift to service and detachment for
+  personal growth post-peak career. Use case: Overcoming midlife success decline
+  by mentoring and connecting deeply. Vs Atomic Habits, it focuses on life-stage
+  transitions over daily routines."
 source_url: https://www.arthurbrooks.com/books/from-strength-to-strength
 category: Personal Development
 tags:
-  - happiness
-  - Purpose
-  - personal-growth
-  - Leadership
+  - mindset
+  - purpose
+  - aging
 featured: false
 markdown: >-
   ## Overview
@@ -103,4 +102,6 @@ markdown: >-
 
   Published by Portfolio/Penguin Random House in 2022.
 brand: Portfolio
-updated_at: 2026-03-21 19:45
+images:
+  - https://www.arthurbrooks.com/wp-content/uploads/2022/01/From-Strength-to-Strength-cover.jpg
+updated_at: 2026-04-07 10:46

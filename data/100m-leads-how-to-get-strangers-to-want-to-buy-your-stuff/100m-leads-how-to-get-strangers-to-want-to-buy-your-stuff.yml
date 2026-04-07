@@ -1,14 +1,16 @@
 name: "$100M Leads: How to Get Strangers to Want to Buy Your Stuff"
-description: The second book in Alex Hormozi's customer acquisition trilogy
-  focuses on lead generation strategies. Building on the foundation of $100M
-  Offers, this book teaches practical methods for attracting and converting
-  potential customers through four core marketing channels.
+description: Equips startup founders with actionable lead generation strategies
+  through four core channels—warm outreach, content posting, cold outreach, and
+  paid ads—for scalable customer acquisition. Unlike the broader 19 Traction
+  Channels, it prioritizes high-ROI tactics with proven use cases like gym
+  chains generating hundreds of leads monthly and agencies filling sales
+  pipelines. Ideal for go-to-market strategies in resource-constrained startups.
 source_url: https://www.acquisition.com/
 category: Marketing & Sales
 tags:
   - lead-generation
-  - marketing
-  - growth
+  - go-to-market
+  - customer-acquisition
 featured: false
 markdown: >-
   ## Overview
@@ -112,4 +114,7 @@ markdown: >-
 
   Available for purchase through Acquisition.com and major book retailers.
 brand: Alex Hormozi
-updated_at: 2026-03-25 20:12
+brand_logo_url: ""
+images:
+  - https://shop.acquisition.com/cdn/shop/files/100MLeads-3D_NoShadow_1024x1024.png?v=1689847281
+updated_at: 2026-04-07 10:46

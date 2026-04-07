@@ -3,15 +3,12 @@ description: UX for Lean Startups shows founders and early-stage teams how to do
   effective user experience research and design with limited time and resources,
   aligning UX work with Lean Startup experimentation.
 source_url: https://shop.oreilly.com/product/0636920026242.do
-featured: true
-brand: oreilly-media
-brand_logo_url: /
-images: null
-category: customer-development
+category: Customer Development
 tags:
   - lean
   - customer-needs
   - product-design
+featured: true
 markdown: >-
   # UX for Lean Startups
 
@@ -117,4 +114,6 @@ markdown: >-
   - **Slug:** `ux-for-lean-startups`
 
   - **Brand:** `oreilly-media`
-updated_at: 2025-12-23 06:38
+brand: oreilly-media
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

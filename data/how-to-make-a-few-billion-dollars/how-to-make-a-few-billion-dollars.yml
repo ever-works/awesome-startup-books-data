@@ -4,12 +4,9 @@ description: Business and finance book offering strategies and mindsets behind
   deals. Relevant to ambitious startup founders interested in scaling, capital,
   and thinking at very large outcome levels.
 source_url: https://www.youtube.com/watch?v=2c4LWQpuw9s
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # How to Make a Few Billion Dollars
 
@@ -113,4 +110,6 @@ markdown: >-
   Pricing is not specified in the provided content. The book is sold via
   retailers (e.g., Amazon), where current pricing and formats (hardcover,
   Kindle, audiobook) can be checked directly.
-updated_at: 2026-01-14 20:17
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

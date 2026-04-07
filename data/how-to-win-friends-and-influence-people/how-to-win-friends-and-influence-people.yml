@@ -1,13 +1,15 @@
 name: How to Win Friends and Influence People
-description: Dale Carnegie's timeless classic on human relations. Principles for
-  making people like you, winning them to your way of thinking, and changing
-  people without arousing resentment.
+description: "Dale Carnegie's timeless principles foster entrepreneurial
+  personal growth in relationship-building and influence, key habits like
+  genuine appreciation and empathetic listening to overcome networking failures.
+  Use case: Winning investors, partners, and teams without resentment. Vs Atomic
+  Habits, it targets interpersonal dynamics over solo routines."
 source_url: https://www.dalecarnegie.com/en/products/how-to-win-friends-and-influence-people
 category: Personal Development
 tags:
+  - mindset
   - relationships
   - influence
-  - communication
 featured: false
 markdown: >-
   ## Overview
@@ -30,4 +32,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/81bhl7b3BOL.jpg
+updated_at: 2026-04-07 10:46

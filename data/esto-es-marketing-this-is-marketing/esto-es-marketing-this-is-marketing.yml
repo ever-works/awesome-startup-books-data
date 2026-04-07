@@ -4,12 +4,9 @@ description: Spanish edition of Seth Godin’s "This Is Marketing," focusing on
   that resonate with a defined audience. Relevant for startup founders working
   on product–market fit, differentiation, and brand narrative.
 source_url: https://books.google.com/books/about/This_Is_Marketing.html?id=B8JyDwAAQBAJ
-featured: false
-brand: seth-godin
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   # Esto es marketing / This Is Marketing
 
@@ -91,4 +88,6 @@ markdown: |-
   ## Pricing
 
   Pricing details are not provided in the referenced content. Actual price may vary by retailer, format, and region.
-updated_at: 2026-01-14 20:17
+brand: seth-godin
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

@@ -5,15 +5,12 @@ description: A startup-focused business book (paperback edition, ISBN
   perspective—positioned as a hands-on resource for aspiring and early-stage
   founders.
 source_url: https://books.google.com/books/about/Startup.html?id=fRtKAAAAQBAJ
-featured: false
-brand: amazon
-brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB513790339_.png
-images: null
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - guide
   - startup
   - business-building
+featured: false
 markdown: >-
   # Startup: An Insider's Guide to Launching and Running a Business
 
@@ -93,4 +90,6 @@ markdown: >-
   Specific pricing is not provided in the source content. The paperback is
   available through major booksellers such as Amazon, Barnes & Noble,
   Books-A-Million, and IndieBound, with price set by the retailers.
-updated_at: 2026-01-10 19:39
+brand: amazon
+brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB513790339_.png
+updated_at: 2026-04-07 10:46

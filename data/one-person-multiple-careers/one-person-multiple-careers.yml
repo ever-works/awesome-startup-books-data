@@ -7,14 +7,9 @@ description: A non-fiction book by Marci Alboher that explores how professionals
   opportunity-rich work life—useful for founders navigating side projects,
   consulting, and early-stage ventures in parallel.
 source_url: https://www.hachettebookgroup.com/titles/marci-alboher/one-person-multiple-careers/9780446500430/
-featured: false
-brand: warner-business-books-hachette-book-group
-brand_logo_url: https://www.hachettebookgroup.com/wp-content/themes/hachette/library/images/hachette-logo.png
-images:
-  - https://images.hachettebookgroup.com/covers/9780446500447/
-  - https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780446500430.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   # One Person, Multiple Careers
 
@@ -75,4 +70,9 @@ markdown: |-
   ## Pricing
 
   Pricing information is not provided in the available content. Refer to the publisher or booksellers for up-to-date pricing and formats.
-updated_at: 2026-01-14 20:17
+brand: warner-business-books-hachette-book-group
+brand_logo_url: https://www.hachettebookgroup.com/wp-content/themes/hachette/library/images/hachette-logo.png
+images:
+  - https://images.hachettebookgroup.com/covers/9780446500447/
+  - https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780446500430.jpg
+updated_at: 2026-04-07 10:46

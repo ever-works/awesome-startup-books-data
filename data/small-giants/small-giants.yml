@@ -1,13 +1,15 @@
 name: Small Giants
-description: Bo Burlingham profiles companies that chose to be great instead of
-  big. Challenge the growth-at-all-costs mentality and build businesses focused
-  on excellence, culture, and community impact.
+description: Bo Burlingham profiles companies choosing greatness over size,
+  teaching founders to build via strong culture, employee ownership, and
+  community ties for resilient strategies. Ideal for pivots to lifestyle models
+  rejecting VC scale; contrasts growth dogma vs Porter's competitive scale
+  advantages.
 source_url: https://www.penguinrandomhouse.com/books/535902/small-giants-by-bo-burlingham/
 category: Business Strategy
 tags:
-  - sustainable-business
-  - company-culture
-  - lifestyle-business
+  - culture-driven
+  - anti-growth
+  - excellence
 featured: false
 markdown: >-
   ## Overview
@@ -106,4 +108,6 @@ markdown: >-
 
 
   Available in hardcover, paperback, and ebook formats.
-updated_at: 2026-03-07 17:50
+images:
+  - https://m.media-amazon.com/images/I/41w0k5v1wAL._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

@@ -5,17 +5,12 @@ description: Running Lean is a pragmatic guide for founders to systematically
   validation, customer interviews, and metrics to reduce risk and build products
   that customers actually want.
 source_url: https://www.goodreads.com/book/show/13078769-running-lean
-featured: false
-brand: amazon
-brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB613871106_.png
-images:
-  - https://m.media-amazon.com/images/P/1098108779.01._SCLZZZZZZZ_SX500_.jpg
-  - https://m.media-amazon.com/images/I/71bUDXn1TzL.jpg
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - lean
   - validation
   - customer-discovery
+featured: false
 markdown: >-
   ## Running Lean
 
@@ -93,4 +88,9 @@ markdown: >-
 
   Pricing information is not provided in the available content. Users should
   check the Amazon listing or retailer page for current price and formats.
-updated_at: 2026-01-10 19:39
+brand: amazon
+brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB613871106_.png
+images:
+  - https://m.media-amazon.com/images/P/1098108779.01._SCLZZZZZZZ_SX500_.jpg
+  - https://m.media-amazon.com/images/I/71bUDXn1TzL.jpg
+updated_at: 2026-04-07 10:46

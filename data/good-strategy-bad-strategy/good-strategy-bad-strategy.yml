@@ -1,12 +1,14 @@
 name: Good Strategy Bad Strategy
-description: Richard Rumelt explains the difference between good and bad
-  strategy. Good strategy is coherent action backed by an insightful diagnosis.
+description: Richard Rumelt teaches founders to craft good strategy via
+  diagnosis, guiding policy, and coherent actions, avoiding fluff like goal
+  lists. Frameworks for pivot decisions under uncertainty; refines Porter's
+  techniques with emphasis on kernel structure and execution focus.
 source_url: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
 category: Business Strategy
 tags:
-  - strategy
-  - planning
-  - execution
+  - strategy-kernel
+  - diagnosis
+  - coherent-action
 featured: false
 markdown: >-
   ## Overview
@@ -28,4 +30,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/41k1dwenguL._SX327_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

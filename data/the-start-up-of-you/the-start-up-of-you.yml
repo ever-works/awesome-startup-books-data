@@ -6,17 +6,12 @@ description: A career strategy book by LinkedIn cofounder Reid Hoffman and Ben
   for startup founders for its frameworks on adaptability, market positioning,
   and leveraging networks, aligning closely with core startup thinking.
 source_url: https://www.startupofyou.com/
-featured: false
-brand: crown-business-penguin-random-house
-brand_logo_url: https://images.randomhouse.com/logo.jpg
-images:
-  - https://images.randomhouse.com/cover/9780307888907
-  - https://m.media-amazon.com/images/I/81n8K0lQbbL.jpg
-category: personal-development
+category: Personal Development
 tags:
   - entrepreneurial-journey
   - career
   - mindset
+featured: false
 markdown: >
   # The Start-up of You
 
@@ -169,4 +164,9 @@ markdown: >
   - career  
 
   - mindset
-updated_at: 2026-01-12 19:44
+brand: crown-business-penguin-random-house
+brand_logo_url: https://images.randomhouse.com/logo.jpg
+images:
+  - https://images.randomhouse.com/cover/9780307888907
+  - https://m.media-amazon.com/images/I/81n8K0lQbbL.jpg
+updated_at: 2026-04-07 10:46

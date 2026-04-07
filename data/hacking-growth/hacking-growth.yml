@@ -5,12 +5,9 @@ description: Growth strategy book by Sean Ellis and Morgan Brown focused on how
   must‑read for startup founders who want a structured, data‑driven approach to
   user acquisition, activation, retention, and monetization.
 source_url: https://startupsavant.com/best-startup-books/growth-hacking
-featured: false
-brand: crown-business
-brand_logo_url: null
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # Hacking Growth
 
@@ -83,4 +80,6 @@ markdown: >-
 
   - Not specified in the provided content. (Standard retail book pricing applies
   via booksellers.)
-updated_at: 2026-01-14 20:17
+brand: crown-business
+brand_logo_url: null
+updated_at: 2026-04-07 10:46

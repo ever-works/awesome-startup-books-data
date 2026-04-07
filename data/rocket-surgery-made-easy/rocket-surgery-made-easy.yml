@@ -1,0 +1,17 @@
+name: Rocket Surgery Made Easy
+description: Tactical usability testing guide companion to Don't Make Me Think.
+  Provides exercises for continuous product improvement.
+source_url: https://www.sensible.com/rocketsurgery.html
+category: Customer Experience
+tags:
+  - usability-testing
+  - ux
+featured: false
+markdown: |-
+  ## Overview
+  Hands-on guide to usability testing.
+
+  ## Methods
+  - Simple exercises and thought experiments.
+  - Integrating testing into daily product work.
+updated_at: 2026-04-07 10:46

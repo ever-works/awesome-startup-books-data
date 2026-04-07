@@ -5,16 +5,12 @@ description: A book that explores how entrepreneurs and investors can build
   fulfillment, making it relevant for startup founders interested in
   mission-driven or impact-focused ventures.
 source_url: https://www.linkedin.com/posts/yrebryk_top-15-books-for-startup-founders-recommended-activity-7355968875466833922-v4KA
-featured: false
-brand: amazon
-brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB572908473_.png
-images:
-  - https://m.media-amazon.com/images/I/41VZK0H3f+L._SX331_BO1,204,203,200_.jpg
-category: social-entrepreneurship
+category: Social Entrepreneurship
 tags:
   - social-impact
   - investment
   - purpose
+featured: false
 markdown: |
   # Money with Meaning
 
@@ -67,4 +63,8 @@ markdown: |
   - social-impact  
   - investment  
   - purpose
-updated_at: 2026-01-10 19:39
+brand: amazon
+brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB572908473_.png
+images:
+  - https://m.media-amazon.com/images/I/41VZK0H3f+L._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

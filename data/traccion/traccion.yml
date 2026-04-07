@@ -7,15 +7,12 @@ description: Spanish edition of Gino Wickman’s "Traction", which introduces th
   high-impact read for founders moving from idea to a structured, growth-ready
   organization.
 source_url: https://fourminutebooks.com/traction-summary/
-featured: false
-brand: benbella-books
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags:
   - operations
   - execution
   - scaling
+featured: false
 markdown: >-
   # Tracción
 
@@ -91,4 +88,6 @@ markdown: >-
 
   Not specified in the provided content. Pricing depends on retailer or
   distributor and is not detailed here.
-updated_at: 2026-01-14 20:17
+brand: benbella-books
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

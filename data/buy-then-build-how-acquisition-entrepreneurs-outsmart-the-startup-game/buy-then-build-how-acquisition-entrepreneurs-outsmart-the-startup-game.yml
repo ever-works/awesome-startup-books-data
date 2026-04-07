@@ -5,15 +5,12 @@ description: A practical guide to “acquisition entrepreneurship,” arguing th
   due diligence, and operating acquired companies—highly relevant for
   startup-minded founders considering alternative paths to ownership.
 source_url: https://en.wikipedia.org/wiki/Buy_Then_Build
-featured: true
-brand_logo_url: null
-images:
-  - https://m.media-amazon.com/images/I/41PRkZ1-6iL._AC_SR100,100_QL65_.jpg
-category: business-strategy
+category: Business Strategy
 tags:
   - entrepreneurship
   - business-strategy
   - growth-strategy
+featured: true
 markdown: >-
   ## Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game
 
@@ -51,4 +48,7 @@ markdown: >-
 
   - **Image:**
   https://m.media-amazon.com/images/I/41PRkZ1-6iL._AC_SR100,100_QL65_.jpg
-updated_at: 2025-12-24 06:55
+brand_logo_url: null
+images:
+  - https://m.media-amazon.com/images/I/41PRkZ1-6iL._AC_SR100,100_QL65_.jpg
+updated_at: 2026-04-07 10:46

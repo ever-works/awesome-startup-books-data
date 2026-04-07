@@ -4,15 +4,12 @@ description: K.N. Kukoyi's guide is essential for tech startup founders,
   effectively. It's a practical resource for navigating the complexities of tech
   entrepreneurship.
 source_url: https://www.goodreads.com/book/show/32945774-don-t-hire-a-software-developer-until-you-read-this-book
-featured: false
-brand_logo_url: null
-images:
-  - https://images.gr-assets.com/books/1481045986l/32945774.jpg
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - tech-entrepreneurship
   - hiring
   - software-development
+featured: false
 markdown: |-
   # Don't Hire a Software Developer Until You Read this Book
 
@@ -48,4 +45,7 @@ markdown: |-
   ---
 
   **Note:** This book does not include pricing information as it is a single purchase item.
-updated_at: 2025-12-16 06:04
+brand_logo_url: null
+images:
+  - https://images.gr-assets.com/books/1481045986l/32945774.jpg
+updated_at: 2026-04-07 10:46

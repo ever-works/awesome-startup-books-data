@@ -1,13 +1,17 @@
 name: "No Filter: The Inside Story of Instagram"
-description: Sarah Frier's compelling account of Instagram's rise from a simple
-  photo-sharing app to a cultural phenomenon and Facebook acquisition, revealing
-  the strategic decisions and conflicts that shaped social media.
+description: Sarah Frier details Instagram's evolution from photo app to social
+  giant, covering founder dynamics, feature pivots like Stories, and Facebook
+  tensions post-acquisition. Founders learn viral growth tactics, balancing
+  simplicity with monetization, and navigating big-tech buyouts while avoiding
+  founder-exit regrets. Vs Shoe Dog's solo journey, it emphasizes co-founder
+  synergy; ideal for app builders seeking acquisition inspiration and cultural
+  shift pitfalls.
 source_url: https://www.penguinrandomhouse.com/books/539936/no-filter-by-sarah-frier/
 category: Biographies
 tags:
-  - instagram
+  - founder-story
   - social-media
-  - startup-story
+  - acquisition
 featured: false
 markdown: >-
   ## Overview
@@ -80,4 +84,6 @@ markdown: >-
 
 
   Available for approximately $17-28.
-updated_at: 2026-03-22 19:54
+images:
+  - https://m.media-amazon.com/images/I/81kE8q7jYOL._AC_UF1000,1000_QL80_.jpg
+updated_at: 2026-04-07 10:46

@@ -5,15 +5,15 @@ description: A Harvard Business School Core Curriculum Reading that provides a
   competition—core concepts startup founders need for deciding where and how to
   compete.
 source_url: https://hbsp.harvard.edu/product/8097-PDF-ENG
-featured: false
-brand: harvard-business-school-publishing
-brand_logo_url: https://www.hbs.edu/Style%20Library/images/core/hbs-logo.svg
-images:
-  - https://hbsp.harvard.edu/resources/images/product/8097-PDF-ENG/8097-PDF-ENG_500x500.jpg
-category: business-strategy
+category: Business Strategy
 tags:
   - business-strategy
   - frameworks
   - decision-making
+featured: false
 markdown: ""
-updated_at: 2026-01-16 20:08
+brand: harvard-business-school-publishing
+brand_logo_url: https://www.hbs.edu/Style%20Library/images/core/hbs-logo.svg
+images:
+  - https://hbsp.harvard.edu/resources/images/product/8097-PDF-ENG/8097-PDF-ENG_500x500.jpg
+updated_at: 2026-04-07 10:46

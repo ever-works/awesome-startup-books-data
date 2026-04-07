@@ -4,12 +4,9 @@ description: Spanish edition of John Doerr’s "Measure What Matters", this book
   tech giants like Google to set goals, drive focus, and achieve rapid, aligned
   growth.
 source_url: https://books.apple.com/us/book/mide-lo-que-importa/id1439644117
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://global.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/img/prh-logo-default.png
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # Mide lo que importa
 
@@ -94,4 +91,6 @@ markdown: >-
   Pricing is not specified in the provided content. For current price and
   formats, consult the store page:
   <https://books.apple.com/us/book/mide-lo-que-importa/id1439644117>.
-updated_at: 2026-01-14 20:17
+brand: penguin-random-house
+brand_logo_url: https://global.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/img/prh-logo-default.png
+updated_at: 2026-04-07 10:46

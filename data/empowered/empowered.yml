@@ -1,13 +1,17 @@
 name: Empowered
-description: Marty Cagan's follow-up to Inspired shows leaders how to transform
-  their organizations to empower product teams. The blueprint for building truly
-  product-led companies where teams can do their best work.
+description: Empowered provides founders leadership lessons on organizational
+  design to empower product teams for autonomous decision-making and effective
+  team building in scaling companies. Key principles include outcome-focused
+  trios, coaching models, and product operating models for high-velocity
+  innovation. Vs High Output Management, it emphasizes distributed leadership
+  and team empowerment over centralized control.
 source_url: https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/
 category: Leadership & Management
 tags:
   - product-leadership
   - organizational-design
   - empowerment
+  - team-leadership
 featured: false
 markdown: >-
   ## Overview
@@ -338,4 +342,6 @@ markdown: >-
   Available in hardcover, paperback, ebook, and audiobook formats at standard
   retail prices.
 brand: Silicon Valley Product Group
-updated_at: 2026-03-07 17:50
+images:
+  - https://www.svpg.com/wp-content/uploads/2020/10/Empowered_HC_HR.jpg
+updated_at: 2026-04-07 10:46

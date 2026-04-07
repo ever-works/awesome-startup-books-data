@@ -1,13 +1,18 @@
 name: Extreme Ownership
-description: Jocko Willink and Leif Babin apply Navy SEAL leadership principles
-  to business. Take complete ownership, lead up and down, and prioritize and
-  execute.
+description: Extreme Ownership instills founders with leadership lessons from
+  Navy SEALs on total accountability, no-excuse culture, and decentralized
+  command for superior team building and execution under pressure. Key
+  principles include lead up and down the chain, prioritize and execute, and
+  simplify plans for team alignment. Vs High Output Management, it delivers
+  battle-tested discipline and ownership mindset over factory-style
+  optimization.
 source_url: https://echelonfront.com/extreme-ownership/
 category: Leadership & Management
 tags:
   - leadership
   - accountability
   - discipline
+  - team-leadership
 featured: false
 markdown: >-
   ## Overview
@@ -30,4 +35,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://images.penguinrandomhouse.com/cover/9781250183866
+updated_at: 2026-04-07 10:46

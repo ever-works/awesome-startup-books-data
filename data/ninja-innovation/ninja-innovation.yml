@@ -4,16 +4,12 @@ description: Authored by Gary Shapiro, this book provides strategic insights
   outlines ten strategies that have been employed by some of the world's most
   successful companies, making it a valuable resource for startup founders.
 source_url: https://www.goodreads.com/book/show/15818849-ninja-innovation
-featured: false
-brand: william-morrow-paperbacks
-brand_logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/William_Morrow_and_Company_logo.svg/1200px-William_Morrow_and_Company_logo.svg.png
-images:
-  - https://images.gr-assets.com/books/1356103791l/15818849.jpg
-category: business-strategy
+category: Business Strategy
 tags:
   - strategies
   - competitive-economy
   - success
+featured: false
 markdown: |-
   ---
   ## Ninja Innovation
@@ -43,4 +39,8 @@ markdown: |-
   ![William Morrow Paperbacks Logo](https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/William_Morrow_and_Company_logo.svg/1200px-William_Morrow_and_Company_logo.svg.png)
 
   ---
-updated_at: 2025-12-20 06:21
+brand: william-morrow-paperbacks
+brand_logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/William_Morrow_and_Company_logo.svg/1200px-William_Morrow_and_Company_logo.svg.png
+images:
+  - https://images.gr-assets.com/books/1356103791l/15818849.jpg
+updated_at: 2026-04-07 10:46

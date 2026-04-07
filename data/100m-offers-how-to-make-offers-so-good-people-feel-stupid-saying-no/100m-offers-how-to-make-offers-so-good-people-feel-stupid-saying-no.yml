@@ -1,13 +1,16 @@
 name: "$100M Offers: How To Make Offers So Good People Feel Stupid Saying No"
-description: Alex Hormozi reveals his proven framework for creating irresistible
-  offers that convert. A must-read for founders who want to dramatically improve
-  their sales and marketing effectiveness.
+description: Teaches startups to create 'Grand Slam Offers' that maximize
+  perceived value and minimize buyer risk, driving higher conversion rates in
+  customer acquisition. Vs Traction Channels, it focuses on offer optimization
+  to make channel spend more effective, with use cases in SaaS, agencies, and
+  e-commerce boosting LTV 3x+. Critical for go-to-market product-market fit
+  validation.
 source_url: https://shop.acquisition.com/products/100m-offers-hardcover
 category: Marketing & Sales
 tags:
-  - sales
   - offers
-  - conversion
+  - sales
+  - go-to-market
 featured: true
 markdown: >-
   ## Overview
@@ -62,7 +65,7 @@ markdown: >-
 
   - Creating scarcity and urgency authentically
 
-  - The "Stack" method for presenting offers
+  - The \"Stack\" method for presenting offers
 
   - How to eliminate objections before they arise
 
@@ -133,4 +136,7 @@ markdown: >-
   available in bundle deals through Acquisition.com. Self-published by
   Acquisition.com LLC.
 brand: Acquisition.com
-updated_at: 2026-03-10 12:13
+brand_logo_url: ""
+images:
+  - https://shop.acquisition.com/cdn/shop/files/100MOffers-3D_NoShadow_1024x1024.png?v=1640993171
+updated_at: 2026-04-07 10:46

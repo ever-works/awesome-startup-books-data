@@ -4,15 +4,12 @@ description: Nike founder Phil Knight’s memoir chronicling the early, scrappy
   honest look at the struggles, risks, and persistence required to grow a
   startup over decades.
 source_url: https://books.apple.com/us/audiobook/shoe-dog-unabridged/id1439481739
-featured: false
-brand: phil-knight
-brand_logo_url: null
-images: null
-category: biographies
+category: Biographies
 tags:
   - entrepreneurial-journey
   - global-brand
   - startup-life
+featured: false
 markdown: |-
   # Shoe Dog (Unabridged)
 
@@ -63,4 +60,6 @@ markdown: |-
 
   ## Pricing
   Pricing information is not provided in the available content. Please refer to the linked Apple Books product page for current pricing and purchase options.
-updated_at: 2026-01-12 19:44
+brand: phil-knight
+brand_logo_url: null
+updated_at: 2026-04-07 10:46

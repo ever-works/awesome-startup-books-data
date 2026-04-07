@@ -1,13 +1,15 @@
 name: Linchpin
-description: Seth Godin explains how to become indispensable by doing work that
-  matters, making art, and becoming the person your organization can't live
-  without. Transform from cog to linchpin.
+description: "Seth Godin's Linchpin inspires entrepreneurs to become
+  indispensable creators, shifting mindset from compliance to artistic
+  value-creation, overcoming resistance to ship remarkable work amid startup
+  commoditization. Key habit: Emotional labor and generosity. Vs Atomic Habits,
+  it unleashes unique human gifts over systematized routines."
 source_url: https://www.penguinrandomhouse.com/books/305744/linchpin-by-seth-godin/
 category: Personal Development
 tags:
-  - career-development
+  - mindset
   - creativity
-  - value-creation
+  - indispensable
 featured: false
 markdown: >-
   ## Overview
@@ -122,4 +124,6 @@ markdown: >-
 
   Available in hardcover, paperback, ebook, and audiobook formats at standard
   retail prices.
-updated_at: 2026-03-07 17:50
+images:
+  - https://images.penguinrandomhouse.com/cover/9781591843169
+updated_at: 2026-04-07 10:46

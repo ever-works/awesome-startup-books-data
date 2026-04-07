@@ -1,13 +1,15 @@
 name: "The Creative Curve: How to Develop the Right Idea at the Right Time"
-description: Allen Gannett's data-driven approach to creativity, revealing how
-  anyone can develop breakthrough ideas through pattern recognition and
-  practice.
+description: "Allen Gannett demystifies creativity for entrepreneurs, teaching
+  mindset shifts via consumption, imitation, and iteration to generate
+  breakthrough ideas and overcome innovation failures. Key habits: building
+  pattern recognition through deliberate practice. Vs Atomic Habits, it targets
+  creative ideation processes rather than daily behaviors."
 source_url: https://www.thecreativecurve.com/
 category: Personal Development
 tags:
+  - mindset
   - creativity
   - innovation
-  - ideation
 featured: false
 markdown: >-
   ## Overview
@@ -47,4 +49,6 @@ markdown: >-
 
 
   Available for approximately $16-27.
-updated_at: 2026-03-22 19:54
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/91fY8J7oFBL.jpg
+updated_at: 2026-04-07 10:46

@@ -1,13 +1,16 @@
 name: "Grit: The Power of Passion and Perseverance"
-description: MacArthur Fellow Angela Duckworth shows that success comes from
-  passion and persistence more than talent. A must-read for founders facing the
-  long, difficult journey of building a startup.
+description: Angela Duckworth's Grit reveals that entrepreneurial success stems
+  from sustained passion and perseverance over talent, building key habits of
+  deliberate practice and purpose to overcome prolonged startup failures.
+  Essential mindset shift for founders enduring the marathon of building
+  companies. Vs Atomic Habits, it emphasizes gritty perseverance over tiny
+  changes.
 source_url: https://angeladuckworth.com/grit-book/
 category: Personal Development
 tags:
+  - mindset
+  - grit
   - perseverance
-  - psychology
-  - success
 featured: true
 markdown: >-
   ## Overview
@@ -108,4 +111,6 @@ markdown: >-
 
   Published by Scribner, an imprint of Simon & Schuster. Available in hardcover,
   paperback, ebook, and audiobook. Over 5 million copies sold worldwide.
-updated_at: 2026-03-10 12:13
+images:
+  - https://angeladuckworth.com/wp-content/uploads/2018/09/grit-cover.jpg
+updated_at: 2026-04-07 10:46

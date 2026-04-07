@@ -8,14 +8,9 @@ description: A startup and scaling-focused business book by Lex Sisney that
   traction to growth and needing guidance on organizational design and scaling
   structures.
 source_url: https://www.amazon.com/Revenue-Operations-Manual-High-Growth-Predictable/dp/1398616761
-featured: false
-brand: amazon
-brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB614384763_.png
-images:
-  - https://m.media-amazon.com/images/I/41TSqRq7JfL.jpg
-  - https://m.media-amazon.com/images/I/71wfM9w1G8L._SL1500_.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   ## Designed to Scale: How to Structure Your Business for Exponential Growth
 
@@ -77,4 +72,9 @@ markdown: >-
   Pricing and specific formats (hardcover, paperback, Kindle, audiobook) depend
   on the retailer; refer to the product page on Amazon for current pricing and
   editions.
-updated_at: 2025-12-26 07:04
+brand: amazon
+brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB614384763_.png
+images:
+  - https://m.media-amazon.com/images/I/41TSqRq7JfL.jpg
+  - https://m.media-amazon.com/images/I/71wfM9w1G8L._SL1500_.jpg
+updated_at: 2026-04-07 10:46

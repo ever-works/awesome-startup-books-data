@@ -4,17 +4,12 @@ description: Lean Media by Ian Lamont adapts lean and iterative development
   startup founders and creators a framework for rapidly testing concepts with
   audiences and reducing risk in creative ventures.
 source_url: http://leanmedia.org
-featured: false
-brand: lean-media-ian-lamont
-brand_logo_url: http://leanmedia.org/wp-content/uploads/2016/10/cropped-lean-media-logo-1.png
-images:
-  - http://leanmedia.org/wp-content/uploads/2016/10/lean-media-book-cover.png
-  - https://images-na.ssl-images-amazon.com/images/I/41u7nZ3q5fL._SX331_BO1,204,203,200_.jpg
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - lean
   - iteration
   - product-development
+featured: false
 markdown: >-
   # Lean Media
 
@@ -99,4 +94,9 @@ markdown: >-
   products is provided in the available content. Pricing for the book and any
   consulting services appears to be handled externally (e.g., via Amazon or
   direct contact).
-updated_at: 2026-01-16 20:08
+brand: lean-media-ian-lamont
+brand_logo_url: http://leanmedia.org/wp-content/uploads/2016/10/cropped-lean-media-logo-1.png
+images:
+  - http://leanmedia.org/wp-content/uploads/2016/10/lean-media-book-cover.png
+  - https://images-na.ssl-images-amazon.com/images/I/41u7nZ3q5fL._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

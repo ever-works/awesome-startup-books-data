@@ -1,14 +1,15 @@
 name: "Business Model Generation: A Handbook for Visionaries, Game Changers, and
   Challengers"
-description: Alexander Osterwalder's visual guide to designing innovative
-  business models using the Business Model Canvas, co-created by 470
-  practitioners from 45 countries.
+description: Osterwalder's Business Model Canvas equips founders with a visual
+  framework to iterate models rapidly, testing pivots from resource to revenue
+  streams. Key for lean startup experimentation vs Porter's static industry
+  views.
 source_url: https://www.strategyzer.com/books/business-model-generation
 category: Business Strategy
 tags:
-  - business-model
-  - innovation
-  - canvas
+  - business-model-canvas
+  - iteration
+  - lean-framework
 featured: true
 markdown: >-
   ## Overview
@@ -75,4 +76,6 @@ markdown: >-
 
 
   Available for approximately $25-40.
-updated_at: 2026-03-22 19:54
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51zN%2Byd0fBL._SX425_.jpg
+updated_at: 2026-04-07 10:46

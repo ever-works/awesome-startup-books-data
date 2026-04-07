@@ -1,13 +1,16 @@
 name: The Everything Store
-description: Brad Stone chronicles Jeff Bezos and Amazon's rise from online
-  bookstore to everything store. Essential reading for understanding customer
-  obsession, long-term thinking, and relentless innovation.
+description: Brad Stone's account of Jeff Bezos building Amazon emphasizes
+  customer-first strategies, bold infrastructure investments, and innovations
+  like Prime that redefined retail. Founders learn to tolerate misunderstanding
+  for decades, iterate via data, and disrupt internally to evade quarterly
+  pressure pitfalls. Compared to Nike's Shoe Dog, it dives into tech scalability
+  vs consumer goods grit; key for marketplace and logistics inspiration.
 source_url: https://brad-stone.com/the-everything-store/
 category: Biographies
 tags:
-  - amazon
+  - founder-story
   - ecommerce
-  - tech-history
+  - long-term-thinking
 featured: true
 markdown: >-
   ## Overview
@@ -128,4 +131,6 @@ markdown: >-
 
   Available in hardcover, paperback, ebook, and audiobook formats.
 brand: Amazon
-updated_at: 2026-03-07 17:50
+images:
+  - https://m.media-amazon.com/images/I/81W+NzSTNAL._AC_UF1000,1000_QL80_.jpg
+updated_at: 2026-04-07 10:46

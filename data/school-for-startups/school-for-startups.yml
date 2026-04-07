@@ -3,15 +3,12 @@ description: Authored by Jim Beach, 'School for Startups' is a guide for
   entrepreneurs looking to achieve small business success quickly. It offers a
   structured approach to launching and growing a startup within 90 days.
 source_url: https://www.goodreads.com/book/show/9538530-school-for-startups
-featured: false
-brand_logo_url: null
-images:
-  - https://images.gr-assets.com/books/1344266631l/9538530.jpg
-category: startup-methodologies
+category: Startup Methodologies
 tags:
-  - small-business
+  - Business Strategy
   - launch
   - growth
+featured: false
 markdown: >-
   ### School for Startups
 
@@ -63,4 +60,7 @@ markdown: >-
 
   Note: The book does not include any specific pricing plans as it is a
   standalone guide for entrepreneurs.
-updated_at: 2025-12-16 06:04
+brand_logo_url: null
+images:
+  - https://images.gr-assets.com/books/1344266631l/9538530.jpg
+updated_at: 2026-04-07 10:46

@@ -5,15 +5,12 @@ description: A leadership and personal effectiveness book that helps high
   growth—useful for startup founders transitioning from early hustle to leading
   larger teams and companies.
 source_url: https://readingraphics.com/book-summary-what-got-you-here-wont-get-you-there/
-featured: false
-brand: hyperion
-brand_logo_url: /favicon.ico
-images: null
-category: personal-development
+category: Personal Development
 tags:
   - leadership
   - habits
   - personal-growth
+featured: false
 markdown: >-
   # What Got You Here Won't Get You There: How Successful People Become Even
   More Successful
@@ -134,4 +131,6 @@ markdown: >-
   This entry describes the book and its ideas; no specific pricing or plans are
   provided in the source content. Pricing will depend on the retailer and book
   format (print, ebook, audiobook).
-updated_at: 2026-01-18 20:27
+brand: hyperion
+brand_logo_url: /favicon.ico
+updated_at: 2026-04-07 10:46

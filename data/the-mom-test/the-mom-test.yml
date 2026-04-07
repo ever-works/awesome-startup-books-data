@@ -5,14 +5,9 @@ description: A practical startup handbook by Rob Fitzpatrick that teaches
   must-read for startup founders working on idea validation and customer
   discovery.
 source_url: https://www.reddit.com/r/startups/comments/18v0b1r/about_the_mom_test/
-featured: false
-brand: amazon
-brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-sprite_2x-c8b3d5c0e23f261a015734daba4c6b92a7375b52._V2_.png
-images:
-  - https://m.media-amazon.com/images/I/71pMiGChyuL.jpg
-  - https://m.media-amazon.com/images/I/81NhKvlf5wL._SL1500_.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # The Mom Test
 
@@ -110,4 +105,9 @@ markdown: >-
   <https://www.reddit.com/r/startups/comments/18v0b1r/about_the_mom_test/>
 
   - Official site: <http://momtestbook.com/>
-updated_at: 2025-12-26 07:04
+brand: amazon
+brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-sprite_2x-c8b3d5c0e23f261a015734daba4c6b92a7375b52._V2_.png
+images:
+  - https://m.media-amazon.com/images/I/71pMiGChyuL.jpg
+  - https://m.media-amazon.com/images/I/81NhKvlf5wL._SL1500_.jpg
+updated_at: 2026-04-07 10:46

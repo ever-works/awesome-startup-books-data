@@ -4,15 +4,15 @@ description: Charles G. Koch’s management and business philosophy book detaili
   growth—useful for startup founders designing scalable, principled business
   models.
 source_url: https://www.penguinrandomhouse.com/books/245384/good-profit-by-charles-g-koch/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
-images:
-  - https://images.penguinrandomhouse.com/cover/9781101904138
-category: business-strategy
+category: Business Strategy
 tags:
   - business-strategy
   - value-creation
   - long-term
+featured: false
 markdown: ""
-updated_at: 2025-12-31 19:04
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9781101904138
+updated_at: 2026-04-07 10:46

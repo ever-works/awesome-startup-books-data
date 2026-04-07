@@ -1,13 +1,16 @@
 name: "Amp It Up: Leading for Hypergrowth by Raising Expectations, Increasing
   Urgency, and Elevating Intensity"
-description: Snowflake CEO Frank Slootman's playbook for hypergrowth—the direct,
-  uncompromising strategies that led to the largest software IPO ever. Essential
-  for founders ready to scale aggressively.
+description: Frank Slootman outlines aggressive growth tactics for founders,
+  focusing on raising performance standards, accelerating pace, and elevating
+  execution intensity to scale teams and revenue rapidly. Key use cases include
+  talent upgrades for higher density and cycle time reductions, as seen in
+  Snowflake's path to the largest software IPO. Compared to Blitzscaling, it
+  prioritizes cultural rigor over mere speed.
 source_url: https://ampitupbook.com/
 category: Growth & Scaling
 tags:
   - hypergrowth
-  - leadership
+  - scaling-teams
   - execution
 featured: true
 markdown: >-
@@ -370,4 +373,6 @@ markdown: >-
   hardcover, ebook, and audiobook. Wall Street Journal, USA Today, and
   Publishers Weekly bestseller.
 brand: Wiley
-updated_at: 2026-03-10 12:13
+images:
+  - https://m.media-amazon.com/images/I/81i6Y5vL+ZL._SL1500_.jpg
+updated_at: 2026-04-07 10:46

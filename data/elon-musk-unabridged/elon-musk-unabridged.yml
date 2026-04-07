@@ -4,13 +4,9 @@ description: An unabridged audiobook edition focusing on Elon Musk’s life and
   engineering‑driven companies, aggressive goals, and scaling hard‑tech
   startups.
 source_url: https://books.apple.com/us/audiobook/elon-musk-unabridged/id1672893689
-featured: false
-brand: apple-books
-brand_logo_url: https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202501051707
-images:
-  - https://is1-ssl.mzstatic.com/image/thumb/audiobooks/v4/ec/0c/57/ec0c5741-0ee3-6ef3-0f63-036ddb3a7f8d/9780008617814.png/1200x1200bb.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # Elon Musk (Unabridged)
 
@@ -92,4 +88,8 @@ markdown: >-
 
   - Apple Books:
   <https://books.apple.com/us/audiobook/elon-musk-unabridged/id1672893689>
-updated_at: 2026-01-14 20:17
+brand: apple-books
+brand_logo_url: https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202501051707
+images:
+  - https://is1-ssl.mzstatic.com/image/thumb/audiobooks/v4/ec/0c/57/ec0c5741-0ee3-6ef3-0f63-036ddb3a7f8d/9780008617814.png/1200x1200bb.jpg
+updated_at: 2026-04-07 10:46

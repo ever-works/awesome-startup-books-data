@@ -1,12 +1,16 @@
 name: "Lost and Founder: A Painfully Honest Field Guide to the Startup World"
-description: Rand Fishkin's brutally honest account of building Moz. Challenges
-  startup mythology with real talk about what it's actually like.
+description: Rand Fishkin demystifies Moz's journey, exposing VC pitfalls,
+  boardroom politics, and growth myths that plague founders. Takeaways focus on
+  prioritizing profitability over hype, maintaining founder control, and
+  bootstrapping viability to sidestep funding traps. Unlike inspirational tales
+  like Shoe Dog, it warns of real startup pitfalls; essential for avoiding
+  common mistakes and realistic inspiration.
 source_url: https://www.goodreads.com/book/show/35297367-lost-and-founder
 category: Biographies
 tags:
-  - honest
+  - founder-story
+  - memoir
   - startup-reality
-  - transparency
 featured: true
 markdown: >-
   ## Overview
@@ -75,4 +79,4 @@ markdown: >-
 
   Published by Portfolio 2018.
 brand: Portfolio
-updated_at: 2026-03-10 12:13
+updated_at: 2026-04-07 10:46

@@ -6,16 +6,12 @@ description: Popular science book by molecular biologist John Medina that
   productive teams—indirect but valuable support for startup performance and
   founder effectiveness.
 source_url: https://brainrules.net/the-rules/
-featured: false
-brand: pear-press
-brand_logo_url: https://brainrules.net/wp-content/uploads/2018/06/brainrules_logo.png
-images:
-  - https://brainrules.net/wp-content/uploads/2018/06/brainrules_book-200x300.jpg
-category: biographies
+category: Biographies
 tags:
   - performance
   - learning
   - work-habits
+featured: false
 markdown: >-
   # Brain Rules
 
@@ -100,4 +96,8 @@ markdown: >-
   The provided content does not specify any pricing or editions for the book.
   For purchase options and pricing, see the publisher or bookseller sites linked
   from the official page.
-updated_at: 2026-01-14 20:17
+brand: pear-press
+brand_logo_url: https://brainrules.net/wp-content/uploads/2018/06/brainrules_logo.png
+images:
+  - https://brainrules.net/wp-content/uploads/2018/06/brainrules_book-200x300.jpg
+updated_at: 2026-04-07 10:46

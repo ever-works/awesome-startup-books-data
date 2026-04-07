@@ -5,12 +5,9 @@ description: Spanish-language business and self-improvement book by Margarita
   aspiring entrepreneurs and early-stage founders seeking foundational personal
   and professional development, though it is broader than startups specifically.
 source_url: https://www.goodreads.com/book/show/122756489-pasos-de-gigante
-featured: false
-brand: margarita-pasos
-brand_logo_url: /Margarita-Pasos
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   ## Pasos de gigante
 
@@ -80,4 +77,6 @@ markdown: >-
 
   Pricing is not specified in the provided content. Readers can check the source
   link or book retailers for current pricing information.
-updated_at: 2026-01-14 20:17
+brand: margarita-pasos
+brand_logo_url: /Margarita-Pasos
+updated_at: 2026-04-07 10:46

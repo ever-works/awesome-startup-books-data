@@ -5,13 +5,9 @@ description: Spanish-language personal finance and money mindset book by Mario
   aspiring founders build the financial acumen and money-management habits that
   are crucial when starting and scaling a business.
 source_url: https://www.goodreads.com/book/show/124937544
-featured: false
-brand: amazon
-brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonui-logo._CB481614493_.png
-images:
-  - https://m.media-amazon.com/images/I/41w8e5zmxpL._SX331_BO1,204,203,200_.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   # El arte de hacer dinero
 
@@ -54,4 +50,8 @@ markdown: |-
   ## Source
 
   More details: https://www.goodreads.com/book/show/124937544
-updated_at: 2026-01-14 20:17
+brand: amazon
+brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonui-logo._CB481614493_.png
+images:
+  - https://m.media-amazon.com/images/I/41w8e5zmxpL._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

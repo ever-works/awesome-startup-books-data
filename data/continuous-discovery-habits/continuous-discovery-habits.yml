@@ -5,14 +5,12 @@ description: A hands-on guide for product leaders and startup founders on how to
   reduce product risk, increase learning speed, and consistently ship features
   that drive both customer and business value.
 source_url: https://www.landonhowell.com/notes/vqtvdhy3elz62poascm3hvbjvi5vk5
-featured: false
-brand_logo_url: null
-images: null
-category: customer-development
+category: Customer Development
 tags:
   - customer-discovery
   - product-management
   - experimentation
+featured: false
 markdown: >-
   # Continuous Discovery Habits
 
@@ -84,4 +82,5 @@ markdown: >-
 
   - Not specified on the source page. The item is a book; pricing depends on
   retailer and format (e.g., paperback, hardcover, ebook).
-updated_at: 2026-01-10 19:39
+brand_logo_url: null
+updated_at: 2026-04-07 10:46

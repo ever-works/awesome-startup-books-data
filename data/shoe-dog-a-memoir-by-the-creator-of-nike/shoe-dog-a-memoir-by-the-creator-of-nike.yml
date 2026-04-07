@@ -1,0 +1,33 @@
+name: "Shoe Dog: A Memoir by the Creator of Nike"
+description: Phil Knight's memoir chronicles the founding and growth of Nike
+  from importing shoes to global dominance, highlighting lessons for founders on
+  relentless persistence, building key partnerships, embracing calculated risks,
+  and pivoting through financial crises. It offers practical insights into
+  fostering loyal teams and avoiding complacency in consumer brand building.
+  Contrasts with VC-driven stories by emphasizing bootstrapped grit.
+source_url: https://news.nike.com/news/shoe-dog
+category: Biographies
+tags:
+  - founder-story
+  - memoir
+  - '"Fundraising & Investment'
+  - Fundraising " Investment"Fundraising & Investment" Investment
+featured: true
+markdown: |-
+  ## Overview
+
+  Personal story of risks, persistence, and key decisions in building Nike.
+
+  ## Key Themes
+
+  - Early struggles with funding and competition.
+  - Building team and culture.
+  - Global expansion challenges.
+
+  ## Pricing
+
+  Hardcover, ebook, audiobook; widely available.
+brand: Nike
+images:
+  - https://m.media-amazon.com/images/I/81V5oGf7g+L._AC_UF1000,1000_QL80_.jpg
+updated_at: 2026-04-07 10:46

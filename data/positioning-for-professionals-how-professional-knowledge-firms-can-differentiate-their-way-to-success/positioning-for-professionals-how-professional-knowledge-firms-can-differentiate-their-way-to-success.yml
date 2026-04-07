@@ -1,16 +1,15 @@
 name: "Positioning for Professionals: How Professional Knowledge Firms Can
   Differentiate Their Way to Success"
-description: A strategic guide by Tim Williams that shows professional services
-  firms how to differentiate themselves through positioning and transition from
-  hourly billing to value-based pricing. The book provides practical insights
-  for agencies, consultancies, and knowledge firms seeking to command premium
-  rates.
+description: Tim Williams equips service-based founders with positioning
+  strategies to escape hourly billing via specialization and value pricing for
+  premium margins. Use cases for agency pivots to niche dominance;
+  differentiates commoditized services vs Porter's product-focused generics.
 source_url: https://www.amazon.com/Positioning-Professionals-Professional-Knowledge-Differentiate/dp/0470587156
 category: Business Strategy
 tags:
-  - positioning
-  - pricing
   - professional-services
+  - value-pricing
+  - specialization
 featured: false
 markdown: >-
   ## Overview
@@ -122,4 +121,6 @@ markdown: >-
   Published by Wiley, available through Amazon, Barnes & Noble, and other major
   book retailers in hardcover and ebook formats.
 brand: Tim Williams
-updated_at: 2026-03-25 20:12
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51g%2BZ8h%2B0YL._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

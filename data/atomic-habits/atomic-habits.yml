@@ -4,17 +4,12 @@ description: A bestselling book by James Clear that, while not exclusively about
   building systems, compounding small improvements, and creating habits that
   support long-term entrepreneurial success.
 source_url: https://charisol.io/20-must-read-books-for-startup-founders/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://images.randomhouse.com/cover_announcement_resources/logos/rh-logo-vertical.png
-images:
-  - https://m.media-amazon.com/images/I/91bYsX41DVL._SL1500_.jpg
-  - https://m.media-amazon.com/images/I/71E-NFvZgoL.jpg
-category: personal-development
+category: Personal Development
 tags:
   - habits
   - productivity
   - personal-growth
+featured: false
 markdown: >-
   # Atomic Habits
 
@@ -100,4 +95,9 @@ markdown: >-
 
   Pricing is not specified in the provided content. For current pricing and
   formats, refer to the publisher or major book retailers.
-updated_at: 2026-01-03 19:26
+brand: penguin-random-house
+brand_logo_url: https://images.randomhouse.com/cover_announcement_resources/logos/rh-logo-vertical.png
+images:
+  - https://m.media-amazon.com/images/I/91bYsX41DVL._SL1500_.jpg
+  - https://m.media-amazon.com/images/I/71E-NFvZgoL.jpg
+updated_at: 2026-04-07 10:46

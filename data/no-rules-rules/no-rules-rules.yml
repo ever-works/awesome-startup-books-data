@@ -1,13 +1,17 @@
 name: No Rules Rules
-description: Reed Hastings and Erin Meyer explain Netflix's radical culture of
-  freedom and responsibility. High talent density, candor, and removing
-  controls.
+description: No Rules Rules reveals leadership lessons for founders on
+  cultivating freedom and responsibility culture with high talent density and
+  candid feedback for dynamic team building at scale. Key principles include
+  keeper test for talent, 360 reviews for candor, and removing vacation policy
+  controls. Vs High Output Management, it champions context over control for
+  creative innovation.
 source_url: https://www.norulesrules.com/
 category: Leadership & Management
 tags:
   - company-culture
   - innovation
   - freedom
+  - team-leadership
 featured: false
 markdown: >-
   ## Overview
@@ -29,4 +33,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://images.penguinrandomhouse.com/cover/9780593138217
+updated_at: 2026-04-07 10:46

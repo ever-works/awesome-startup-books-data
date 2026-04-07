@@ -1,13 +1,16 @@
 name: "Crossing the Chasm: Marketing and Selling Disruptive Products to
   Mainstream Customers"
-description: Geoffrey Moore's essential guide to successfully transitioning
-  innovative products from early adopters to mainstream markets.
+description: Strategies for tech startups to cross from early adopters to
+  mainstream customers via niche domination and 'whole product' assembly,
+  enabling scalable acquisition. Vs Traction Channels' testing, emphasizes
+  beachhead markets like enterprise software; use cases include Salesforce's CRM
+  pivot to SMBs post-chasm. Go-to-market bible for B2B innovation.
 source_url: https://www.geoffreyamoore.com/
 category: Marketing & Sales
 tags:
   - product-adoption
-  - technology-marketing
-  - growth
+  - go-to-market
+  - customer-acquisition
 featured: true
 markdown: >-
   ## Overview
@@ -66,4 +69,6 @@ markdown: >-
 
 
   Available for approximately $18-30.
-updated_at: 2026-03-22 19:54
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51aE5qQhBFL._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

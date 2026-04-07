@@ -1,12 +1,17 @@
 name: Dare to Lead
-description: Brené Brown teaches brave leadership. Vulnerability is not
-  weakness—it's essential for innovation, creativity, and change.
+description: Dare to Lead delivers leadership lessons for founders on embracing
+  vulnerability to build trust, courage, and resilient teams during team
+  building and crises. Key principles include rumbling with vulnerability,
+  living values, and learning to rise for authentic leadership. Vs High Output
+  Management, it stresses emotional intelligence and bravery over structured
+  processes.
 source_url: https://brenebrown.com/books/
 category: Leadership & Management
 tags:
   - leadership
   - vulnerability
   - courage
+  - team-leadership
 featured: false
 markdown: >-
   ## Overview
@@ -28,4 +33,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://brenebrown.com/wp-content/uploads/2020/11/DareToLead_HC_HR.jpg
+updated_at: 2026-04-07 10:46

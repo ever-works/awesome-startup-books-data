@@ -1,13 +1,16 @@
 name: "Demand-Side Sales 101: Stop Selling and Help Your Customers Make Progress"
-description: Bob Moesta applies Jobs-to-be-Done to sales. Learn to understand
-  customer buying processes and help them make progress instead of pushing
-  products.
+description: Applies Jobs-to-be-Done to startup sales, mapping customer buying
+  timelines and forces to accelerate acquisition without pushy tactics. Vs
+  Traction Channels, focuses on demand-side psychology for higher close rates;
+  use cases cutting B2B sales cycles by 50% via struggle interviews.
+  Go-to-market sales transformation.
 source_url: https://www.demandsideanalytics.com/books
 category: Marketing & Sales
 tags:
   - jobs-to-be-done
   - sales
-  - buying-process
+  - go-to-market
+featured: false
 markdown: >-
   ## Overview
 
@@ -107,4 +110,6 @@ markdown: >-
 
 
   Published by Lioncrest 2021.
-updated_at: 2026-03-10 12:13
+images:
+  - https://m.media-amazon.com/images/I/41i0zX7oGEL._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

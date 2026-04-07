@@ -4,16 +4,12 @@ description: "*The Startup Community Way* by Brad Feld and Ian Hathaway is a
   building entrepreneurial ecosystems and compares them with experiences from
   emerging ecosystems worldwide."
 source_url: https://startupcommunityway.com/
-featured: false
-brand: wiley
-brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wiley_logo.svg/1200px-Wiley_logo.svg.png
-images:
-  - https://images-na.ssl-images-amazon.com/images/I/51z7Z5z5ZDL._SX331_BO1,204,203,200_.jpg
-category: social-entrepreneurship
+category: Social Entrepreneurship
 tags:
   - ecosystem
   - global
   - community-building
+featured: false
 markdown: |-
   ## The Startup Community Way
 
@@ -42,4 +38,8 @@ markdown: |-
   **Slug:** the-startup-community-way
 
   **Note:** The book does not include any specific pricing information as it is a standalone publication rather than a service or subscription model.
-updated_at: 2025-12-13 05:41
+brand: wiley
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wiley_logo.svg/1200px-Wiley_logo.svg.png
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51z7Z5z5ZDL._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

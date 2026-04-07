@@ -1,13 +1,16 @@
 name: The Facebook Effect
-description: David Kirkpatrick provides the inside story of Facebook's creation
-  and explosive growth. Based on extensive access to Mark Zuckerberg and key
-  executives, this book reveals how Facebook transformed from a dorm room
-  project to a global phenomenon.
+description: David Kirkpatrick reveals Facebook's transformation from Harvard
+  dorm project to global connector, spotlighting Zuckerberg's free-service
+  commitment, platform launch, and privacy trade-offs. Founders draw lessons on
+  leveraging network effects, rejecting premature exits, and scaling user bases
+  while mitigating backlash risks. Vs No Filter's Instagram focus, it emphasizes
+  early decisions; use for social platform inspiration and growth-balance
+  pitfalls.
 source_url: https://www.simonandschuster.com/books/The-Facebook-Effect/David-Kirkpatrick/9781439102121
 category: Biographies
 tags:
+  - founder-story
   - social-media
-  - tech-history
   - hypergrowth
 featured: false
 markdown: >-
@@ -92,4 +95,6 @@ markdown: >-
   Available in hardcover, paperback, ebook, and audiobook formats at standard
   retail prices.
 brand: Facebook
-updated_at: 2026-03-07 17:50
+images:
+  - https://m.media-amazon.com/images/I/71u4zq2iJBL._AC_UF1000,1000_QL80_.jpg
+updated_at: 2026-04-07 10:46

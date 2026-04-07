@@ -5,12 +5,9 @@ description: A startup-related book sold on Amazon with ASIN B0F5X76Z2R and a
   appears in a commercial context consistent with startup or business books for
   founders.
 source_url: https://www.tv-asahi.co.jp/unknown/cast/
-featured: false
-brand: amazon-kindle
-brand_logo_url: https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2019/corporate/KDP_Logo._CB445807353_.png
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   # Unknown (Amazon Kindle Edition – ASIN B0F5X76Z2R)
 
@@ -79,4 +76,6 @@ markdown: |-
   - No reliable content summary, table of contents, or author bio can be extracted from the given material.
 
   This summary therefore focuses only on verifiable attributes: format, ASIN, pricing, and inferred topical area (startup / business for founders).
-updated_at: 2025-12-26 07:04
+brand: amazon-kindle
+brand_logo_url: https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2019/corporate/KDP_Logo._CB445807353_.png
+updated_at: 2026-04-07 10:46

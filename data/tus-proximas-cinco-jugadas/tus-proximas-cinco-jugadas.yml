@@ -4,12 +4,9 @@ description: A Spanish-language business strategy book focused on helping
   plans, and make better competitive decisions—highly relevant for startup
   founders designing growth and positioning strategies.
 source_url: https://www.amazon.com.be/-/en/Tus-Proximas-Cinco-Jugadas-estrategia/dp/8419105244
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # Tus próximas cinco jugadas
 
@@ -88,4 +85,6 @@ markdown: >-
   - No specific pricing or plan information is provided in the available
   content. Readers should check the linked retailer page for current price and
   format options.
-updated_at: 2026-01-14 20:17
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

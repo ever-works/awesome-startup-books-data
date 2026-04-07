@@ -1,14 +1,18 @@
 name: "Creative Selection: Inside Apple's Design Process During the Golden Age
   of Steve Jobs"
-description: Ken Kocienda's insider account of designing software for the first
-  iPhone and iPad, revealing Apple's unique approach to creating breakthrough
-  products through demos, taste, and iteration.
+description: Ken Kocienda recounts his role in crafting iPhone and iPad software
+  at Apple, detailing the demo-driven culture, iterative refinement, and
+  taste-making under Steve Jobs. Key takeaways for founders include prioritizing
+  demos over docs, relentless iteration on details, and cultivating sharp
+  judgment to ship breakthrough products; contrasts with broader biographies
+  like Steve Jobs by focusing on engineering craft. Ideal for product leads
+  seeking inspiration in high-stakes creativity and avoiding mediocre execution.
 source_url: https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466
 category: Biographies
 tags:
-  - apple
-  - design
+  - founder-story
   - product-development
+  - apple
 featured: false
 markdown: >-
   ## Overview
@@ -77,4 +81,6 @@ markdown: >-
 
 
   Available for approximately $16-27.
-updated_at: 2026-03-22 19:54
+images:
+  - https://m.media-amazon.com/images/I/91zTTw5N7xL._AC_UF1000,1000_QL80_.jpg
+updated_at: 2026-04-07 10:46

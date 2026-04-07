@@ -3,16 +3,12 @@ description: A personal development and productivity book focused on mindset,
   resilience, and redefining success—relevant for startup founders managing high
   expectations, burnout risk, and sustained performance.
 source_url: https://www.penguinrandomhouse.com/books/545105/there-are-no-overachievers-by-brian-brown/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.png
-images:
-  - https://images.penguinrandomhouse.com/cover/9780451497628
-category: personal-development
+category: Personal Development
 tags:
   - mindset
   - resilience
   - productivity
+featured: false
 markdown: |-
   # There Are No Overachievers
 
@@ -60,4 +56,8 @@ markdown: |-
 
   ## Pricing
   Pricing details are not provided in the available content. Refer to the publisher or bookseller for current pricing and available formats.
-updated_at: 2026-01-06 19:44
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.png
+images:
+  - https://images.penguinrandomhouse.com/cover/9780451497628
+updated_at: 2026-04-07 10:46

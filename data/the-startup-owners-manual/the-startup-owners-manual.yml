@@ -2,12 +2,12 @@ name: The Startup Owner's Manual
 description: Steve Blank and Bob Dorf provide a step-by-step guide to building a
   great company, offering practical advice and strategies for startup founders.
 source_url: https://steveblank.com/
-featured: false
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - business-strategy
   - entrepreneurship
   - guide
+featured: false
 markdown: >-
   ## The Startup Owner's Manual
 
@@ -57,4 +57,4 @@ markdown: >-
 
   **Source URL:** [Visit the official site](https://steveblank.com/) for more
   information on Steve Blank's works and resources.
-updated_at: 2025-11-07 18:15
+updated_at: 2026-04-07 10:46

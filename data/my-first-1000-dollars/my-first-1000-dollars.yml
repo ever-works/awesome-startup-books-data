@@ -3,15 +3,12 @@ description: Yogi Raj's workbook provides actionable strategies for acquiring
   initial customers, a critical step for any startup. It's a hands-on guide for
   founders looking to build a customer base from scratch.
 source_url: https://www.goodreads.com/book/show/25972308-my-first-1000-dollars
-featured: false
-brand_logo_url: null
-images:
-  - https://images.gr-assets.com/books/1441978054l/25972308.jpg
-category: customer-development
+category: Customer Development
 tags:
   - customer-acquisition
   - startup
   - strategies
+featured: false
 markdown: >-
   ### My First 1000 Dollars
 
@@ -71,4 +68,7 @@ markdown: >-
   Note: No pricing information is available for this item as it is a book and
   not a service or product with varied plans. The content is focused on
   providing strategic insights rather than commercial offerings.
-updated_at: 2025-12-16 06:04
+brand_logo_url: null
+images:
+  - https://images.gr-assets.com/books/1441978054l/25972308.jpg
+updated_at: 2026-04-07 10:46

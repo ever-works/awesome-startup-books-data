@@ -1,15 +1,16 @@
 name: "Masters of Scale: Surprising Truths from the World's Most Successful
   Entrepreneurs"
-description: Reid Hoffman distills insights from his award-winning podcast
-  featuring founders of iconic companies like Netflix, Spotify, and Airbnb.
-  Essential strategies for scaling companies from someone who helped build
-  PayPal and LinkedIn.
+description: Reid Hoffman distills founder tactics like 'do things that don't
+  scale' initially and building ally networks for explosive team and revenue
+  scaling. Key metrics include pivot velocity and culture alignment scores
+  during hypergrowth phases. Compared to Blitzscaling, it emphasizes
+  counterintuitive strategies like letting small fires burn.
 source_url: https://mastersofscale.com/
 category: Growth & Scaling
 tags:
   - scaling
-  - growth
-  - interviews
+  - hypergrowth
+  - entrepreneurs
 featured: true
 markdown: >-
   ## Overview
@@ -139,4 +140,6 @@ markdown: >-
   Published by Currency (Penguin Random House) in 2021. ISBN: 9780593239087.
   Available in hardcover, ebook, and audiobook formats.
 brand: Currency
-updated_at: 2026-03-10 12:13
+images:
+  - https://m.media-amazon.com/images/I/81QJ2K1dNBL._SL1500_.jpg
+updated_at: 2026-04-07 10:46

@@ -6,14 +6,12 @@ description: Donald G. Reinertsen’s advanced treatment of lean principles
   complex product organizations who need to improve speed, throughput, and
   decision quality in R&D and product delivery.
 source_url: https://flowchainsensei.wordpress.com/2025/09/
-featured: true
-brand_logo_url: null
-images: null
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - lean
   - product-development
   - efficiency
+featured: true
 markdown: |-
   ## The Principles of Product Development Flow: Second Generation Lean Product Development
 
@@ -48,4 +46,5 @@ markdown: |-
 
   ### Tags
   `lean` · `product-development` · `efficiency`
-updated_at: 2025-12-24 06:55
+brand_logo_url: null
+updated_at: 2026-04-07 10:46

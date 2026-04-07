@@ -1,15 +1,15 @@
 name: "The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale"
-description: University of Chicago economist John A. List explores why some
-  ideas scale successfully while others fail. Drawing on decades of research and
-  experience at companies like Uber and Walmart, List provides a framework for
-  identifying which ideas have 'voltage' and can grow from small successes to
-  massive impact.
+description: John A. List equips founders with five vital signs (false
+  positives, audience fit, etc.) to test idea scalability before team expansion.
+  Key metrics include voltage drop prevention and spillover analysis for
+  hypergrowth use cases like Uber pilots. Vs Blitzscaling, it uses economic
+  experiments to avoid scaling failures from unchecked expansion.
 source_url: https://www.thevoltageeffect.com/
 category: Growth & Scaling
 tags:
   - scaling
   - innovation
-  - economics
+  - hypergrowth
 featured: true
 markdown: >-
   ## Overview
@@ -96,4 +96,6 @@ markdown: >-
   Published by Currency in 2022, 288 pages. Available in hardcover, paperback,
   ebook, and audiobook formats through major retailers.
 brand: John A. List
-updated_at: 2026-03-25 20:12
+images:
+  - https://m.media-amazon.com/images/I/81iY8vL+ZL._SL1500_.jpg
+updated_at: 2026-04-07 10:46

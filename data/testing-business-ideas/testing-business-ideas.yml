@@ -6,17 +6,12 @@ description: Testing Business Ideas by David J. Bland and Alexander Osterwalder
   risk and avoid building products nobody wants, making it a must-read companion
   to Lean Startup-style innovation.
 source_url: https://www.strategyzer.com/library/testing-business-ideas-book
-featured: false
-brand: wiley
-brand_logo_url: null
-images:
-  - https://m.media-amazon.com/images/I/81F1oT4qpoL._SL1500_.jpg
-  - https://m.media-amazon.com/images/I/71kvmqg0r5L.jpg
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - validation
   - experimentation
   - frameworks
+featured: false
 markdown: >
   # Testing Business Ideas
 
@@ -145,4 +140,9 @@ markdown: >
 
   - Official page:
   https://www.strategyzer.com/library/testing-business-ideas-book
-updated_at: 2026-01-10 19:39
+brand: wiley
+brand_logo_url: null
+images:
+  - https://m.media-amazon.com/images/I/81F1oT4qpoL._SL1500_.jpg
+  - https://m.media-amazon.com/images/I/71kvmqg0r5L.jpg
+updated_at: 2026-04-07 10:46

@@ -5,15 +5,15 @@ description: Design-focused self-help book that applies design thinking
   prototype startup ideas, and align entrepreneurial work with personal values
   and constraints.
 source_url: https://www.penguinrandomhouse.com/books/247004/designing-your-life-by-bill-burnett-and-dave-evans/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/header-logo-prh.svg
-images:
-  - https://images.penguinrandomhouse.com/cover/9781101875322
-category: personal-development
+category: Personal Development
 tags:
   - design-thinking
   - personal-growth
   - career
+featured: false
 markdown: ""
-updated_at: 2026-01-13 19:51
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/header-logo-prh.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9781101875322
+updated_at: 2026-04-07 10:46

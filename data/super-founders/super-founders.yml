@@ -1,11 +1,15 @@
 name: "Super Founders: What Data Reveals About Billion-Dollar Startups"
-description: Ali Tamaseb's data-driven analysis of what makes billion-dollar
-  startups different, debunking myths about successful founders.
+description: Ali Tamaseb's data analysis of 30,000+ unicorn founders debunks
+  myths like dropout necessity or youth advantage, highlighting market timing,
+  pivots, and execution as true drivers. Founders benefit from evidence-based
+  paths to scale, avoiding hype-driven decisions like chasing 'next big thing'
+  without fit. Unlike personal memoirs such as Shoe Dog, it provides aggregate
+  stats for strategic planning and realistic benchmarking.
 source_url: https://www.alitamaseb.com/super-founders
 category: Biographies
 tags:
-  - data-analysis
-  - founders
+  - founder-story
+  - data-driven
   - unicorns
 featured: false
 markdown: >-
@@ -59,4 +63,6 @@ markdown: >-
 
 
   Available for approximately $18-28.
-updated_at: 2026-03-22 19:54
+images:
+  - https://m.media-amazon.com/images/I/81QJ9fPQLOL._AC_UF1000,1000_QL80_.jpg
+updated_at: 2026-04-07 10:46

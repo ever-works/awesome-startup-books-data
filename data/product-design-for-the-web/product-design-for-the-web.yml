@@ -1,0 +1,24 @@
+name: Product Design for the Web
+description: Frameworks and iterative processes for web product management in
+  startups, emphasizing discovery, MVP building, and user-centered design. Use
+  cases focus on rapid learning cycles for web apps and sites. Web-specific
+  complement to broader PM books like Inspired.
+source_url: https://www.peachpit.com/store/product.aspx?isbn=0321814258
+category: Product Management
+tags:
+  - product-design
+  - web
+  - product-led
+  - mvp-building
+featured: false
+markdown: |-
+  ## Overview
+  Focuses on learning attitude in web product building.
+
+  ## Frameworks
+  - Practical tools for web design and development.
+  - Emphasis on discovery and iteration.
+brand_logo_url: ""
+images:
+  - https://images.gr-assets.com/books/1347664914/m/0321814258.jpg
+updated_at: 2026-04-07 10:46

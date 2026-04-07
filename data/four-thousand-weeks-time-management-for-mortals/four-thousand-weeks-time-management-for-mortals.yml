@@ -1,12 +1,16 @@
 name: "Four Thousand Weeks: Time Management for Mortals"
-description: Oliver Burkeman's philosophical take on time and productivity.
-  Essential for founders learning that you can't do everything—and that's okay.
+description: "Oliver Burkeman's Four Thousand Weeks liberates entrepreneurs from
+  productivity obsession, shifting mindset to embrace finitude, prioritize
+  essentials, and find joy in limits for sustainable personal growth. Key use
+  case: Overcoming FOMO and burnout by choosing meaningful work amid infinite
+  tasks. Vs Atomic Habits, it rejects optimization hacks for philosophical
+  acceptance."
 source_url: https://www.oliverburkeman.com/books
 category: Personal Development
 tags:
+  - mindset
+  - productivity
   - time-management
-  - philosophy
-  - focus
 featured: true
 markdown: >-
   ## Overview
@@ -75,4 +79,6 @@ markdown: >-
 
   Published by Farrar, Straus and Giroux 2021. International bestseller.
 brand: Farrar, Straus and Giroux
-updated_at: 2026-03-10 12:13
+images:
+  - https://fourthousandweeks.com/wp-content/uploads/2021/06/9780374159117.jpg
+updated_at: 2026-04-07 10:46

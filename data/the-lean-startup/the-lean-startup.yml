@@ -3,12 +3,12 @@ description: Authored by Eric Ries, 'The Lean Startup' is a foundational book
   for entrepreneurs, focusing on how to efficiently build a startup that meets
   customer needs.
 source_url: http://theleanstartup.com/
-featured: false
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - lean
   - entrepreneurship
   - innovation
+featured: false
 markdown: >-
   # The Lean Startup
 
@@ -90,4 +90,4 @@ markdown: >-
   To explore how **The Lean Startup** can transform your business model and
   product development process, visit [The Lean Startup
   Website](http://theleanstartup.com/).
-updated_at: 2025-11-07 18:15
+updated_at: 2026-04-07 10:46

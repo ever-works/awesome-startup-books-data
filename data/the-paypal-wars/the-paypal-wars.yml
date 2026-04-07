@@ -1,13 +1,16 @@
 name: The PayPal Wars
-description: An insider's account of PayPal's early days, battles with eBay,
-  regulators, and competitors. Eric Jackson provides an eyewitness perspective
-  on how Peter Thiel, Elon Musk, and the PayPal Mafia built a legendary company.
+description: Eric Jackson recounts PayPal's chaotic founding, mafia-like
+  internal battles, fraud fights, and eBay clashes that birthed the PayPal
+  Mafia. Founders gain tactics on viral referrals, regulatory navigation, and
+  contrarian hiring to evade fraud pitfalls and incumbent threats. Vs Lost and
+  Founder, it celebrates scrappy wins amid dysfunction; key for fintech builders
+  seeking network-effect inspiration and crisis management.
 source_url: https://www.ericmjackson.com/the-paypal-wars
 category: Biographies
 tags:
-  - tech-history
-  - payments
-  - silicon-valley
+  - founder-story
+  - fintech
+  - mafia
 featured: false
 markdown: >-
   ## Overview
@@ -80,4 +83,6 @@ markdown: >-
   Available in paperback, ebook, and audiobook formats at standard retail
   prices.
 brand: PayPal
-updated_at: 2026-03-07 17:50
+images:
+  - https://m.media-amazon.com/images/I/81kZ7zYkJZL._AC_UF1000,1000_QL80_.jpg
+updated_at: 2026-04-07 10:46

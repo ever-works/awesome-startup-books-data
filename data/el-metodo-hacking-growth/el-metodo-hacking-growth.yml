@@ -5,12 +5,9 @@ description: Spanish edition of "Hacking Growth," a book on data-driven growth
   growth through experimentation, product optimization, and customer acquisition
   tactics.
 source_url: https://www.goodreads.com/book/show/38618236
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # El método Hacking Growth
 
@@ -79,4 +76,6 @@ markdown: >-
   ## Pricing
 
   - No pricing information is provided in the available content.
-updated_at: 2026-01-14 20:17
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

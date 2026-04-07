@@ -1,14 +1,16 @@
 name: "Exponential Organizations: Why New Organizations Are Ten Times Better,
   Faster, Cheaper Than Yours"
-description: Salim Ismail reveals how Exponential Organizations leverage
-  technology to achieve 10x performance over traditional companies. Essential
-  for founders who want to build companies that scale exponentially, not
-  linearly.
+description: Salim Ismail presents tactics for founders to build ExOs using
+  SCALE (Staff on demand, Community, Algorithms, Leveraged assets, Engagement)
+  for 10x growth over linear scaling. Key use cases include rapid team scaling
+  via external talent and metrics like MTP alignment for hypergrowth phases. Vs
+  Blitzscaling, it emphasizes tech-leveraged attributes for sustainable
+  exponential expansion.
 source_url: https://diversionbooks.com/books/exponential-organizations/
 category: Growth & Scaling
 tags:
   - exponential-growth
-  - technology
+  - hypergrowth
   - scaling
 featured: true
 markdown: >-
@@ -295,4 +297,6 @@ markdown: >-
   978-1-626-81423-3. Available in hardcover, paperback, ebook, and audiobook
   formats.
 brand: Diversion Books
-updated_at: 2026-03-10 12:13
+images:
+  - https://m.media-amazon.com/images/I/81QJ2K1dNBL._SL1500_.jpg
+updated_at: 2026-04-07 10:46

@@ -3,16 +3,12 @@ description: A practical guide for aspiring entrepreneurs that follows real food
   startup founders, offering concrete advice on validating ideas, branding,
   distribution, and scaling a consumer-product business from scratch.
 source_url: https://www.penguinrandomhouse.com/books/228796/cooking-up-a-business-by-rachel-hofstetter/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
-images:
-  - https://images.penguinrandomhouse.com/cover/9780399162312
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - entrepreneurship
   - validation
   - branding
+featured: false
 markdown: |
   # Cooking Up a Business
 
@@ -42,4 +38,8 @@ markdown: |
   ## Brand Information
   - **Publisher:** Penguin Random House  
   - **Brand logo:** ![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg)
-updated_at: 2026-01-06 19:48
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9780399162312
+updated_at: 2026-04-07 10:46

@@ -1,0 +1,14 @@
+name: The Mythical Man-Month
+description: Fred Brooks' classic on software project management, essential for
+  software company managers.
+source_url: https://www.informit.com/store/mythical-man-month-essays-on-software-engineering-anniversary-9780201835951
+category: Leadership & Management
+tags:
+  - software-management
+  - brooks
+featured: true
+markdown: |-
+  ## Overview
+
+  Essays on software engineering and management.
+updated_at: 2026-04-07 10:46

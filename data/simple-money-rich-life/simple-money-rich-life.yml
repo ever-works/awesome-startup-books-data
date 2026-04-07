@@ -3,16 +3,12 @@ description: Personal finance and life-design book aimed at helping readers
   manage money, avoid burnout, and align spending with values—useful context for
   founders managing variable income and financial risk during startup life.
 source_url: https://www.penguinrandomhouse.com/books/676554/simple-money-rich-life-by-bob-lotich/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.png
-images:
-  - https://images.penguinrandomhouse.com/cover/9780593193655
-category: personal-development
+category: Personal Development
 tags:
   - financial-literacy
   - mindset
   - lifestyle
+featured: false
 markdown: |-
   # Simple Money, Rich Life
 
@@ -66,4 +62,8 @@ markdown: |-
 
   ---
   Slug for directory use: `simple-money-rich-life`
-updated_at: 2026-01-03 19:26
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.png
+images:
+  - https://images.penguinrandomhouse.com/cover/9780593193655
+updated_at: 2026-04-07 10:46

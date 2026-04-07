@@ -5,14 +5,9 @@ description: Investigative non-fiction book about a secretive AI-powered facial
   rather than a how-to or must-read guide for startup founders, so its relevance
   to a "must read startup books" directory is peripheral.
 source_url: https://www.penguinrandomhouse.com/books/691145/your-face-belongs-to-us-by-kashmir-hill/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://images.randomhouse.com/logo/open-graph-logo.png
-images:
-  - https://images.randomhouse.com/cover/700jpg/9780593448564
-  - https://images.randomhouse.com/cover/300jpg/9780593448564
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   ---
   title: "Your Face Belongs to Us"
@@ -51,4 +46,9 @@ markdown: |-
   pricing: |
     Pricing varies by format (hardcover, paperback, ebook, audiobook) and retailer. See the publisher or bookseller site for current prices.
   ---
-updated_at: 2026-01-14 20:17
+brand: penguin-random-house
+brand_logo_url: https://images.randomhouse.com/logo/open-graph-logo.png
+images:
+  - https://images.randomhouse.com/cover/700jpg/9780593448564
+  - https://images.randomhouse.com/cover/300jpg/9780593448564
+updated_at: 2026-04-07 10:46

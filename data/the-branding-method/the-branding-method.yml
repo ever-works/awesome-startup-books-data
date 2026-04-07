@@ -3,12 +3,9 @@ description: A Spanish-language, step-by-step guide to building impactful and
   profitable brands, offering over 25 practical tools. Useful for startup
   founders looking to design and position a compelling brand from scratch.
 source_url: https://wearemotto.com/blog/6-best-branding-books-for-entrepreneurs
-featured: false
-brand: publisher-not-clear-from-snippet
-brand_logo_url: /publisher logo not available/
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   ## The Branding Method
 
@@ -64,4 +61,6 @@ markdown: >-
   - **Publisher logo:** Not available
 
   - **Slug / Reference:** `the-branding-method`
-updated_at: 2026-01-14 20:17
+brand: publisher-not-clear-from-snippet
+brand_logo_url: /publisher logo not available/
+updated_at: 2026-04-07 10:46

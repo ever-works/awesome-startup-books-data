@@ -1,14 +1,15 @@
 name: "Finite and Infinite Games: A Vision of Life as Play and Possibility"
-description: James P. Carse's profound philosophical work distinguishing between
-  finite games (played to win) and infinite games (played to continue playing).
-  This 1986 classic has influenced how entrepreneurs and leaders think about
-  competition, purpose, and sustainable success.
+description: "James Carse's Finite and Infinite Games reframes entrepreneurial
+  mindset from finite wins to infinite play, promoting personal growth through
+  adaptability and purpose beyond competition. Use case: Building enduring
+  ventures over quick exits, overcoming short-term failure fixation. Vs Atomic
+  Habits, it offers philosophical strategy over tactical habits."
 source_url: https://jamescarse.com/books/finite-and-infinite-games/
 category: Personal Development
 tags:
+  - mindset
   - philosophy
   - strategy
-  - mindset
 featured: true
 markdown: >-
   ## Overview
@@ -104,7 +105,7 @@ markdown: >-
 
   - **Generates time** by keeping play going
 
-  - **Brings as many persons as possible into play**
+  - **Brings as many persons as possible into play
 
 
   ### Characteristics of Infinite Games
@@ -378,4 +379,6 @@ markdown: >-
   Companies like Amazon, Apple (under Steve Jobs' return), and Patagonia embody
   infinite game thinking—they're not trying to win and end the game, but to
   continue playing in ways that create value indefinitely.
-updated_at: 2026-03-24 20:12
+images:
+  - https://jamescarse.com/wp-content/uploads/2018/01/finite-infinite-games-cover.jpg
+updated_at: 2026-04-07 10:46

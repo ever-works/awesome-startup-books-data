@@ -1,13 +1,14 @@
 name: The Art of War
-description: Sun Tzu's ancient Chinese military treatise applied to business
-  strategy. Win without fighting, know yourself and your enemy, adapt to
-  circumstances.
+description: Sun Tzu's deception, terrain, and momentum principles arm founders
+  for low-cost competitive wins and agile pivots in uncertain markets. Core for
+  asymmetric warfare analogies in startups; foundational tactics vs Porter's
+  structural economics.
 source_url: https://www.goodreads.com/book/show/10534.The_Art_of_War
 category: Business Strategy
 tags:
-  - strategy
-  - competition
-  - tactics
+  - military-analogy
+  - deception
+  - momentum
 featured: false
 markdown: >-
   ## Overview
@@ -29,4 +30,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://images.gr-assets.com/books/1388278296/m/10534.jpg
+updated_at: 2026-04-07 10:46

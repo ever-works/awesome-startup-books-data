@@ -3,16 +3,12 @@ description: A business parable about quality and customer service that
   illustrates how organizations can innovate and delight customers—relevant for
   startup founders building product and culture from the ground up.
 source_url: https://www.penguinrandomhouse.com/books/85404/the-ice-cream-maker-by-subir-chowdhury/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.png
-images:
-  - https://images.penguinrandomhouse.com/cover/9780385514781
-category: customer-experience
+category: Customer Experience
 tags:
   - customer-service
   - customer-satisfaction
   - quality
+featured: false
 markdown: >-
   # The Ice Cream Maker
 
@@ -63,4 +59,8 @@ markdown: >-
   No pricing information is provided in the available content. Buyers should
   check retailers or the publisher’s site for current pricing and format options
   (e.g., hardcover, paperback, ebook, audio).
-updated_at: 2026-01-03 19:26
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.png
+images:
+  - https://images.penguinrandomhouse.com/cover/9780385514781
+updated_at: 2026-04-07 10:46

@@ -1,13 +1,17 @@
 name: "The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk!"
-description: Al Ries and Jack Trout's timeless marketing classic presenting 22
-  fundamental laws that govern marketing success, from the Law of Leadership to
-  the Law of Focus.
+description: Outlines 22 fundamental marketing laws like Leadership (be first)
+  and Focus (own a word) for startups to build dominant positions and acquire
+  customers by creating categories. Use cases include Starbucks owning 'premium
+  coffee'; vs Traction Channels, prioritizes mental positioning over tactical
+  distribution for long-term customer loyalty. Key for go-to-market strategies
+  in competitive markets.
 source_url: https://www.amazon.com/22-Immutable-Laws-Marketing-Violate/dp/0887306667
 category: Marketing & Sales
 tags:
   - marketing
   - positioning
   - branding
+  - go-to-market
 featured: true
 markdown: >-
   ## Overview
@@ -95,9 +99,9 @@ markdown: >-
 
 
   Along with Jack Trout, Ries is credited with resurrecting the idea of
-  "positioning" in the field of marketing. The book provides practical guidance
-  for startups and established brands alike on how to establish and maintain
-  competitive positions in the marketplace.
+  \"positioning\" in the field of marketing. The book provides practical
+  guidance for startups and established brands alike on how to establish and
+  maintain competitive positions in the marketplace.
 
 
   ## Timeless Wisdom
@@ -112,4 +116,6 @@ markdown: >-
 
 
   Available at major retailers for approximately $12-20.
-updated_at: 2026-03-22 19:54
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51Zyoq7OXeL.jpg
+updated_at: 2026-04-07 10:46

@@ -4,16 +4,12 @@ description: A business and entrepreneurship book that examines the strategies
   customer obsession, and building transformative companies that are highly
   relevant to startup founders.
 source_url: https://www.penguinrandomhouse.com/books/310021/one-click-by-richard-l-brandt/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
-images:
-  - https://images.penguinrandomhouse.com/cover/9781591845850
-category: biographies
+category: Biographies
 tags:
   - amazon
   - innovation
   - customer-focus
+featured: false
 markdown: >-
   # One Click
 
@@ -79,4 +75,8 @@ markdown: >-
 
   - **Primary Audience:** Startup founders, entrepreneurs, and readers
   interested in business strategy and tech company growth.
-updated_at: 2026-01-06 19:48
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9781591845850
+updated_at: 2026-04-07 10:46

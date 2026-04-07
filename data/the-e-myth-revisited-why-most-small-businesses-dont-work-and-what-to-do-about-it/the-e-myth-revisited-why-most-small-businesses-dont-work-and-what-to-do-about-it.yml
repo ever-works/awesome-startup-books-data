@@ -1,13 +1,15 @@
 name: "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do
   About It"
-description: Michael Gerber's classic on building systems, not jobs. Essential
-  for founders who want to build businesses that work without them.
+description: Michael Gerber urges founders to systemize operations via franchise
+  prototypes, escaping technician traps for scalable pivots without owner
+  dependence. Core personalities framework for business-building; operational
+  maturity vs Porter's competitive positioning.
 source_url: https://www.e-myth.com/
 category: Business Strategy
 tags:
-  - systems
-  - operations
-  - small-business
+  - systems-building
+  - franchise-prototype
+  - entrepreneurial-myth
 featured: true
 markdown: >-
   ## Overview
@@ -65,4 +67,6 @@ markdown: >-
 
 
   Published by HarperBusiness 1995. Over 4 million copies sold.
-updated_at: 2026-03-10 12:13
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51q%2B0v%2B9ML._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

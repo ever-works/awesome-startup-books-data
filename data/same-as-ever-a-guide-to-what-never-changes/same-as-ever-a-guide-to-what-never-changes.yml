@@ -1,16 +1,14 @@
 name: "Same as Ever: A Guide to What Never Changes"
-description: An instant New York Times bestseller from Morgan Housel, author of
-  The Psychology of Money. This book offers 24 timeless lessons about what never
-  changes in a changing world, helping readers separate signal from noise and
-  make better decisions by focusing on universal human behaviors rather than
-  unpredictable trends.
+description: Morgan Housel distills timeless human behaviors like greed, fear,
+  and storytelling for founders to navigate uncertainty in strategy pivots and
+  decision-making. Core lessons on risk unseen and narrative power over data;
+  enduring psychology vs Porter's changeable industry structures.
 source_url: https://www.morganhousel.com/
 category: Business Strategy
 tags:
-  - Strategy
-  - Decision Making
-  - Psychology
-  - timeless
+  - timeless-psychology
+  - decision-making
+  - narratives
 featured: true
 markdown: >-
   ## Overview
@@ -120,4 +118,6 @@ markdown: >-
 
   Published by Portfolio/Penguin Random House in 2023.
 brand: Portfolio
-updated_at: 2026-03-21 19:45
+images:
+  - https://m.media-amazon.com/images/I/81Xz%2B0i3%2B%2BL._SL1500_.jpg
+updated_at: 2026-04-07 10:46

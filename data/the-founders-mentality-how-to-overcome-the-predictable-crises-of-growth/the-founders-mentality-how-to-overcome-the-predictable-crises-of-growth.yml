@@ -1,12 +1,15 @@
 name: "The Founder's Mentality: How to Overcome the Predictable Crises of Growth"
-description: Chris Zook and James Allen show how to maintain startup speed and
-  insurgency as you scale. Based on Bain's research into thousands of companies.
+description: Chris Zook and James Allen outline tactics to preserve insurgent
+  mission, owner's mindset, and frontline obsession for founders scaling teams
+  amid growth crises. Key metrics include frontline distance and bureaucracy
+  indices for hypergrowth sustainability. Vs Blitzscaling, it counters
+  speed-induced stall-outs with mentality preservation.
 source_url: https://www.bain.com/insights/topics/founders-mentality/
 category: Growth & Scaling
 tags:
   - founder-mentality
   - scaling
-  - growth-crisis
+  - hypergrowth
 markdown: >-
   ## Overview
 
@@ -130,4 +133,6 @@ markdown: >-
 
   Published by Harvard Business Review Press 2016.
 brand: Harvard Business Review Press
-updated_at: 2026-03-10 12:13
+images:
+  - https://m.media-amazon.com/images/I/81iY8vL+ZL._SL1500_.jpg
+updated_at: 2026-04-07 10:46

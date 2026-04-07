@@ -7,14 +7,9 @@ description: Spanish edition of "Blue Ocean Strategy", this book presents a
   defensible business models by shifting focus from competition to value
   innovation.
 source_url: https://www.goodreads.com/book/show/8470649-la-estrategia-del-oc-ano-azul
-featured: false
-brand: harvard-business-review-press
-brand_logo_url: /https://hbr.org/resources/images/static-hbr-logo.svg
-images:
-  - https://images-na.ssl-images-amazon.com/images/P/8416115893.01.LZZZZZZZ.jpg
-  - https://m.media-amazon.com/images/I/81S0ZjnU4gL.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # La estrategia del océano azul
 
@@ -99,4 +94,9 @@ markdown: >-
 
 
   - Not specified in the provided content.
-updated_at: 2026-01-14 20:17
+brand: harvard-business-review-press
+brand_logo_url: /https://hbr.org/resources/images/static-hbr-logo.svg
+images:
+  - https://images-na.ssl-images-amazon.com/images/P/8416115893.01.LZZZZZZZ.jpg
+  - https://m.media-amazon.com/images/I/81S0ZjnU4gL.jpg
+updated_at: 2026-04-07 10:46

@@ -1,15 +1,15 @@
 name: "Dedicated: The Case for Commitment in an Age of Infinite Browsing"
-description: A compelling examination of commitment and dedication in modern
-  life, originating from a viral Harvard Law School graduation speech. Pete
-  Davis argues for the deep fulfillment that comes from committing to particular
-  places, professions, and causes rather than endlessly browsing options.
+description: "Pete Davis urges entrepreneurs to commit deeply to ventures amid
+  option overload, shifting mindset from browsing to dedication for personal
+  growth and long-term success. Use case: Overcoming startup indecision and
+  building resilience through sustained focus. Vs Atomic Habits, it advocates
+  bold commitments over small daily actions."
 source_url: https://petedavis.org/dedicated/
 category: Personal Development
 tags:
+  - mindset
   - commitment
-  - Purpose
-  - personal-growth
-  - Focus
+  - focus
 featured: false
 markdown: >-
   ## Overview
@@ -81,4 +81,6 @@ markdown: >-
 
   Published by Simon & Schuster.
 brand: Simon & Schuster
-updated_at: 2026-03-21 19:45
+images:
+  - https://petedavis.org/wp-content/uploads/2022/02/Dedicated-cover-1.jpg
+updated_at: 2026-04-07 10:46

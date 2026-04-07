@@ -4,16 +4,12 @@ description: The Three Rules is a business strategy book that distills patterns
   offering startup founders evidence-based guidance on how to make strategic
   decisions that drive sustainable growth.
 source_url: https://www.penguinrandomhouse.com/books/311894/the-three-rules-by-michael-e-raynor-and-mumtaz-ahmed/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.png
-images:
-  - https://images.penguinrandomhouse.com/cover/9781101614327
-category: business-strategy
+category: Business Strategy
 tags:
   - business-strategy
   - performance
   - evidence-based
+featured: false
 markdown: |-
   # The Three Rules
 
@@ -50,4 +46,8 @@ markdown: |-
 
   ## Pricing
   - Not specified in the provided content. Pricing may vary by format and retailer.
-updated_at: 2026-01-06 19:48
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.png
+images:
+  - https://images.penguinrandomhouse.com/cover/9781101614327
+updated_at: 2026-04-07 10:46

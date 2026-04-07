@@ -5,15 +5,12 @@ description: A practical, battle-tested guide by Guy Kawasaki for entrepreneurs
   including pitching, bootstrapping, recruiting, and brand-building. Widely
   regarded as a must-read handbook for early-stage founders.
 source_url: https://www.amazon.com/Art-Start-2-0-Time-Tested-Battle-Hardened/dp/1591847842
-featured: false
-brand: penguin-books
-brand_logo_url: null
-images: null
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - entrepreneurship
   - guide
   - startup-success
+featured: false
 markdown: |-
   # The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
 
@@ -67,4 +64,6 @@ markdown: |-
   The provided content only shows a partial retail price example (e.g., a new copy listed around $13.69 on Amazon). Exact and current pricing, as well as available formats (paperback, Kindle, audiobook), should be checked directly on the product page:
 
   <https://www.amazon.com/Art-Start-2-0-Time-Tested-Battle-Hardened/dp/1591847842>
-updated_at: 2026-01-12 19:44
+brand: penguin-books
+brand_logo_url: null
+updated_at: 2026-04-07 10:46

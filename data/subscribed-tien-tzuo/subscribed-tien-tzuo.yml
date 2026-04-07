@@ -1,12 +1,14 @@
 name: "Subscribed: Why the Subscription Model Will Be Your Company's Future"
-description: Tien Tzuo's guide to the subscription economy, showing how
-  businesses can transform from product sales to ongoing customer relationships.
+description: Tien Tzuo outlines subscription pivots from one-time sales to
+  recurring relationships, stressing land-expand metrics for SaaS founders.
+  Frameworks for usage pricing and customer success loops; recurring revenue
+  evolution vs Porter's transaction models.
 source_url: https://www.zuora.com/resource/subscribed/
 category: Business Strategy
 tags:
-  - subscription-economy
+  - subscription-model
   - recurring-revenue
-  - business-model
+  - customer-lifetime
 featured: false
 markdown: >-
   ## Overview
@@ -56,4 +58,6 @@ markdown: >-
 
 
   Available for approximately $18-28.
-updated_at: 2026-03-22 19:54
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/41QJ%2B0v%2B9ML._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

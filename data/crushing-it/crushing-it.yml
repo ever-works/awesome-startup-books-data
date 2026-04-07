@@ -1,12 +1,15 @@
 name: Crushing It!
-description: Gary Vaynerchuk shows how to build a personal brand and business
-  using social media. Authentic content and platform-specific strategies win.
+description: Empowers startup founders to leverage personal branding on social
+  platforms for direct customer acquisition via authentic, platform-tailored
+  content. Vs Traction Channels, prioritizes organic creator strategies on
+  IG/TikTok/YouTube; use cases like Gary Vee scaling Wine to $60M+
+  audience-first. Go-to-market via self-media flywheel.
 source_url: https://www.garyvaynerchuk.com/books/
 category: Marketing & Sales
 tags:
   - personal-brand
   - social-media
-  - content-marketing
+  - go-to-market
 featured: false
 markdown: >-
   ## Overview
@@ -28,4 +31,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://m.media-amazon.com/images/I/51g6XQ8iJWL._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

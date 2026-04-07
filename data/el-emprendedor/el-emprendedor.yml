@@ -5,12 +5,9 @@ description: Spanish-language entrepreneurship book by Arturo Elías Ayub that
   launching, managing, and growing a venture, making it suitable as a must‑read
   for startup founders in Spanish‑speaking markets.
 source_url: https://www.amazon.com/El-Emprendedor-Entrepreneur-potenciar-Business/dp/B0CQMMZ4PJ
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   # El emprendedor
 
@@ -70,4 +67,6 @@ markdown: |-
 
   ## Pricing
   Pricing and specific purchase options are not provided in the supplied content. Refer to the product page on Amazon for current price and formats.
-updated_at: 2026-01-14 20:17
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

@@ -1,12 +1,17 @@
 name: First, Break All the Rules
-description: Marcus Buckingham reveals what great managers do differently. They
-  break conventional rules, focusing on strengths and outcomes over process.
+description: First, Break All the Rules teaches founders leadership lessons on
+  managing to strengths, selecting for talent, and focusing on outcomes for
+  powerful team building. Key principles include casting right people in right
+  roles, defining clear expectations, and ignoring conventional management
+  dogma. Vs High Output Management, it prioritizes individual talents and Gallup
+  research over process optimization.
 source_url: https://www.gallup.com/press/176450/first-break-rules-world-greatest-managers-differently.aspx
 category: Leadership & Management
 tags:
   - management
   - strengths
   - performance
+  - team-leadership
 featured: false
 markdown: >-
   ## Overview
@@ -28,4 +33,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://ssistatic.com/gallup/media/Products/first-break-all-the-rules/9781595621116_cover.jpg
+updated_at: 2026-04-07 10:46

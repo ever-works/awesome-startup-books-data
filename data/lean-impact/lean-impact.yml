@@ -5,16 +5,12 @@ description: A book by Ann Mei Chang, inspired by The Lean Startup, that adapts
   founders and leaders rapidly experiment, validate solutions, and scale their
   impact when tackling large social and environmental problems.
 source_url: https://www.causeartist.com/social-entrepreneur-books/
-featured: false
-brand: wiley
-brand_logo_url: /
-images:
-  - https://images-na.ssl-images-amazon.com/images/I/81eo4zV47oL.jpg
-category: social-entrepreneurship
+category: Social Entrepreneurship
 tags:
   - lean
   - social-impact
   - innovation
+featured: false
 markdown: >-
   # Lean Impact
 
@@ -94,4 +90,8 @@ markdown: >-
   Original listing: https://www.causeartist.com/social-entrepreneur-books/  
 
   Item slug: `lean-impact`
-updated_at: 2025-12-30 18:02
+brand: wiley
+brand_logo_url: /
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/81eo4zV47oL.jpg
+updated_at: 2026-04-07 10:46

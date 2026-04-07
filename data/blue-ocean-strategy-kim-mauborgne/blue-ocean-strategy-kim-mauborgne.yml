@@ -1,14 +1,16 @@
 name: "Blue Ocean Strategy: How to Create Uncontested Market Space and Make the
   Competition Irrelevant"
-description: W. Chan Kim and Renée Mauborgne's revolutionary strategy framework
-  teaching companies to create new market spaces rather than compete in
-  existing, crowded markets.
+description: Kim and Mauborgne teach founders to use ERRC grid
+  (Eliminate-Reduce-Raise-Create) for crafting uncontested markets, ideal for
+  startup pivots from red ocean battles. Core value innovation framework
+  contrasts Porter's competitive focus by prioritizing demand creation over
+  rivalry.
 source_url: https://www.blueoceanstrategy.com/
 category: Business Strategy
 tags:
-  - strategy
-  - innovation
-  - differentiation
+  - market-creation
+  - value-innovation
+  - non-competitive
 featured: true
 markdown: >-
   ## Core Concept
@@ -106,4 +108,6 @@ markdown: >-
 
 
   Available at major retailers for approximately $25-35.
-updated_at: 2026-03-22 19:54
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51g8HR%2BuhrL._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

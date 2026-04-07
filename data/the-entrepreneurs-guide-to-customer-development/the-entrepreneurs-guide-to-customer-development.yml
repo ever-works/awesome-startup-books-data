@@ -3,15 +3,12 @@ description: This guide by Brant Cooper provides a practical approach to
   understanding customer development, a crucial aspect for startups aiming to
   achieve product-market fit.
 source_url: https://www.goodreads.com/book/show/9266037-the-entrepreneur-s-guide-to-customer-development
-featured: false
-brand_logo_url: null
-images:
-  - https://images.gr-assets.com/books/1347740915l/9266037.jpg
-category: customer-development
+category: Customer Development
 tags:
   - product-market-fit
   - customer-needs
   - development
+featured: false
 markdown: |-
   ## The Entrepreneur's Guide to Customer Development
 
@@ -39,4 +36,7 @@ markdown: |-
   ---
 
   This markdown summary provides a concise overview of "The Entrepreneur's Guide to Customer Development," highlighting its core aspects and practical benefits for entrepreneurs seeking to refine their customer development strategies.
-updated_at: 2025-12-16 06:04
+brand_logo_url: null
+images:
+  - https://images.gr-assets.com/books/1347740915l/9266037.jpg
+updated_at: 2026-04-07 10:46

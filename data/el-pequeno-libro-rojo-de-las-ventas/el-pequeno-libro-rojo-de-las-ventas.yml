@@ -4,11 +4,9 @@ description: Spanish edition of Jeffrey Gitomer’s classic sales handbook. Whil
   closing deals, and building customer relationships—skills that are critical
   for founders who must sell their product, vision, and company in early stages.
 source_url: https://www.overdrive.com/media/4309221/el-pequeno-libro-rojo-de-las-ventas
-featured: false
-brand_logo_url: null
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # El pequeño libro rojo de las ventas
 
@@ -73,4 +71,5 @@ markdown: >-
 
   Pricing is not provided on the source page; availability and cost may vary by
   digital library or retailer.
-updated_at: 2026-01-14 20:17
+brand_logo_url: null
+updated_at: 2026-04-07 10:46

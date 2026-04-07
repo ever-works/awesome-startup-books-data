@@ -3,12 +3,9 @@ description: A practical Spanish-language guide that lays out a 7‑step system 
   start your own business in 30 days, aimed at aspiring entrepreneurs and
   first‑time founders who need an actionable roadmap from idea to launch.
 source_url: https://www.warwicks.com/book/9789198613063
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # Cómo emprender tu propio negocio
 
@@ -76,4 +73,6 @@ markdown: >-
   ## Pricing
 
   - No specific pricing or plan information is provided in the source content.
-updated_at: 2026-01-14 20:17
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

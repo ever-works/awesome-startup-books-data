@@ -1,14 +1,17 @@
 name: Trillion Dollar Coach
-description: The leadership playbook of Bill Campbell, Silicon Valley's
-  legendary coach who mentored Steve Jobs, Larry Page, and Eric Schmidt.
-  Essential insights on building teams, leadership, and creating trillion-dollar
-  companies.
+description: Trillion Dollar Coach imparts founders leadership lessons from Bill
+  Campbell on team-first culture, trust-building, and coaching for scaling
+  trillion-dollar companies. Key use cases include high-impact 1-on-1s, radical
+  candor feedback, and fostering psychological safety in team building. Compared
+  to High Output Management, it prioritizes relationships and emotional
+  intelligence over operational systems.
 source_url: https://www.trilliondollarcoach.com/
 category: Leadership & Management
 tags:
   - coaching
   - leadership
   - silicon-valley
+  - team-leadership
 featured: true
 markdown: >-
   ## Overview
@@ -78,4 +81,6 @@ markdown: >-
 
   Available in hardcover, paperback, ebook, and audiobook formats. Published by
   Harper Business in 2019.
-updated_at: 2026-03-10 12:13
+images:
+  - https://images.harpercollins.com/9780062667793
+updated_at: 2026-04-07 10:46

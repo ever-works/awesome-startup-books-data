@@ -1,14 +1,15 @@
 name: "Monetizing Innovation: How Smart Companies Design the Product Around the
   Price"
-description: Madhavan Ramanujam shows how to determine willingness-to-pay before
-  building. Essential for founders who want to build profitable products from
-  day one.
+description: Madhavan Ramanujam's willingness-to-pay discovery equips founders
+  to price-test before building, preventing feature shock and undead products in
+  pivots. Frameworks like innovation failure types and 9 pricing rules for
+  profitable launches; execution-focused vs Porter's structural analysis.
 source_url: https://www.wiley.com/en-us/Monetizing+Innovation:+How+Smart+Companies+Design+the+Product+Around+the+Price-p-9781119240860
 category: Business Strategy
 tags:
-  - pricing
+  - pricing-first
+  - willingness-to-pay
   - monetization
-  - product-strategy
 markdown: >-
   ## Overview
 
@@ -55,4 +56,6 @@ markdown: >-
 
   Published by Wiley 2016.
 brand: Wiley
-updated_at: 2026-03-10 12:13
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51uY%2B2j2zZL._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

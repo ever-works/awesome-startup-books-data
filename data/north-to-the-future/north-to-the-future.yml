@@ -6,15 +6,12 @@ description: Narrative nonfiction book by Ben Weissenbach following years of
   thinking, climate risk, and scientific exploration—useful context for climate-
   and impact-focused startups.
 source_url: https://divbyzero.com/blog/best-startup-books/
-featured: true
-brand: -author-ben-weissenbach
-brand_logo_url: /
-images: null
-category: social-entrepreneurship
+category: Social Entrepreneurship
 tags:
   - climate
   - impact
   - long-term
+featured: true
 markdown: >-
   # North to the Future
 
@@ -88,4 +85,6 @@ markdown: >-
 
   - Not specified in the provided content. Pricing will depend on retailer,
   format (print/ebook/audiobook), and region.
-updated_at: 2026-01-17 20:34
+brand: -author-ben-weissenbach
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

@@ -1,13 +1,18 @@
 name: High Output Management
-description: Intel CEO Andrew Grove's legendary management handbook—the bible of
-  Silicon Valley. Essential principles on productivity, decision-making, and
-  leadership that shaped tech's greatest companies.
+description: High Output Management teaches founders leadership lessons on
+  maximizing output through OKRs, one-on-ones, and high-leverage activities for
+  effective team building and organizational scaling. Key principles include
+  managing like a production process, conducting performance reviews with
+  absolute honesty, and optimizing meetings. Compared to The Making of a
+  Manager, it provides a more rigorous, systems-oriented approach suited for
+  ambitious startups.
 source_url: https://www.penguinrandomhouse.com/books/72467/high-output-management-by-andrew-s-grove-former-chairman-and-ceo-of-intel/
 category: Leadership & Management
 tags:
   - management
   - productivity
   - okr
+  - team-leadership
 featured: true
 markdown: >-
   ## Overview
@@ -316,4 +321,7 @@ markdown: >-
   Random House) in 2015. ISBN: 978-0-679-76288-1. Available in paperback, ebook,
   and audiobook.
 brand: Vintage Books
-updated_at: 2026-03-10 12:13
+brand_logo_url: https://www.cncf.io/wp-content/uploads/2022/07/cncf-color-bg.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9780679762881
+updated_at: 2026-04-07 10:46

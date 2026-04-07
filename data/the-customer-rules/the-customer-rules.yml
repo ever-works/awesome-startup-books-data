@@ -4,16 +4,12 @@ description: A customer-experience and service excellence book by Lee Cockerell
   loyalty—directly relevant to startup founders focused on product–market fit
   and retention.
 source_url: https://www.penguinrandomhouse.com/books/221983/the-customer-rules-by-lee-cockerell/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
-images:
-  - https://images.penguinrandomhouse.com/cover/9780770435608
-category: customer-experience
+category: Customer Experience
 tags:
   - customer-service
   - customer-loyalty
   - customer-satisfaction
+featured: false
 markdown: >-
   # The Customer Rules
 
@@ -85,4 +81,8 @@ markdown: >-
   Pricing is not provided in the available content. Readers can check major book
   retailers or the publisher’s site for current pricing and available formats
   (print, ebook, audiobook, if offered).
-updated_at: 2025-12-31 19:04
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9780770435608
+updated_at: 2026-04-07 10:46

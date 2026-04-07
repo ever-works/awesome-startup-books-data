@@ -4,15 +4,15 @@ description: Graphic-style business book by the founders of Honest Tea,
   startup founders interested in fundraising, branding, and navigating growth in
   CPG.
 source_url: https://www.penguinrandomhouse.com/books/222063/mission-in-a-bottle-by-seth-goldman-and-barry-nalebuff/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
-images:
-  - https://images.penguinrandomhouse.com/cover/9780770437497
-category: biographies
+category: Biographies
 tags:
   - entrepreneurship
   - fundraising
   - branding
+featured: false
 markdown: ""
-updated_at: 2026-01-14 20:17
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9780770437497
+updated_at: 2026-04-07 10:46

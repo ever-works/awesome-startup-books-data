@@ -1,14 +1,17 @@
 name: "An Elegant Puzzle: Systems of Engineering Management"
-description: A practical guide to engineering management that draws on Will
-  Larson's experience at Digg, Uber, and Stripe. The book provides a thoughtful,
-  systems-based approach to common challenges like sizing teams, handling
-  technical debt, and performing succession planning.
+description: An Elegant Puzzle offers engineering founders leadership lessons on
+  systems thinking for team sizing, technical debt management, and succession
+  planning in high-growth environments. Key principles include organizational
+  design frameworks and cross-functional collaboration for effective team
+  building. Vs High Output Management, it delivers specialized tactics for
+  engineering leaders navigating hypergrowth.
 source_url: https://press.stripe.com/an-elegant-puzzle
 category: Leadership & Management
 tags:
   - engineering-management
   - systems-thinking
   - organizational-design
+  - team-leadership
 featured: true
 markdown: >-
   ## Overview
@@ -111,4 +114,6 @@ markdown: >-
   Noble, and the Stripe Press website.
 brand: Will Larson
 brand_logo_url: https://press.stripe.com/images/stripe-press-logo.svg
-updated_at: 2026-03-25 20:12
+images:
+  - https://stripe.press/img/books/an-elegant-puzzle-cover.jpg
+updated_at: 2026-04-07 10:46

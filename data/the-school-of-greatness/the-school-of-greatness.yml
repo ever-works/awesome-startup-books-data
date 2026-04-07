@@ -4,15 +4,12 @@ description: Lewis Howes' 'The School of Greatness' provides a roadmap for
   greatness in all aspects of life. It's an inspiring read for those looking to
   leave a lasting legacy.
 source_url: https://www.goodreads.com/book/show/23848518-the-school-of-greatness
-featured: false
-brand_logo_url: null
-images:
-  - https://images.gr-assets.com/books/1439923723l/23848518.jpg
-category: personal-development
+category: Personal Development
 tags:
   - growth
   - motivation
   - legacy
+featured: false
 markdown: >-
   ## The School of Greatness by Lewis Howes
 
@@ -71,4 +68,7 @@ markdown: >-
 
   For more information, visit the [Goodreads
   page](https://www.goodreads.com/book/show/23848518-the-school-of-greatness).
-updated_at: 2025-12-16 06:04
+brand_logo_url: null
+images:
+  - https://images.gr-assets.com/books/1439923723l/23848518.jpg
+updated_at: 2026-04-07 10:46

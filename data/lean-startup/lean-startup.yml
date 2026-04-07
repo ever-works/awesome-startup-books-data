@@ -5,15 +5,12 @@ description: A foundational methodology book for startup founders that focuses
   scaling startups efficiently, it is considered a must-read for entrepreneurs
   and innovators.
 source_url: https://theleanstartup.com/the-lean-series
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags:
   - lean
   - experimentation
   - product-development
+featured: false
 markdown: >-
   ## Lean Startup
 
@@ -72,4 +69,6 @@ markdown: >-
 
   Pricing is not specified in the provided content; it depends on retailer and
   format (e.g., print, digital).
-updated_at: 2026-01-14 20:17
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

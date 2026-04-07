@@ -1,0 +1,23 @@
+name: "The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy
+  and How To Restore The Sanity by Alan Cooper"
+description: Pioneering product management processes for tech startups
+  emphasizing user-centered design, personas, and goal-directed methods to build
+  effective MVPs. Critiques programmer-driven development and advocates sanity
+  in high-tech products. Foundational text vs. contemporary views in Inspired.
+source_url: https://www.cooper.com/books/inmates-are-running-the-asylum
+category: Product Management
+tags:
+  - product-design
+  - usability
+  - product-led
+  - mvp-building
+featured: false
+markdown: |-
+  ## Overview
+  Critiques poor software design and advocates for interaction design.
+
+  ## Impact
+  Inspired personas and goal-directed design.
+images:
+  - https://images.gr-assets.com/books/1388387517/m/131202.jpg
+updated_at: 2026-04-07 10:46

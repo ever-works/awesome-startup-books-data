@@ -5,17 +5,12 @@ description: Historical and analytical book by Derek Lidow that traces
   societies. Highly relevant for startup founders who want a deep, long-term
   perspective on entrepreneurship beyond modern Silicon Valley narratives.
 source_url: https://cup.columbia.edu/book/the-entrepreneurs/9780231204031
-featured: true
-brand: columbia-university-press
-brand_logo_url: https://cup.columbia.edu/themes/custom/cup/logo.png
-images:
-  - https://cup.columbia.edu/sites/default/files/styles/book_cover/public/9780231204031.jpg
-  - https://cup.columbia.edu/sites/default/files/2022-09/CUP-logo-social-share.png
-category: biographies
+category: Biographies
 tags:
   - entrepreneurship
   - history
   - economy
+featured: true
 markdown: >-
   ---
 
@@ -85,4 +80,9 @@ markdown: >-
 
   Pricing information is not provided in the available content. Please refer to
   the publisher or booksellers for current pricing.
-updated_at: 2026-01-17 20:34
+brand: columbia-university-press
+brand_logo_url: https://cup.columbia.edu/themes/custom/cup/logo.png
+images:
+  - https://cup.columbia.edu/sites/default/files/styles/book_cover/public/9780231204031.jpg
+  - https://cup.columbia.edu/sites/default/files/2022-09/CUP-logo-social-share.png
+updated_at: 2026-04-07 10:46

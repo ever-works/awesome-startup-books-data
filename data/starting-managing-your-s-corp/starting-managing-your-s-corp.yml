@@ -5,15 +5,12 @@ description: A small-business and startup-focused guide to forming, running, and
   choosing corporate structure and setting up financial operations for their
   startup.
 source_url: https://www.amazon.com/Corp-Beginners-Guide-Step-Step/dp/B0DCNNFGMS
-featured: false
-brand: amazon-kindle
-brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB485935611_.png
-images: null
-category: business-strategy
+category: Business Strategy
 tags:
   - legal-advice
   - business-finance
-  - small-business
+  - Business Strategy
+featured: false
 markdown: >-
   # Starting & Managing Your S Corp
 
@@ -83,4 +80,6 @@ markdown: >-
 
   The provided content does not include pricing or plan details. For current
   pricing, visit the product page on Amazon.```
-updated_at: 2026-01-10 19:39
+brand: amazon-kindle
+brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB485935611_.png
+updated_at: 2026-04-07 10:46

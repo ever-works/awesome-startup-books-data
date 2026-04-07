@@ -5,15 +5,12 @@ description: Startup-relevant marketing and positioning book by Brendan Kane
   product and message in the first few seconds across social media, ads, and
   content—critical for early-stage traction and growth.
 source_url: https://hookpoint.com/hook-point-book/
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags:
   - marketing
   - strategy
   - digital-age
+featured: false
 markdown: >-
   # Hook Point: How to Stand Out in a 3-Second World
 
@@ -84,4 +81,6 @@ markdown: >-
 
   Pricing information is not provided in the available content. Readers can
   refer to the official book page or retailers for current pricing options.
-updated_at: 2025-12-26 07:04
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

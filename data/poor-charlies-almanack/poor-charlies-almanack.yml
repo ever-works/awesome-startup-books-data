@@ -5,13 +5,9 @@ description: A curated collection of speeches, essays, and commentary from
   thinking, decision‑making frameworks, and long‑term business philosophy that
   underpin sound entrepreneurial judgment.
 source_url: https://foundersinsdrs.beehiiv.com/p/10-books-billionaires-want-you-to
-featured: false
-brand: stripe-press
-brand_logo_url: https://assets.stripe.com/press/brand/Stripe-Logo-Blue.png
-images:
-  - https://m.media-amazon.com/images/I/81y0pIhVwfL.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # Poor Charlie’s Almanack
 
@@ -60,4 +56,8 @@ markdown: >-
   ## Pricing
 
   Pricing information is not provided in the source content.
-updated_at: 2025-12-26 07:04
+brand: stripe-press
+brand_logo_url: https://assets.stripe.com/press/brand/Stripe-Logo-Blue.png
+images:
+  - https://m.media-amazon.com/images/I/81y0pIhVwfL.jpg
+updated_at: 2026-04-07 10:46

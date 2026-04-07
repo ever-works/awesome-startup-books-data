@@ -1,13 +1,15 @@
 name: Company of One
-description: Paul Jarvis challenges conventional business wisdom by showing how
-  staying small can be the path to greater freedom and profitability. A
-  compelling case for questioning growth as the primary business objective.
+description: Paul Jarvis advocates intentional smallness for founders seeking
+  sustainable profitability over endless scaling, using principles like defining
+  'enough' revenue and customer depth focus. Frameworks for rejecting VC
+  pressure and building resilient solo operations; contrasts growth obsession vs
+  Porter's scale economies.
 source_url: https://ofone.co/
 category: Business Strategy
 tags:
-  - bootstrapping
   - lifestyle-business
   - sustainable-growth
+  - anti-scaling
 featured: false
 markdown: >-
   ## Overview
@@ -109,4 +111,6 @@ markdown: >-
 
   Available in hardcover, paperback, ebook, and audiobook formats at standard
   retail prices.
-updated_at: 2026-03-07 17:50
+images:
+  - https://m.media-amazon.com/images/I/81q9%2BR9Kx%2BL._SL1500_.jpg
+updated_at: 2026-04-07 10:46

@@ -1,13 +1,16 @@
 name: All Marketers Tell Stories
-description: Seth Godin reveals how authentic storytelling beats traditional
-  marketing. Successful products are built on authentic stories that customers
-  believe and share.
+description: Guides startups in using authentic storytelling to create
+  believable narratives that drive customer acquisition and loyalty,
+  outperforming generic messaging. Unlike Traction Channels' distribution focus,
+  it builds emotional connections for organic sharing; use cases show brands
+  like TOMS growing via mission stories. Core for go-to-market narrative
+  strategies.
 source_url: https://seths.blog/all-marketers-tell-stories/
 category: Marketing & Sales
 tags:
   - storytelling
   - branding
-  - marketing
+  - go-to-market
 featured: false
 markdown: >-
   ## Overview
@@ -30,4 +33,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://m.media-amazon.com/images/I/51Xz4p2j5NL._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

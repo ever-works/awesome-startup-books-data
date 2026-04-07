@@ -4,12 +4,9 @@ description: Spanish edition of Jonah Berger’s "Contagious", detailing why
   that go viral. Very useful for startup founders working on product adoption,
   word-of-mouth growth, and scalable marketing.
 source_url: https://chrisneumann.com/archives/10-books-every-founder-should-read
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   ## Contagioso
 
@@ -67,4 +64,6 @@ markdown: >-
   ### Pricing
 
   No pricing information is provided in the source content.
-updated_at: 2026-01-14 20:17
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-07 10:46

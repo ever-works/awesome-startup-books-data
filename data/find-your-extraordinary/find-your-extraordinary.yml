@@ -3,16 +3,12 @@ description: Entrepreneurship and personal-development book focused on helping
   aspiring founders cultivate mindset, habits, and strategies to build
   extraordinary careers and ventures.
 source_url: https://www.penguinrandomhouse.com/books/317497/find-your-extraordinary-by-adele-lynn-ref/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo-mobile.svg
-images:
-  - https://images.penguinrandomhouse.com/cover/9781101905944
-category: personal-development
+category: Personal Development
 tags:
   - mindset
   - habits
   - entrepreneurial-journey
+featured: false
 markdown: |-
   # Find Your Extraordinary
 
@@ -56,4 +52,8 @@ markdown: |-
   ## Pricing
   Pricing information is not provided in the available content. For current formats and prices, refer to the publisher’s product page:
   - Source: https://www.penguinrandomhouse.com/books/317497/find-your-extraordinary-by-adele-lynn-ref/
-updated_at: 2025-12-31 19:04
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo-mobile.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9781101905944
+updated_at: 2026-04-07 10:46

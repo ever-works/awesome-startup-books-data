@@ -1,13 +1,14 @@
 name: "Playing to Win: How Strategy Really Works"
-description: A.G. Lafley and Roger Martin's framework for developing winning
-  strategies, based on Lafley's experience as P&G CEO, introducing the strategy
-  choice cascade.
+description: Lafley and Martin's strategy choice cascade (winning aspiration,
+  where to play, how to win) guides founders through pivotal choices for
+  competitive edge in startups. Frameworks proven at P&G for market pivots;
+  practical decision tree vs Porter's broader forces model.
 source_url: https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X
 category: Business Strategy
 tags:
-  - strategy
-  - competitive-advantage
-  - decision-making
+  - choice-cascade
+  - where-to-play
+  - competitive-choices
 featured: false
 markdown: >-
   ## Overview
@@ -48,4 +49,6 @@ markdown: >-
 
 
   Available for approximately $18-30.
-updated_at: 2026-03-22 19:54
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/41g5rY3hB%2BL._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

@@ -1,13 +1,17 @@
 name: Multipliers
-description: Liz Wiseman reveals how the best leaders make everyone smarter by
-  amplifying the intelligence and capabilities of their teams. Based on research
-  with over 150 leaders, distinguishing Multipliers from Diminishers.
+description: Multipliers shows founders how to amplify team intelligence for
+  smarter team building and problem-solving by acting as liberators,
+  challengers, and investors rather than diminishers. Key principles include
+  attracting native genius, sparking rigorous debate, and instilling ownership
+  for 2x capability gains. Vs High Output Management, it leverages collective
+  smarts over individual leverage.
 source_url: https://thewisemangroup.com/books/multipliers/
 category: Leadership & Management
 tags:
   - leadership
   - team-building
   - talent-development
+  - team-leadership
 featured: false
 markdown: >-
   ## Overview
@@ -157,4 +161,6 @@ markdown: >-
 
   Available in hardcover, paperback, ebook, and audiobook formats at standard
   retail prices.
-updated_at: 2026-03-07 17:50
+images:
+  - https://thewisemangroup.com/wp-content/uploads/2017/07/Multipliers-Book-Cover-3D.png
+updated_at: 2026-04-07 10:46

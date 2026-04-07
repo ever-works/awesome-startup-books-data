@@ -1,12 +1,14 @@
 name: "Mindset: The New Psychology of Success"
-description: Stanford psychologist Carol Dweck's transformative book revealing
-  how our beliefs about our abilities profoundly affect our success, introducing
-  the concepts of fixed and growth mindsets.
+description: "Carol Dweck's Mindset transforms entrepreneurs from fixed to
+  growth mindset, embracing challenges and failures as growth opportunities for
+  personal development and startup resilience. Key shift: Effort over innate
+  talent to master skills amid pivots and setbacks. Vs Atomic Habits, it rewires
+  beliefs about ability rather than building routines."
 source_url: https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 category: Personal Development
 tags:
-  - growth-mindset
-  - learning
+  - mindset
+  - growth
   - psychology
 featured: true
 markdown: >-
@@ -122,4 +124,6 @@ markdown: >-
 
 
   Available at major retailers for approximately $14-26.
-updated_at: 2026-03-22 19:54
+images:
+  - https://m.media-amazon.com/images/I/91S3u3Z13wL.jpg
+updated_at: 2026-04-07 10:46

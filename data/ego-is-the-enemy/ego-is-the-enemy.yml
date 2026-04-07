@@ -1,11 +1,14 @@
 name: Ego is the Enemy
-description: Ryan Holiday shows how ego is the enemy of success, creativity, and
-  building something that lasts. Humility and continuous learning win.
+description: "Ryan Holiday's Ego is the Enemy teaches entrepreneurs to conquer
+  ego for sustained success, shifting mindset to humility and lifelong learning
+  to overcome aspiration, success, and failure pitfalls. Key use case:
+  Maintaining clarity during startup highs and lows. Vs Atomic Habits, it
+  addresses psychological barriers over behavioral systems."
 source_url: https://www.penguinrandomhouse.com/books/313420/ego-is-the-enemy-by-ryan-holiday/
 category: Personal Development
 tags:
+  - mindset
   - humility
-  - self-awareness
   - stoicism
 featured: false
 markdown: >-
@@ -28,4 +31,6 @@ markdown: >-
 
   Available in multiple formats including hardcover, paperback, ebook, and
   audiobook.
-updated_at: 2026-03-07 17:50
+images:
+  - https://images.penguinrandomhouse.com/cover/9781591848195
+updated_at: 2026-04-07 10:46

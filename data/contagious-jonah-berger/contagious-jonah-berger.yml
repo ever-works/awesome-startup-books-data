@@ -1,19 +1,21 @@
 name: "Contagious: Why Things Catch On"
-description: Jonah Berger's research-based guide revealing the science behind
-  why certain products, ideas, and behaviors become viral while others don't,
-  introducing the STEPPS framework for creating contagious content.
+description: Unveils STEPPS framework (Social Currency, Triggers, Emotion,
+  Public, Practical Value, Stories) for startups to engineer word-of-mouth
+  customer acquisition virality. Vs Traction Channels, focuses on content
+  psychology over paid distribution; use cases like Blendtec videos exploding
+  views 10x via humor/emotion. Vital for low-cost go-to-market growth.
 source_url: https://jonahberger.com/books/contagious/
 category: Marketing & Sales
 tags:
   - viral-marketing
   - word-of-mouth
-  - social-influence
+  - go-to-market
 featured: true
 markdown: >-
   ## Overview
 
 
-  Jonah Berger's "Contagious: Why Things Catch On" distills years of research
+  Jonah Berger's \"Contagious: Why Things Catch On\" distills years of research
   into understanding why certain ads, products, YouTube videos, political
   movements, songs, and restaurants catch on, while others are ignored.
 
@@ -98,4 +100,6 @@ markdown: >-
 
 
   Available at major retailers for approximately $16-28.
-updated_at: 2026-03-22 19:54
+images:
+  - https://m.media-amazon.com/images/I/51Zsoq7OXeL._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

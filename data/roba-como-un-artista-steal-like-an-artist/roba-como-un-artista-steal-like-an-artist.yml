@@ -5,12 +5,9 @@ description: Spanish edition of Austin Kleon’s bestselling book on creativity,
   for startup founders who need to generate, refine, and communicate innovative
   ideas consistently.
 source_url: https://austinkleon.com/steal/
-featured: false
-brand: austin-kleon
-brand_logo_url: null
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   ## Roba como un artista / Steal Like an Artist
 
@@ -112,4 +109,6 @@ markdown: >-
   ### Source
 
   More information and purchase links: https://austinkleon.com/steal/
-updated_at: 2026-01-14 20:17
+brand: austin-kleon
+brand_logo_url: null
+updated_at: 2026-04-07 10:46

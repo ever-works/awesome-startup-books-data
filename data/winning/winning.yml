@@ -4,13 +4,9 @@ description: A management and leadership book by Jack Welch (with Suzy Welch)
   than startups, many founders use it for insights on building high-performance
   organizations as their companies scale.
 source_url: https://www.reddit.com/r/startups/comments/1ha5uzg/these_are_the_27_books_i_have_read_in_2024_as_a/
-featured: false
-brand: harperbusiness
-brand_logo_url: null
-images:
-  - https://m.media-amazon.com/images/I/71qA3RzDM8L.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   ## Winning
 
@@ -40,4 +36,8 @@ markdown: |-
 
   ### Pricing
   No pricing information is provided in the source content.
-updated_at: 2025-12-26 07:04
+brand: harperbusiness
+brand_logo_url: null
+images:
+  - https://m.media-amazon.com/images/I/71qA3RzDM8L.jpg
+updated_at: 2026-04-07 10:46

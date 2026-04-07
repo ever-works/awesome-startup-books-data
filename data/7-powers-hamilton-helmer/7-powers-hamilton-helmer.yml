@@ -1,14 +1,15 @@
 name: "7 Powers: The Foundations of Business Strategy"
-description: Hamilton Helmer's definitive framework for understanding
-  competitive advantage and building durable business value. This book distills
-  30+ years of strategy consulting into seven proven powers that create
-  sustained profitability and market leadership.
+description: Hamilton Helmer's framework identifies seven sources of sustained
+  competitive advantage (scale, network effects, counter-positioning) vital for
+  startup founders building defensible moats. Use cases include strategy pivots
+  like Netflix's streaming shift; modern evolution vs Porter's classics focusing
+  on power sustainability in tech eras.
 source_url: https://7powers.com/
 category: Business Strategy
 tags:
   - competitive-advantage
-  - strategy
   - moats
+  - strategy-frameworks
 featured: true
 markdown: >-
   ## Overview
@@ -344,4 +345,6 @@ markdown: >-
 
   - **Blue Ocean Strategy** - About creating new markets, 7 Powers about
   defending them
-updated_at: 2026-03-24 20:12
+images:
+  - https://m.media-amazon.com/images/I/51u%2BO8j0d-L._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

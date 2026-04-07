@@ -1,17 +1,17 @@
 name: "The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt
   Disney Company"
-description: "A #1 New York Times bestseller memoir from Bob Iger, former CEO of
-  The Walt Disney Company. Iger shares leadership lessons from transforming
-  Disney into the largest media company in the world, with insights on major
-  acquisitions including Pixar, Marvel, Lucasfilm, and 21st Century Fox."
+description: Bob Iger shares Disney's revival through Pixar/Marvel acquisitions,
+  tech embrace, and global pushes, distilling principles like optimism and
+  curiosity for navigating crises. Founders apply tactics for bold M&A, talent
+  empowerment, and quality focus to avoid legacy traps like tech resistance. Vs
+  Elon Musk's intensity, it advocates balanced leadership; superb for
+  media/consumer inspiration and decisiveness training.
 source_url: https://thewaltdisneycompany.com/
 category: Biographies
 tags:
-  - Leadership
-  - CEO
-  - Disney
+  - founder-story
+  - leadership
   - M&A
-  - visionary-leadership
 featured: true
 markdown: >-
   ## Overview
@@ -129,4 +129,6 @@ markdown: >-
 
   Published by Random House in 2019.
 brand: Random House
-updated_at: 2026-03-21 19:45
+images:
+  - https://m.media-amazon.com/images/I/81v8+6U6G+L._AC_UF1000,1000_QL80_.jpg
+updated_at: 2026-04-07 10:46

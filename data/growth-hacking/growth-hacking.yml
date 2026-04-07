@@ -6,13 +6,9 @@ description: Spanish-language book on growth hacking that teaches a systematic,
   complementing frameworks like Scrum, Sprint, and Lean Startup to build
   high-performing, innovative companies.
 source_url: https://growwithward.com/growth-hacking-books/
-featured: false
-brand: amazon
-brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB485935611_.png
-images:
-  - https://m.media-amazon.com/images/I/41wq90ZzHoL._SX331_BO1,204,203,200_.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   ## Growth Hacking
 
@@ -58,4 +54,8 @@ markdown: |-
 
   ### Source
   - **More info:** https://growwithward.com/growth-hacking-books/
-updated_at: 2026-01-14 20:17
+brand: amazon
+brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB485935611_.png
+images:
+  - https://m.media-amazon.com/images/I/41wq90ZzHoL._SX331_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

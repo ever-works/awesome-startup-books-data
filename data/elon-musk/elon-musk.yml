@@ -1,12 +1,15 @@
 name: Elon Musk
-description: Walter Isaacson's definitive biography of the world's most
-  ambitious entrepreneur. Inside the mind of the man building electric cars,
-  reusable rockets, and brain-computer interfaces.
+description: Walter Isaacson's biography traces Elon Musk's founding of Tesla,
+  SpaceX, and more, imparting founder lessons on first-principles thinking,
+  extreme risk-taking, elite team assembly, and perseverance through
+  near-failures. Founders gain strategies for tackling ambitious goals, vertical
+  integration, and rapid iteration while avoiding siloed approaches. Highlights
+  tech innovation over traditional branding.
 source_url: https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284
 category: Biographies
 tags:
+  - founder-story
   - innovation
-  - first-principles
   - ambition
 featured: true
 markdown: >-
@@ -88,4 +91,4 @@ markdown: >-
 
   Available in hardcover, ebook, and audiobook formats.
 brand: Tesla
-updated_at: 2026-03-07 17:50
+updated_at: 2026-04-07 10:46

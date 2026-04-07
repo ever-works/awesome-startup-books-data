@@ -5,15 +5,12 @@ description: Randy Komisar’s book that teaches founders how to evolve their
   antilogs, metrics, and rapid iteration—making it a strong companion to lean
   and hypothesis-driven startup building.
 source_url: https://www.thriftbooks.com/w/getting-to-plan-b-breaking-through-to-a-better-business-model_randy-komisar_john-w-mullins/3256167/?srsltid=AfmBOormhbJs8_PjbQ3HJusjpJHhSv4B4hM-zXwe1MuLsWmKdPGfQ77y
-featured: false
-brand: ""
-brand_logo_url: /
-images: []
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - business-model
   - iteration
   - frameworks
+featured: false
 markdown: >
   # Getting to Plan B: Breaking Through to a Better Business Model
 
@@ -80,4 +77,7 @@ markdown: >
   - Iteration  
 
   - Frameworks
-updated_at: 2025-12-24 06:55
+brand: ""
+brand_logo_url: /
+images: []
+updated_at: 2026-04-07 10:46

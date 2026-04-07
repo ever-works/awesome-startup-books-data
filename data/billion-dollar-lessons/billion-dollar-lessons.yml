@@ -5,12 +5,9 @@ description: A collection and analysis of major corporate and startup failures
   and business models so they can avoid repeating costly mistakes while building
   their own startups.
 source_url: https://www.thriftbooks.com/w/billion-dollar-lessons-what-you-can-learn-from-the-most-inexcusable-business-failures-of-the-last-twenty-five-years_chunka-mui_paul-b-carroll/313377/?srsltid=AfmBOop_IQ9DV-vhqPpUNUJbymhtx5q8n5_ay03Z0jtNIB3k0dLFhxV-
-featured: false
-brand: amazon
-brand_logo_url: https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB613924727_.png
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   # Billion Dollar Lessons
 
@@ -68,4 +65,6 @@ markdown: |-
 
   ## Pricing
   Pricing is not specified in the provided content. For current pricing and formats, refer to the product listing on ThriftBooks or Amazon.
-updated_at: 2025-12-26 07:04
+brand: amazon
+brand_logo_url: https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB613924727_.png
+updated_at: 2026-04-07 10:46

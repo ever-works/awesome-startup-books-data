@@ -5,15 +5,12 @@ description: Eric Ries’s influential methodology book for startups, introducin
   viable products (MVPs) to help founders systematically test ideas and reduce
   waste while building successful companies.
 source_url: https://books.apple.com/us/audiobook/the-lean-startup-how-todays-entrepreneurs-use/id1417831445
-featured: false
-brand: eric-ries
-brand_logo_url: null
-images: null
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - lean
   - innovation
   - product-development
+featured: false
 markdown: |
   # The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 
@@ -60,4 +57,6 @@ markdown: |
   ## Pricing
   Pricing details are not provided in the available content. For current audiobook pricing, see the source:
   - [Apple Books listing](https://books.apple.com/us/audiobook/the-lean-startup-how-todays-entrepreneurs-use/id1417831445)
-updated_at: 2026-01-12 19:44
+brand: eric-ries
+brand_logo_url: null
+updated_at: 2026-04-07 10:46

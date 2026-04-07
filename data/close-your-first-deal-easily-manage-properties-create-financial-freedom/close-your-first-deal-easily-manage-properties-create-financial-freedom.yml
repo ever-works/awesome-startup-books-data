@@ -5,12 +5,9 @@ description: A business and real estate focused book available on Amazon that
   property investing, parts of it may be useful to founders interested in
   small-business and real-estate-based startup models.
 source_url: https://medium.com/the-design-vc/10-practical-startup-books-every-growth-obsessed-founder-should-read-in-2026-506a2b214621
-featured: false
-brand: amazon-kindle
-brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazon-logo_1x-a7e67b92._V2_.png
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >
   # Close Your First Deal, Easily Manage Properties, & Create Financial Freedom
 
@@ -72,4 +69,6 @@ markdown: >
   - Pricing details are not provided in the source content. The book is
   available for purchase via Amazon / Kindle, where the current price and
   formats (e.g., ebook, print) can be checked directly.
-updated_at: 2026-01-14 20:17
+brand: amazon-kindle
+brand_logo_url: https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazon-logo_1x-a7e67b92._V2_.png
+updated_at: 2026-04-07 10:46

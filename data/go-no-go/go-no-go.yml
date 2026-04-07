@@ -3,15 +3,12 @@ description: Lauri Harrison's book is a practical guide for entrepreneurs to
   evaluate their business ideas before launching. It provides a structured
   approach to assess the viability and potential success of startup concepts.
 source_url: https://www.goodreads.com/book/show/42956540-go-no-go
-featured: false
-brand_logo_url: null
-images:
-  - https://images.gr-assets.com/books/1542140135l/42956540.jpg
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - idea-validation
   - viability
   - launch
+featured: false
 markdown: >-
   ## Go. No Go.
 
@@ -70,4 +67,7 @@ markdown: >-
   ### Images
 
   ![Book Cover](https://images.gr-assets.com/books/1542140135l/42956540.jpg)
-updated_at: 2025-12-16 06:04
+brand_logo_url: null
+images:
+  - https://images.gr-assets.com/books/1542140135l/42956540.jpg
+updated_at: 2026-04-07 10:46

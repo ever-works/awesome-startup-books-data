@@ -3,16 +3,12 @@ description: A business and management book listed in the Penguin Random House
   catalog; while exact subject details are not shown, it is likely to contain
   strategy and leadership insights that can be valuable for startup founders.
 source_url: https://www.penguinrandomhouse.com/books/
-featured: false
-brand: penguin-random-house
-brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo-default.svg
-images:
-  - https://images.penguinrandomhouse.com/cover/9780143115434
-category: business-strategy
+category: Business Strategy
 tags:
   - business-strategy
   - management
   - insights
+featured: false
 markdown: |-
   # Ahead of the Curve
 
@@ -44,4 +40,8 @@ markdown: |-
 
   ## Pricing
   Pricing information is not provided in the available content. Users should check the Penguin Random House site or a bookseller for current pricing and formats (print, ebook, audio, etc.).
-updated_at: 2025-12-31 19:04
+brand: penguin-random-house
+brand_logo_url: https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo-default.svg
+images:
+  - https://images.penguinrandomhouse.com/cover/9780143115434
+updated_at: 2026-04-07 10:46

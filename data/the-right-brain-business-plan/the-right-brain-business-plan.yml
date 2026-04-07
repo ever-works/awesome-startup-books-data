@@ -4,15 +4,12 @@ description: Jennifer Lee's 'The Right-Brain Business Plan' offers a creative
   their path to success. The book combines creativity with practical business
   strategies, making it a unique resource for entrepreneurs.
 source_url: https://www.goodreads.com/book/show/10373612-the-right-brain-business-plan
-featured: false
-brand_logo_url: null
-images:
-  - https://images.gr-assets.com/books/1328327645l/10373612.jpg
-category: business-strategy
+category: Business Strategy
 tags:
   - creativity
   - business-planning
   - visualization
+featured: false
 markdown: |-
   ## The Right-Brain Business Plan
 
@@ -38,4 +35,7 @@ markdown: |-
   ---
 
   This markdown summary provides an overview of *The Right-Brain Business Plan*, highlighting its unique approach to combining creativity with business planning, making it an invaluable tool for entrepreneurs looking to innovate their strategies.
-updated_at: 2025-12-20 06:21
+brand_logo_url: null
+images:
+  - https://images.gr-assets.com/books/1328327645l/10373612.jpg
+updated_at: 2026-04-07 10:46

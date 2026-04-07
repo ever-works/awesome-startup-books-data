@@ -4,16 +4,12 @@ description: Written by Martell, this book is a guide for startup founders to
   prioritizing tasks, delegating responsibilities, and setting boundaries to
   create more time for personal and professional growth.
 source_url: https://www.linkedin.com/pulse/book-review-buy-back-your-time-get-unstuck-reclaim-freedom-salonen-9mvqc
-featured: false
-brand: portfolio
-brand_logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Portfolio_logo.svg/1200px-Portfolio_logo.svg.png
-images:
-  - https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg
-category: personal-development
+category: Personal Development
 tags:
   - work-life-balance
   - burnout
   - time-management
+featured: false
 markdown: |-
   ## Buy Back Your Time: Get Unstuck, Reclaim Your Freedom, and Build Your Empire
 
@@ -46,4 +42,8 @@ markdown: |-
 
   ### Brand Logo
   ![Portfolio Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Portfolio_logo.svg/1200px-Portfolio_logo.svg.png)
-updated_at: 2025-12-22 06:31
+brand: portfolio
+brand_logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Portfolio_logo.svg/1200px-Portfolio_logo.svg.png
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg
+updated_at: 2026-04-07 10:46

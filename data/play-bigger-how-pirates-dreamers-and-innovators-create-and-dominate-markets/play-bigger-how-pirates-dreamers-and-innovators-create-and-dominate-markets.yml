@@ -1,14 +1,15 @@
 name: "Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate
   Markets"
-description: The definitive guide to category design—creating new market
-  categories rather than competing in existing ones. Essential for founders who
-  want to dominate, not just compete.
+description: Category design framework urges founders to invent new markets via
+  POV narratives and lightning strikes, dominating as category kings like
+  Salesforce. Pivots from product competition to ecosystem mobilization; bolder
+  market creation vs Porter's existing industry battles.
 source_url: https://www.playbigger.com/book
 category: Business Strategy
 tags:
-  - strategy
   - category-design
   - market-dominance
+  - lightning-strike
 featured: true
 markdown: >-
   ## Overview
@@ -173,4 +174,6 @@ markdown: >-
   Published by Harper Business (HarperCollins) in 2016. ISBN: 978-0062407610.
   Available in hardcover, paperback, ebook, and audiobook formats.
 brand: Harper Business
-updated_at: 2026-03-10 12:13
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51%2B0%2B8r%2B0JL._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

@@ -5,14 +5,9 @@ description: Zero to CEO is a startup-focused book that guides founders through
   written as a practical, experience-based roadmap for aspiring and current
   startup founders.
 source_url: https://www.linkedin.com/posts/yuvalpassov_googleforstartups-startups-founderlife-activity-7378684140629602304-2Dlo
-featured: false
-brand: publisher-not-clearly-specified-from-snippet
-brand_logo_url: /unknown/
-images:
-  - https://m.media-amazon.com/images/I/71FQW7W+VVL._SL1500_.jpg
-  - https://m.media-amazon.com/images/I/81b5hP2Fv-L._SL1500_.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: |-
   # Zero to CEO
 
@@ -45,4 +40,9 @@ markdown: |-
 
   ## Pricing
   Pricing information is not provided in the available content.
-updated_at: 2026-01-14 20:17
+brand: publisher-not-clearly-specified-from-snippet
+brand_logo_url: /unknown/
+images:
+  - https://m.media-amazon.com/images/I/71FQW7W+VVL._SL1500_.jpg
+  - https://m.media-amazon.com/images/I/81b5hP2Fv-L._SL1500_.jpg
+updated_at: 2026-04-07 10:46

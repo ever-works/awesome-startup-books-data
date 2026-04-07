@@ -4,16 +4,12 @@ description: "The Lean Product Playbook: How to Innovate with Minimum Viable
   founders on how to apply lean principles to product development, ensuring that
   products meet customer needs effectively."
 source_url: https://www.goodreads.com/book/show/23368876-the-lean-product-playbook
-featured: false
-brand: wiley
-brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wiley_logo.svg/1200px-Wiley_logo.svg.png
-images:
-  - https://images.gr-assets.com/books/1429787374l/23368876.jpg
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - lean
   - product-development
   - customer-feedback
+featured: false
 markdown: |-
   ## The Lean Product Playbook
 
@@ -47,4 +43,8 @@ markdown: |-
   ---
 
   Note: Pricing information for _The Lean Product Playbook_ is not available in the provided content.
-updated_at: 2025-12-20 06:21
+brand: wiley
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wiley_logo.svg/1200px-Wiley_logo.svg.png
+images:
+  - https://images.gr-assets.com/books/1429787374l/23368876.jpg
+updated_at: 2026-04-07 10:46

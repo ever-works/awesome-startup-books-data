@@ -4,14 +4,9 @@ description: A communication and performance book by Michael Port that teaches
   startup founders who must pitch investors, sell to customers, and lead teams;
   it focuses on structuring and delivering persuasive messages under pressure.
 source_url: https://www.marketingforowners.com/books/
-featured: false
-brand: ""
-brand_logo_url: /
-images:
-  - https://m.media-amazon.com/images/I/41kOKfLPrNL._SX331_BO1,204,203,200_.jpg
-  - https://m.media-amazon.com/images/I/51wF5e6UG9L.jpg
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   ---
 
@@ -83,4 +78,9 @@ markdown: >-
 
   Pricing information is not provided on the source page; the book is available
   through standard book retailers (e.g., Amazon, other online booksellers).
-updated_at: 2025-12-26 07:04
+brand: ""
+brand_logo_url: /
+images:
+  - https://m.media-amazon.com/images/I/41kOKfLPrNL._SX331_BO1,204,203,200_.jpg
+  - https://m.media-amazon.com/images/I/51wF5e6UG9L.jpg
+updated_at: 2026-04-07 10:46

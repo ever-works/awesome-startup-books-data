@@ -5,14 +5,12 @@ description: Eric Ries is a prominent author on startup methodology, best known
   and scaling startups. His work is considered must-read material for startup
   founders seeking a systematic approach to innovation and product development.
 source_url: https://www.goodreads.com/author/show/140632.Eric_Ries
-featured: false
-brand_logo_url: null
-images: null
-category: startup-methodologies
+category: Startup Methodologies
 tags:
   - lean
   - startup
   - innovation
+featured: false
 markdown: >-
   # Eric Ries
 
@@ -63,4 +61,5 @@ markdown: >-
   ## Pricing
 
   Not applicable (author / methodology, no pricing information provided).
-updated_at: 2025-12-31 19:04
+brand_logo_url: null
+updated_at: 2026-04-07 10:46

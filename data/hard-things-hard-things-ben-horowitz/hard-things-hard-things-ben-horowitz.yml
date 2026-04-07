@@ -1,14 +1,18 @@
 name: "The Hard Thing About Hard Things: Building a Business When There Are No
   Easy Answers"
-description: Ben Horowitz's brutally honest guide to navigating the toughest
-  decisions in building and running a startup, from layoffs to selling your
-  company, drawn from his experience as co-founder of Andreessen Horowitz.
+description: The Hard Thing About Hard Things arms founders with raw leadership
+  lessons on surviving crises, layoffs, and peacetime vs wartime CEO transitions
+  for resilient team building. Key principles include taking care of people
+  first, grudgingly giving ground, and managing the struggle without excuses. Vs
+  High Output Management, it confronts emotional realities and no-easy-answers
+  decisions over systematic leverage.
 source_url: https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205
 category: Leadership & Management
 tags:
   - leadership
   - tough-decisions
   - management
+  - team-leadership
 featured: true
 markdown: >-
   ## Overview
@@ -97,4 +101,6 @@ markdown: >-
 
 
   Available at major retailers for approximately $18-30.
-updated_at: 2026-03-22 19:54
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51gVaoaJ0wL._SX329_BO1,204,203,200_.jpg
+updated_at: 2026-04-07 10:46

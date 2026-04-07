@@ -5,12 +5,9 @@ description: A tactical playbook for bootstrapping and scaling a successful SaaS
   sustainable, profitable growth—making it highly relevant for startup founders,
   especially in software and SaaS.
 source_url: https://saasplaybook.com/
-featured: false
-brand: amazon
-brand_logo_url: https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB613924727_.png
-images: null
-category: biographies
+category: Biographies
 tags: []
+featured: false
 markdown: >-
   # The SaaS Playbook
 
@@ -144,4 +141,6 @@ markdown: >-
   - Pricing details are not provided in the supplied content. The book is sold
   via Amazon; current price and formats (e.g., paperback, Kindle, audiobook)
   should be checked on the Amazon product page.
-updated_at: 2025-12-26 07:04
+brand: amazon
+brand_logo_url: https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUIBaseCSS-amazonlogo._CB613924727_.png
+updated_at: 2026-04-07 10:46
