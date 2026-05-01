@@ -31,9 +31,13 @@ metadata:
     target_keywords: []
     repository_description: ""
     providers:
-      pipeline: claude-code
+      pipeline: agent-pipeline
+      search: tavily
+      ai: openrouter
+      contentExtractor: local-content-extractor
     pluginConfig:
       target_items: 50
       capture_screenshots: false
+      max_pages_to_process: 20
     _processedPluginConfig: {}
-version: 0.1.8
+version: 0.1.9
