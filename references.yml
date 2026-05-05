@@ -1,0 +1,124 @@
+- url: https://divbyzero.com/blog/best-startup-books/
+  normalized_url: https://divbyzero.com/blog/best-startup-books
+  first_seen_at: 2026-05-05T20:08:01.932Z
+  last_attempted_at: 2026-05-05T20:08:01.932Z
+  last_success_at: 2026-05-05T20:08:01.932Z
+  status: success
+  items_created: 5
+  pipeline: agent-pipeline
+- url: https://medium.com/@jurgenappelo/top-150-books-for-startup-founders-and-entrepreneurs-a0f46490dfa
+  normalized_url: https://medium.com/@jurgenappelo/top-150-books-for-startup-founders-and-entrepreneurs-a0f46490dfa
+  first_seen_at: 2026-05-05T19:57:35.333Z
+  last_attempted_at: 2026-05-05T19:57:35.333Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://news.ycombinator.com/item?id=41545633
+  normalized_url: https://news.ycombinator.com/item?id=41545633
+  first_seen_at: 2026-05-05T20:29:02.408Z
+  last_attempted_at: 2026-05-05T20:29:02.408Z
+  last_success_at: 2026-05-05T20:29:02.408Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://relayfi.com/blog/best-entrepreneur-books/
+  normalized_url: https://relayfi.com/blog/best-entrepreneur-books
+  first_seen_at: 2026-05-05T20:23:38.870Z
+  last_attempted_at: 2026-05-05T20:23:38.870Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://review.firstround.com/summer-book-recommendations-from-the-smartest-people-we-know/
+  normalized_url: https://review.firstround.com/summer-book-recommendations-from-the-smartest-people-we-know
+  first_seen_at: 2026-05-05T20:38:40.841Z
+  last_attempted_at: 2026-05-05T20:38:40.841Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.amazon.com/Best-Sellers-Startups/zgbs/digital-text/8493731011
+  normalized_url: https://www.amazon.com/Best-Sellers-Startups/zgbs/digital-text/8493731011
+  first_seen_at: 2026-05-05T20:42:01.766Z
+  last_attempted_at: 2026-05-05T20:42:01.766Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.briansnotes.io/reading-list/hacker-news-and-y-combinator-books/
+  normalized_url: https://www.briansnotes.io/reading-list/hacker-news-and-y-combinator-books
+  first_seen_at: 2026-05-05T20:17:03.770Z
+  last_attempted_at: 2026-05-05T20:17:03.770Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.goodreads.com/list/show/108891.Most_Important_Books_for_Startup_Founders
+  normalized_url: https://www.goodreads.com/list/show/108891.Most_Important_Books_for_Startup_Founders
+  first_seen_at: 2026-05-05T20:26:41.092Z
+  last_attempted_at: 2026-05-05T20:26:41.092Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.goodreads.com/list/show/42447.Essential_Reading_for_Startup_Founders
+  normalized_url: https://www.goodreads.com/list/show/42447.Essential_Reading_for_Startup_Founders
+  first_seen_at: 2026-05-05T19:55:24.511Z
+  last_attempted_at: 2026-05-05T19:55:24.511Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.linkedin.com/posts/yrebryk_top-15-books-for-startup-founders-recommended-activity-7355968875466833922-v4KA
+  normalized_url: https://www.linkedin.com/posts/yrebryk_top-15-books-for-startup-founders-recommended-activity-7355968875466833922-v4KA
+  first_seen_at: 2026-05-05T20:13:37.032Z
+  last_attempted_at: 2026-05-05T20:13:37.032Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.scribd.com/document/1005454768/50-Books-Every-Entrepreneur-Should-Read-List
+  normalized_url: https://www.scribd.com/document/1005454768/50-Books-Every-Entrepreneur-Should-Read-List
+  first_seen_at: 2026-05-05T20:36:07.765Z
+  last_attempted_at: 2026-05-05T20:36:07.765Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.startups.com/articles/19-startup-books-every-founder-should-have
+  normalized_url: https://www.startups.com/articles/19-startup-books-every-founder-should-have
+  first_seen_at: 2026-05-05T20:10:23.790Z
+  last_attempted_at: 2026-05-05T20:10:23.790Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://www.techstars.com/blog/advice/books-for-entrepreneurs
+  normalized_url: https://www.techstars.com/blog/advice/books-for-entrepreneurs
+  first_seen_at: 2026-05-05T20:32:37.242Z
+  last_attempted_at: 2026-05-05T20:32:37.242Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice
+  normalized_url: https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice
+  first_seen_at: 2026-05-05T20:20:13.770Z
+  last_attempted_at: 2026-05-05T20:20:13.770Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
