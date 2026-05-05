@@ -1,9 +1,0 @@
-name: Awesome Startup Books
-initial_prompt: Directory of best books for Startups Founders, e.g. "Zero to
-  One" etc, ALL MUST READ BOOKS!
-providers:
-  pipeline: agent-pipeline
-  search: tavily
-  ai: openrouter
-  contentExtractor: local-content-extractor
-website_repo: ever-works/awesome-startup-books-website
