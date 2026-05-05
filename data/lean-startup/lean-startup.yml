@@ -1,74 +1,52 @@
 name: Lean Startup
-description: A foundational methodology book for startup founders that focuses
-  on validated learning, rapid experimentation, and iterative product
-  development. Frequently referenced as a core framework for building and
-  scaling startups efficiently, it is considered a must-read for entrepreneurs
-  and innovators.
-source_url: https://theleanstartup.com/the-lean-series
-category: Biographies
+description: Eric Ries introduces the Lean Startup methodology, advocating for
+  validated learning, rapid experimentation, and iterative product development
+  to build sustainable businesses with minimal waste.
+source_url: https://amzn.to/3VPkGhG
+category: Startup Methodologies
 tags:
   - lean
-  - experimentation
-  - product-development
+  - methodology
+  - entrepreneurship
 featured: false
 markdown: >-
-  ## Lean Startup
+  ## Overview
 
 
-  **Category:** Biographies  
-
-  **Tags:** lean, experimentation, product-development
-
-
-  ### Overview
-
-  The *Lean Startup* is a foundational methodology book for startup founders,
-  entrepreneurs, and innovators. It emphasizes validated learning, rapid
-  experimentation, and iterative product development as a systematic way to
-  build and scale startups more efficiently and with less waste.
+  The Lean Startup presents a scientific approach to creating and managing
+  startups, emphasizing customer feedback, iterative design, and validated
+  learning to reduce market risk and avoid building products nobody wants.
 
 
-  ### Features
+  ## Key Takeaways
 
-  - **Validated learning:** Focuses on learning what customers actually want
-  through data and real-world tests rather than assumptions.
+  - Build-Measure-Learn feedback loop: create MVPs, test with customers, and
+  iterate based on feedback.
 
-  - **Rapid experimentation:** Encourages quickly testing ideas and hypotheses
-  to reduce risk and discover what works.
+  - Validated learning: use actionable metrics to demonstrate progress.
 
-  - **Iterative product development:** Promotes building products in small,
-  incremental cycles to adapt based on feedback.
+  - Innovation accounting: measure productivity, set milestones, and prioritize
+  work.
 
-  - **Implementation-level guidance:** Provides practical, actionable details on
-  how to apply Lean principles in real startups.
+  - Pivot or persevere: decide whether to change direction or stay the course
+  based on learning.
 
-  - **Efficiency in building and scaling:** Offers a framework for using
-  resources more effectively while growing a startup.
-
-  - **Applicability across roles:** Useful for founders, product teams, and
-  innovators working on new products or business models.
+  - Continuous deployment: release frequently to learn quickly.
 
 
-  ### Related Series
+  ## Details
 
-  The book sits within **The Lean Series**, a collection curated by Eric Ries,
-  which includes:
+  - Pages: 334
 
-  - Lean Analytics  
+  - Price: $9.99
 
-  - Running Lean  
-
-  - Lean UX  
-
-  - UX for Lean Startups  
-
-  - Lean Enterprise
+  - Published: 2011
 
 
-  ### Pricing
+  ## Why Read It
 
-  Pricing is not specified in the provided content; it depends on retailer and
-  format (e.g., print, digital).
-brand: ""
-brand_logo_url: /
-updated_at: 2026-04-07 10:46
+  Provides a practical framework for startups to increase their chances of
+  success by focusing on learning, adapting, and delivering value to customers
+  efficiently.
+brand: Eric Ries
+updated_at: 2026-05-05 20:42
