@@ -68,10 +68,28 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://www.goodreads.com/list/show/147655.Best_Books_for_Startups_Founders
+  normalized_url: https://www.goodreads.com/list/show/147655.Best_Books_for_Startups_Founders
+  first_seen_at: 2026-05-06T19:51:56.562Z
+  last_attempted_at: 2026-05-06T19:51:56.562Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://www.goodreads.com/list/show/42447.Essential_Reading_for_Startup_Founders
   normalized_url: https://www.goodreads.com/list/show/42447.Essential_Reading_for_Startup_Founders
   first_seen_at: 2026-05-05T19:55:24.511Z
   last_attempted_at: 2026-05-05T19:55:24.511Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.landonhowell.com/books
+  normalized_url: https://www.landonhowell.com/books
+  first_seen_at: 2026-05-06T19:57:07.556Z
+  last_attempted_at: 2026-05-06T19:57:07.556Z
   status: empty
   items_created: 0
   pipeline: agent-pipeline
@@ -95,6 +113,14 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://www.startupbos.org/post/books-every-startup-founder-should-read
+  normalized_url: https://www.startupbos.org/post/books-every-startup-founder-should-read
+  first_seen_at: 2026-05-06T19:55:06.877Z
+  last_attempted_at: 2026-05-06T19:55:06.877Z
+  last_success_at: 2026-05-06T19:55:06.877Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://www.startups.com/articles/19-startup-books-every-founder-should-have
   normalized_url: https://www.startups.com/articles/19-startup-books-every-founder-should-have
   first_seen_at: 2026-05-05T20:10:23.790Z
