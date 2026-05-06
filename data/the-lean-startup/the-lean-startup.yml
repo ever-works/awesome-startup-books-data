@@ -1,27 +1,31 @@
 name: The Lean Startup
-description: A seminal guide for entrepreneurs introducing a systematic,
-  scientific approach to creating and managing successful startups in an age of
-  uncertainty. The book emphasizes validated learning, rapid experimentation,
-  and iterative product releases to shorten development cycles.
-source_url: https://theleanstartup.com/
+description: The Lean Startup offers a practical and systematic approach to
+  building companies that are more capital efficient, customer-centric and
+  adaptable. It provides insights and strategies for navigating the
+  unpredictable journey of startup entrepreneurship, emphasizing validated
+  learning, rapid experimentation, and iterative product releases.
+source_url: https://en.wikipedia.org/wiki/The_Lean_Startup
 category: Startup Methodologies
 tags:
-  - entrepreneurship
+  - lean
   - startup
-  - innovation
+  - methodology
 featured: false
 markdown: >-
   ## Overview
 
 
-  The Lean Startup by Eric Ries introduces a methodology for developing
-  businesses and products that aims to shorten product development cycles and
-  rapidly discover if a proposed business model is viable. This is achieved
-  through a combination of hypothesis-driven experimentation, iterative product
-  releases, and validated learning.
+  The Lean Startup is a methodology for developing businesses and products that
+  aims to shorten product development cycles and rapidly discover if a proposed
+  business model is viable. This is achieved through a combination of
+  business-hypothesis-driven experimentation, iterative product releases, and
+  validated learning.
 
 
-  ## Key Takeaways
+  ## Features
+
+
+  - Emphasis on validated learning through experiments
 
   - Build-Measure-Learn feedback loop
 
@@ -29,13 +33,17 @@ markdown: >-
 
   - Continuous deployment and split testing
 
-  - Actionable metrics vs. vanity metrics
+  - Actionable metrics vs vanity metrics
 
-  - Pivot or persevere decisions based on learning
+  - Pivot or persevere decisions based on feedback
 
 
   ## Pricing
 
 
-  Typically priced between $15-$30 for paperback and $10-$20 for Kindle edition.
-updated_at: 2026-05-01 20:28
+  The book is available for purchase in various formats; pricing varies by
+  retailer.
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-05-06 19:57
