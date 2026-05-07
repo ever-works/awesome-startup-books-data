@@ -545,7 +545,7 @@
 - id: career
   name: Career
 - id: business
-  name: business
+  name: Business
 - id: science
   name: Science
 - id: quality
@@ -1280,3 +1280,11 @@
   name: Methodology
 - id: checklist
   name: Checklist
+- id: founder-led
+  name: Founder Led
+- id: playbook
+  name: Playbook
+- id: market-validation
+  name: Market Validation
+- id: actionable
+  name: Actionable

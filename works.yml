@@ -40,15 +40,15 @@ metadata:
       capture_screenshots: false
       max_pages_to_process: 20
     _processedPluginConfig: {}
-version: 0.1.11
+version: 0.1.12
 name: Awesome Startup Books
 initial_prompt: Directory of best books for Startups Founders, e.g. "Zero to
   One" etc, ALL MUST READ BOOKS!
 providers:
-  contentExtractor: local-content-extractor
   pipeline: agent-pipeline
-  ai: openrouter
   search: tavily
+  ai: openrouter
+  contentExtractor: local-content-extractor
 website_repo: ever-works/awesome-startup-books-website
 schedule:
   enabled: true
