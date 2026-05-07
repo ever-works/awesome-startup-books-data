@@ -267,7 +267,7 @@
 - id: product-management
   name: Product Management
 - id: process
-  name: process
+  name: Process
 - id: problem-solving
   name: Problem Solving
 - id: growth-hacking
@@ -1288,3 +1288,11 @@
   name: Market Validation
 - id: actionable
   name: Actionable
+- id: technology-adoption
+  name: Technology Adoption
+- id: market-segmentation
+  name: Market Segmentation
+- id: maslow
+  name: Maslow
+- id: disruptive-innovation
+  name: Disruptive Innovation

@@ -15,6 +15,24 @@
   pipeline: agent-pipeline
   error: "Processing failed for URL:
     https://blog.hubspot.com/marketing/best-books-for-entrepreneurs"
+- url: https://bobbypowers.com/best-books-entrepreneurship/
+  normalized_url: https://bobbypowers.com/best-books-entrepreneurship
+  first_seen_at: 2026-05-07T23:08:04.059Z
+  last_attempted_at: 2026-05-07T23:08:04.059Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://bobbypowers.com/best-books-entrepreneurship/"
+- url: https://chrisneumann.com/archives/10-books-every-founder-should-read
+  normalized_url: https://chrisneumann.com/archives/10-books-every-founder-should-read
+  first_seen_at: 2026-05-07T23:13:10.508Z
+  last_attempted_at: 2026-05-07T23:13:10.508Z
+  last_success_at: 2026-05-07T23:13:10.508Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
 - url: https://divbyzero.com/blog/best-startup-books/
   normalized_url: https://divbyzero.com/blog/best-startup-books
   first_seen_at: 2026-05-05T20:08:01.932Z
@@ -42,6 +60,17 @@
   status: success
   items_created: 1
   pipeline: agent-pipeline
+- url: https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-reading-list-books-2024
+  normalized_url: https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-reading-list-books-2024
+  first_seen_at: 2026-05-07T23:20:01.973Z
+  last_attempted_at: 2026-05-07T23:20:01.973Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-reading-list-books-\
+    2024"
 - url: https://news.ycombinator.com/item?id=41545633
   normalized_url: https://news.ycombinator.com/item?id=41545633
   first_seen_at: 2026-05-05T20:29:02.408Z
@@ -71,6 +100,14 @@
   error: "No items retrieved from URL:
     https://review.firstround.com/summer-book-recommendations-from-the-smartest\
     -people-we-know/"
+- url: https://startup.club/startup-clubs-ultimate-25-must-read-books-for-aspiring-entrepreneurs-in-2025/
+  normalized_url: https://startup.club/startup-clubs-ultimate-25-must-read-books-for-aspiring-entrepreneurs-in-2025
+  first_seen_at: 2026-05-07T23:16:30.829Z
+  last_attempted_at: 2026-05-07T23:16:30.829Z
+  last_success_at: 2026-05-07T23:16:30.829Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
 - url: https://visible.vc/blog/books-for-founders/
   normalized_url: https://visible.vc/blog/books-for-founders
   first_seen_at: 2026-05-07T22:51:27.966Z
@@ -90,6 +127,16 @@
   provider: Local (Readability)
   error: "No items retrieved from URL:
     https://www.amazon.com/Best-Sellers-Startups/zgbs/digital-text/8493731011"
+- url: https://www.boxpiper.com/posts/top-100-books-to-read-by-founders
+  normalized_url: https://www.boxpiper.com/posts/top-100-books-to-read-by-founders
+  first_seen_at: 2026-05-07T23:38:31.785Z
+  last_attempted_at: 2026-05-07T23:38:31.785Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.boxpiper.com/posts/top-100-books-to-read-by-founders"
 - url: https://www.briansnotes.io/reading-list/hacker-news-and-y-combinator-books/
   normalized_url: https://www.briansnotes.io/reading-list/hacker-news-and-y-combinator-books
   first_seen_at: 2026-05-05T20:17:03.770Z
@@ -100,6 +147,17 @@
   provider: Local (Readability)
   error: "No items retrieved from URL:
     https://www.briansnotes.io/reading-list/hacker-news-and-y-combinator-books/"
+- url: https://www.forbes.com/sites/christianstadler/2024/01/02/the-ten-best-business-books-of-2023/
+  normalized_url: https://www.forbes.com/sites/christianstadler/2024/01/02/the-ten-best-business-books-of-2023
+  first_seen_at: 2026-05-07T23:42:50.618Z
+  last_attempted_at: 2026-05-07T23:42:50.618Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.forbes.com/sites/christianstadler/2024/01/02/the-ten-best-busin\
+    ess-books-of-2023/"
 - url: https://www.goodreads.com/list/show/108891.Most_Important_Books_for_Startup_Founders
   normalized_url: https://www.goodreads.com/list/show/108891.Most_Important_Books_for_Startup_Founders
   first_seen_at: 2026-05-05T20:26:41.092Z
@@ -132,6 +190,14 @@
   error: "No items retrieved from URL:
     https://www.goodreads.com/list/show/42447.Essential_Reading_for_Startup_Fou\
     nders"
+- url: https://www.inc.com/business-insider/best-books-for-entrepreneurs.html
+  normalized_url: https://www.inc.com/business-insider/best-books-for-entrepreneurs.html
+  first_seen_at: 2026-05-07T23:32:27.861Z
+  last_attempted_at: 2026-05-07T23:32:27.861Z
+  last_success_at: 2026-05-07T23:32:27.861Z
+  status: success
+  items_created: 6
+  pipeline: agent-pipeline
 - url: https://www.landonhowell.com/books
   normalized_url: https://www.landonhowell.com/books
   first_seen_at: 2026-05-06T19:57:07.556Z
@@ -192,6 +258,17 @@
   provider: Local (Readability)
   error: "No items retrieved from URL:
     https://www.techstars.com/blog/advice/books-for-entrepreneurs"
+- url: https://www.tractionkeys.com/post/5-best-startup-books-for-entrepreneurs-in-2024
+  normalized_url: https://www.tractionkeys.com/post/5-best-startup-books-for-entrepreneurs-in-2024
+  first_seen_at: 2026-05-07T23:35:41.504Z
+  last_attempted_at: 2026-05-07T23:35:41.504Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.tractionkeys.com/post/5-best-startup-books-for-entrepreneurs-in\
+    -2024"
 - url: https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice
   normalized_url: https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice
   first_seen_at: 2026-05-05T20:20:13.770Z
