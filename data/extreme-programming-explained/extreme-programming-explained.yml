@@ -1,32 +1,40 @@
 name: Extreme Programming Explained
-description: Tutorial by Kent Beck, a pioneer of Agile, on Extreme Programming
-  (XP). Explains values, principles, and practices essential for implementing
-  Agile Development, making Customer Development feasible in startups.
-source_url: https://pragprog.com/titles/jbeck/xpe3/
+description: '"Extreme Programming Explained" by Kent Beck is described by Babak
+  Nivi (founder of AngelList and Venture Hacks) as revelatory. The book
+  advocates developing products using extreme programming practices unless the
+  founder has specific superior experience.'
+source_url: http://www.amazon.com/gp/product/0321278658/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321278658&linkCode=as2&tag=bibooklists-20&linkId=ULI7S667BCFGT3G2
 category: Startup Methodologies
 tags:
   - agile
-  - extreme-programming
   - software-development
+  - methodology
 featured: false
 markdown: >-
   ## Overview
 
 
-  Extreme Programming Explained provides a tutorial on XP, one of the pioneers
-  of Agile Development.
+  "Extreme Programming Explained" introduces Extreme Programming (XP), an agile
+  software development methodology aimed at improving software quality and
+  responsiveness to changing customer requirements.
 
 
-  ## Features
+  ## Key Insights from Recommender
 
 
-  - Values, Principles and Practices in XP
+  - Described as "revelatory."
 
-  - Supports Customer Development processes in startups
+  - "Develop your product like this book tells you to, unless you know better
+  (e.g. you have experience building operating systems, space shuttles,
+  Googles)" – Babak Nivi
+
+  - Recommends buying the first edition.
 
 
-  ## Pricing
+  ## Relevance to Startups
 
 
-  Available for purchase from publisher.
-updated_at: 2026-04-07 10:46
+  For startup founders involved in product development, XP offers practices like
+  test‑driven development, continuous integration, and frequent releases that
+  can help build software efficiently and adapt to market feedback.
+updated_at: 2026-05-07 23:43

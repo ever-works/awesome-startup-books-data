@@ -1,49 +1,48 @@
-name: The Lean Startup
-description: The Lean Startup offers a practical and systematic approach to
-  building companies that are more capital efficient, customer-centric and
-  adaptable. It provides insights and strategies for navigating the
-  unpredictable journey of startup entrepreneurship, emphasizing validated
-  learning, rapid experimentation, and iterative product releases.
-source_url: https://en.wikipedia.org/wiki/The_Lean_Startup
+name: "The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to
+  Create Radically Successful Businesses"
+description: A foundational book for startup founders that introduces the lean
+  startup methodology, emphasizing validated learning, rapid experimentation,
+  and iterative product development to build successful businesses under
+  uncertainty.
+source_url: https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898
 category: Startup Methodologies
 tags:
   - lean
-  - startup
-  - methodology
+  - entrepreneurship
+  - innovation
 featured: false
 markdown: >-
   ## Overview
 
 
-  The Lean Startup is a methodology for developing businesses and products that
-  aims to shorten product development cycles and rapidly discover if a proposed
-  business model is viable. This is achieved through a combination of
-  business-hypothesis-driven experimentation, iterative product releases, and
-  validated learning.
+  The Lean Startup presents a scientific approach to creating and managing
+  startups, focusing on customer feedback, iterative design, and validated
+  learning.
 
 
-  ## Features
-
-
-  - Emphasis on validated learning through experiments
+  ## Key Concepts
 
   - Build-Measure-Learn feedback loop
 
-  - Minimum Viable Product (MVP) concept
+  - Minimum Viable Product (MVP)
 
-  - Continuous deployment and split testing
+  - Validated learning through experiments
 
-  - Actionable metrics vs vanity metrics
+  - Innovation accounting
 
-  - Pivot or persevere decisions based on feedback
+  - Pivot or persevere decisions
+
+
+  ## Audience
+
+  Ideal for entrepreneurs, product managers, and anyone looking to launch a new
+  venture or innovate within an existing company.
 
 
   ## Pricing
 
 
-  The book is available for purchase in various formats; pricing varies by
-  retailer.
-brand: ""
-brand_logo_url: ""
-images: []
-updated_at: 2026-05-06 19:57
+  Pricing varies by edition and retailer; typically ranges from $10 to $30 for
+  paperback and Kindle editions.
+brand: Eric Ries
+updated_at: 2026-05-07 23:43

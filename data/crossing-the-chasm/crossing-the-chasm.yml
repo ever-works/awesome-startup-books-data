@@ -1,59 +1,46 @@
 name: Crossing the Chasm
-description: Geoffrey A. Moore's classic book on marketing in high-tech
-  industries, focusing on the challenges of transitioning from early adopters to
-  a mainstream market.
-source_url: https://www.geoffreyamoore.com/
-featured: false
-category: marketing-sales
+description: Originally published in 1991, Crossing the Chasm was one of the
+  first mainstream business books to focus on the different stages of technology
+  product adoption. The book is based on the technology adoption lifecycle, a
+  model that describes the adoption or acceptance of a new product or innovation
+  by different segments of the market. Its particular focus is on the 'chasm'
+  that exists between early adopters of a new innovation and the majority of the
+  market. While the original edition of Crossing the Chasm is more than 30 years
+  old, its framework is as relevant today as when it was first published.
+source_url: https://www.geoffreyamoore.com/books/crossing-the-chasm/
+category: Business Strategy
 tags:
-  - marketing
-  - high-tech
-  - mainstream
+  - technology adoption
+  - market segmentation
+  - startup
+featured: false
 markdown: >-
-  ## Crossing the Chasm
+  ## Overview
 
 
-  **Author:** Geoffrey A. Moore  
-
-  **Category:** Marketing & Sales  
-
-  **Tags:** Marketing, High-Tech, Mainstream  
+  Crossing the Chasm is a seminal work on technology adoption and market
+  segmentation, introducing the concept of the "chasm" between early adopters
+  and the early majority.
 
 
-  ### Description
-
-  "Crossing the Chasm" by Geoffrey A. Moore is a seminal work that addresses the
-  challenges faced by high-tech companies as they attempt to transition from
-  early adopters to a mainstream market. It provides insights into the unique
-  characteristics of high-tech marketing and offers strategic advice for
-  navigating these challenges successfully.
+  ## Key Concepts
 
 
-  ### Features
+  - Technology adoption lifecycle model
 
-  - **Focus on Market Dynamics:** Provides a comprehensive understanding of how
-  disruptive innovations impact traditional organizations and management.
+  - Early adopters vs. early majority
 
-  - **Positioning Strategies:** Offers tactics for start-ups and high-tech
-  enterprises to position themselves effectively in a competitive landscape.
+  - Strategies for crossing the chasm
 
-  - **Mainstream Market Transition:** Addresses the hurdles in moving from early
-  adopters to a broader audience, providing actionable strategies for success.
+  - Importance of targeting a niche market
 
-  - **Real-World Examples:** Includes case studies and examples from various
-  industries to illustrate key concepts and strategies.
+  - Whole product concept
 
 
-  ### Author Insights
-
-  Geoffrey A. Moore is an expert in industry trends, known for his work on
-  disruptive innovation. His expertise is shared through workshops, talks, and
-  advisory sessions, providing valuable insights to help companies navigate the
-  complexities of market dynamics.
+  ## Pricing
 
 
-  ### Source
-
-  For more information, visit the [official website of Geoffrey A.
-  Moore](https://www.geoffreyamoore.com/).
-updated_at: 2025-11-07 18:15
+  Price varies by retailer and edition; typically available in paperback,
+  hardcover, and e-book formats.
+images: []
+updated_at: 2026-05-07 23:43
