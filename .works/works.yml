@@ -58,6 +58,11 @@ settings:
     hero_title: The Best Books for
     hero_title_gradient: Startup Founders
     hero_description: A curated directory of books on business strategy, fundraising, growth, leadership, marketing, product and customer development — plus founder biographies — organized by topic so you can pick the right read for the stage you're at.
+  monetization:
+    sponsor_ads:
+      currency: USD
+      weekly_price: 100
+      monthly_price: 300
 logo:
   logo_image: https://raw.githubusercontent.com/ever-works/awesome-startup-books-data/master/pages/logo-light.png
   logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-startup-books-data/master/pages/logo-dark.png
