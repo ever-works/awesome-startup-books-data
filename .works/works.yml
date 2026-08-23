@@ -66,3 +66,5 @@ settings:
 logo:
   logo_image: https://raw.githubusercontent.com/ever-works/awesome-startup-books-data/master/pages/logo-light.png
   logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-startup-books-data/master/pages/logo-dark.png
+auth:
+  credentials: true
